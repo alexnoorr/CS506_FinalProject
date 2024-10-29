@@ -45,3 +45,16 @@ avg_resolution_time_by_queue_neighborhood.columns = ['Queue', 'Neighborhood', 'A
 # Display the average resolution time by queue and neighborhood
 print(avg_resolution_time_by_queue_neighborhood)
 
+
+# Pivot the data for heatmap; using median resolution time for each queue and neighborhood
+pivot_table = df.pivot_table(index='queue', columns='neighborhood', values='resolution_time', aggfunc=np.median)
+
+# Visualization: Heatmap of median resolution times
+plt.figure(figsize=(14, 10))
+sns.heatmap(pivot_table, annot=True, fmt=".1f", cmap="YlGnBu", linewidths=.5)
+plt.title('Median Resolution Times by Queue and Neighborhood')
+plt.ylabel('Queue')
+plt.xlabel('Neighborhood')
+plt.xticks(rotation=45)  # Rotate neighborhood labels to avoid overlap
+plt.tight_layout()  # Adjust layout to make room for label rotation
+plt.show()
