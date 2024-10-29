@@ -41,3 +41,13 @@ avg_resolution_time_by_queue.columns = ['Queue', 'Average Resolution Time (days)
 
 # Display the average resolution time by queue
 print(avg_resolution_time_by_queue)
+
+# Visualization: Box plot of resolution times by queue
+plt.figure(figsize=(12, 8))
+sns.boxplot(x='queue', y='resolution_time', data=df)
+plt.xticks(rotation=45)  # Rotate labels to avoid overlap
+plt.title('Distribution of Resolution Times by Queue')
+plt.ylabel('Resolution Time (days)')
+plt.xlabel('Queue')
+plt.tight_layout()  # Adjust layout to make room for label rotation
+plt.show()
