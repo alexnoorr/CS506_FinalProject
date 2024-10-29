@@ -42,3 +42,15 @@ no_data_percentage = (no_data_count / total_count) * 100 if total_count > 0 else
 print(f"Closed Requests: {closed_percentage:.2f}%")
 print(f"No Data (Null) Requests: {no_data_percentage:.2f}%")
 print(f"Unresolved (Open) Requests: {unresolved_percentage:.2f}%")
+
+import matplotlib.pyplot as plt
+
+case_status_data = {"Open/Unresolved Cases": unresolved_percentage, "Closed Cases": closed_percentage}
+
+labels = list(case_status_data.keys())
+sizes = list(case_status_data.values())
+
+plt.figure(figsize=(6, 6))
+plt.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=140)
+plt.title('Case Status Distribution')
+plt.show()
