@@ -1,0 +1,2874 @@
+Queue,Neighborhood,Average Resolution Time (days)
+ANML02_LostFound,Dorchester,1.919525462962963
+ANML02_LostFound,Roxbury,9.259259259259259e-05
+ANML_General,Allston / Brighton,0.6636111111111112
+ANML_General,Boston,1.3547800925925926
+ANML_General,Brighton,3.94591049382716
+ANML_General,Charlestown,3.911045524691358
+ANML_General,Dorchester,3.093792438271605
+ANML_General,East Boston,1.9875434027777779
+ANML_General,Fenway / Kenmore / Audubon Circle / Longwood,0.2566898148148148
+ANML_General,Greater Mattapan,0.20042824074074073
+ANML_General,Hyde Park,0.02966435185185185
+ANML_General,Jamaica Plain,2.4979822530864197
+ANML_General,Mattapan,3.260625
+ANML_General,Mission Hill,2.6232118055555556
+ANML_General,Roslindale,10.129699074074074
+ANML_General,Roxbury,8.173195891203703
+ANML_General,South Boston / South Boston Waterfront,0.2932314814814815
+ANML_General,South End,1.1276851851851852
+ANML_General,West Roxbury,2.5413233024691357
+BHA_General,Allston / Brighton,182.70907407407407
+BHA_General,Brighton,0.2425173611111111
+BHA_General,Charlestown,12.123898533950618
+BHA_General,Hyde Park,12.191574074074074
+BHA_General,Jamaica Plain,46.07797222222222
+BHA_General,Mission Hill,115.55669560185186
+BHA_General,Roxbury,65.10214120370371
+BHA_General,South Boston,52.00784722222222
+BHA_General,South Boston / South Boston Waterfront,360.1428761574074
+BHA_General,South End,423.2958159722222
+BPD_Administrative,Boston,98.76211805555556
+BPD_Administrative,Dorchester,5.891782407407407
+BPD_Administrative,Mission Hill,1.069189814814815
+BPD_Administrative,Roxbury,0.6277025462962963
+BPD_Districts,Back Bay,3.4586574074074075
+BPD_Districts,Boston,62.089305555555555
+BPD_Districts,Charlestown,0.10800925925925926
+BPD_Districts,Dorchester,67.95252443415637
+BPD_Districts,Downtown / Financial District,6.994097222222222
+BPD_Districts,East Boston,0.14228587962962963
+BPD_Districts,Fenway / Kenmore / Audubon Circle / Longwood,1.9871990740740741
+BPD_Districts,Greater Mattapan,0.05388888888888889
+BPD_Districts,Hyde Park,15.426562499999998
+BPD_Districts,Jamaica Plain,3.413881172839506
+BPD_Districts,Roxbury,58.1726880787037
+BPD_Districts,South Boston / South Boston Waterfront,189.23265432098768
+BPD_Districts,West Roxbury,2.068252314814815
+BPS_Administrative, ,4.310034722222222
+BPS_Administrative,Allston,0.08724537037037038
+BPS_Administrative,Brighton,0.2638773148148148
+BPS_Administrative,Charlestown,154.13705632716048
+BPS_Administrative,Dorchester,292.16420331790124
+BPS_Administrative,Jamaica Plain,6.552255015432099
+BPS_Administrative,Mission Hill,589.6919907407407
+BPS_Administrative,Roslindale,1.364375
+BPS_Administrative,Roxbury,473.4326765046296
+BPS_Administrative,South Boston,0.14975694444444446
+BPS_Administrative,South End,128.85998456790122
+BPS_Administrative,West Roxbury,220.6603472222222
+BPS_Transportation Administration, ,125.08541771885521
+BPS_Transportation Administration,Allston / Brighton,40.85364583333333
+BPS_Transportation Administration,Boston,263.99747685185184
+BPS_Transportation Administration,Charlestown,137.09278935185185
+BPS_Transportation Administration,Dorchester,85.35750289351851
+BPS_Transportation Administration,Downtown / Financial District,21.159733796296297
+BPS_Transportation Administration,East Boston,81.18273341049382
+BPS_Transportation Administration,Greater Mattapan,5.4127777777777775
+BPS_Transportation Administration,Hyde Park,101.63304398148148
+BPS_Transportation Administration,Jamaica Plain,76.82401157407406
+BPS_Transportation Administration,Mission Hill,50.16469907407407
+BPS_Transportation Administration,Roslindale,13.614722222222222
+BPS_Transportation Administration,Roxbury,0.27184799382716046
+BPS_Transportation Administration,South Boston,192.10229166666667
+BPS_Transportation Administration,South Boston / South Boston Waterfront,10.032453703703704
+BPS_Transportation Administration,South End,6.132546296296296
+BPS_Transportation Administration,West Roxbury,119.3828125
+BTDT_AVRS Interface Queue, ,23.290527447089946
+BTDT_AVRS Interface Queue,Allston,40.87401000330688
+BTDT_AVRS Interface Queue,Allston / Brighton,38.488024333506125
+BTDT_AVRS Interface Queue,Back Bay,65.24752369929453
+BTDT_AVRS Interface Queue,Beacon Hill,162.11557489852865
+BTDT_AVRS Interface Queue,Boston,105.68402973646724
+BTDT_AVRS Interface Queue,Brighton,28.395632994463536
+BTDT_AVRS Interface Queue,Charlestown,131.622532831984
+BTDT_AVRS Interface Queue,Dorchester,44.48688663769967
+BTDT_AVRS Interface Queue,Downtown / Financial District,153.89741453403636
+BTDT_AVRS Interface Queue,East Boston,27.348408527236653
+BTDT_AVRS Interface Queue,Fenway / Kenmore / Audubon Circle / Longwood,18.19918432454891
+BTDT_AVRS Interface Queue,Greater Mattapan,39.729997651374646
+BTDT_AVRS Interface Queue,Hyde Park,47.27253076614081
+BTDT_AVRS Interface Queue,Jamaica Plain,91.18085486856391
+BTDT_AVRS Interface Queue,Mattapan,50.02350292566873
+BTDT_AVRS Interface Queue,Mission Hill,43.006697860207765
+BTDT_AVRS Interface Queue,Roslindale,53.87291868568595
+BTDT_AVRS Interface Queue,Roxbury,48.10636974661788
+BTDT_AVRS Interface Queue,South Boston,55.2433668544724
+BTDT_AVRS Interface Queue,South Boston / South Boston Waterfront,54.63568304573513
+BTDT_AVRS Interface Queue,South End,26.271459220056748
+BTDT_AVRS Interface Queue,Unknown,66.83688580246914
+BTDT_AVRS Interface Queue,West Roxbury,52.144155380345815
+BTDT_Abandoned Bicycle, ,254.07516975308644
+BTDT_Abandoned Bicycle,Allston / Brighton,325.3144225363757
+BTDT_Abandoned Bicycle,Back Bay,267.9466891947751
+BTDT_Abandoned Bicycle,Beacon Hill,120.7331568287037
+BTDT_Abandoned Bicycle,Boston,221.68966479700853
+BTDT_Abandoned Bicycle,Brighton,8.004050925925926
+BTDT_Abandoned Bicycle,Charlestown,441.52772472993826
+BTDT_Abandoned Bicycle,Dorchester,262.40195671997753
+BTDT_Abandoned Bicycle,Downtown / Financial District,322.54268310778724
+BTDT_Abandoned Bicycle,East Boston,371.89257407407405
+BTDT_Abandoned Bicycle,Fenway / Kenmore / Audubon Circle / Longwood,226.36877367424242
+BTDT_Abandoned Bicycle,Greater Mattapan,73.11570987654322
+BTDT_Abandoned Bicycle,Hyde Park,286.01109722222225
+BTDT_Abandoned Bicycle,Jamaica Plain,199.42826736111112
+BTDT_Abandoned Bicycle,Mission Hill,230.6017509920635
+BTDT_Abandoned Bicycle,Roxbury,243.89088811728394
+BTDT_Abandoned Bicycle,South Boston,380.04283757716047
+BTDT_Abandoned Bicycle,South Boston / South Boston Waterfront,420.9942802579365
+BTDT_Abandoned Bicycle,South End,243.75470572916666
+BTDT_Abandoned Bicycle,Unknown,303.0251851851852
+BTDT_Abandoned Bicycle,West Roxbury,705.2121180555556
+BTDT_Administration, ,82.1960725308642
+BTDT_Administration,Allston / Brighton,107.19154282407408
+BTDT_Administration,Back Bay,23.74299884259259
+BTDT_Administration,Beacon Hill,17.26305324074074
+BTDT_Administration,Boston,126.04794881687242
+BTDT_Administration,Brighton,122.01469328703703
+BTDT_Administration,Charlestown,12.686039351851852
+BTDT_Administration,Dorchester,61.76955568415638
+BTDT_Administration,Downtown / Financial District,75.12511463844797
+BTDT_Administration,East Boston,29.897453703703704
+BTDT_Administration,Fenway / Kenmore / Audubon Circle / Longwood,23.356902777777776
+BTDT_Administration,Greater Mattapan,20.694537037037037
+BTDT_Administration,Hyde Park,4.945937499999999
+BTDT_Administration,Jamaica Plain,299.67675035612535
+BTDT_Administration,Mission Hill,31.193252314814814
+BTDT_Administration,Roxbury,95.29128116096867
+BTDT_Administration,South Boston / South Boston Waterfront,30.272797364672364
+BTDT_Administration,South End,41.12271527777777
+BTDT_Administration,West Roxbury,1.1741782407407408
+BTDT_BostonBikes, ,189.73244012917237
+BTDT_BostonBikes,Allston,207.12813657407406
+BTDT_BostonBikes,Allston / Brighton,340.66890190972225
+BTDT_BostonBikes,Back Bay,318.35977390180875
+BTDT_BostonBikes,Beacon Hill,150.1656351273148
+BTDT_BostonBikes,Boston,282.97907836076814
+BTDT_BostonBikes,Brighton,166.07715277777777
+BTDT_BostonBikes,Charlestown,336.51295965608466
+BTDT_BostonBikes,Dorchester,228.67189351851852
+BTDT_BostonBikes,Downtown / Financial District,267.23962028133906
+BTDT_BostonBikes,East Boston,348.2690210262346
+BTDT_BostonBikes,Fenway / Kenmore / Audubon Circle / Longwood,323.0264071403134
+BTDT_BostonBikes,Greater Mattapan,260.8860773533951
+BTDT_BostonBikes,Hyde Park,243.94561631944444
+BTDT_BostonBikes,Jamaica Plain,349.32960688058745
+BTDT_BostonBikes,Mattapan,383.52359375
+BTDT_BostonBikes,Mission Hill,400.14476388888886
+BTDT_BostonBikes,Roslindale,175.91583564814815
+BTDT_BostonBikes,Roxbury,403.51624053030304
+BTDT_BostonBikes,South Boston,543.662561728395
+BTDT_BostonBikes,South Boston / South Boston Waterfront,326.0026001409018
+BTDT_BostonBikes,South End,214.7888482510288
+BTDT_BostonBikes,Unknown,875.0822569444445
+BTDT_BostonBikes,West Roxbury,23.28185763888889
+BTDT_Broken Meter Complaints, ,17.040731837606838
+BTDT_Broken Meter Complaints,Allston,61.72523148148148
+BTDT_Broken Meter Complaints,Allston / Brighton,16.522740162037035
+BTDT_Broken Meter Complaints,Back Bay,23.9459931344697
+BTDT_Broken Meter Complaints,Beacon Hill,21.73749614197531
+BTDT_Broken Meter Complaints,Boston,22.2553978978979
+BTDT_Broken Meter Complaints,Charlestown,18.759282407407408
+BTDT_Broken Meter Complaints,Downtown / Financial District,29.135255965099716
+BTDT_Broken Meter Complaints,Fenway / Kenmore / Audubon Circle / Longwood,16.170739351851854
+BTDT_Broken Meter Complaints,Mission Hill,13.557399691358023
+BTDT_Broken Meter Complaints,Roxbury,410.5493865740741
+BTDT_Broken Meter Complaints,South Boston / South Boston Waterfront,18.216514550264552
+BTDT_Broken Meter Complaints,South End,14.889131944444443
+BTDT_Broken Meter Complaints,Unknown,13.51947337962963
+BTDT_Complaint Against BTD Employee, ,212.766875
+BTDT_Complaint Against BTD Employee,Back Bay,7.22880787037037
+BTDT_Complaint Against BTD Employee,South Boston / South Boston Waterfront,16.209155092592592
+BTDT_Complaint Against BTD Employee,South End,0.009976851851851851
+BTDT_District 01,Allston,3.1875347222222223
+BTDT_District 01,Allston / Brighton,63.4523782051282
+BTDT_District 01,Back Bay,3.723989197530864
+BTDT_District 01,Boston,3.3379861111111113
+BTDT_District 01,Brighton,113.28424272486772
+BTDT_District 01,Charlestown,2.465034722222222
+BTDT_District 01,Downtown / Financial District,28.033198302469135
+BTDT_District 01,East Boston,64.17006754705525
+BTDT_District 01,Fenway / Kenmore / Audubon Circle / Longwood,33.46345775462963
+BTDT_District 01,Jamaica Plain,170.51311921296295
+BTDT_District 01,Mission Hill,0.8344907407407407
+BTDT_District 01,Roxbury,17.86187114197531
+BTDT_District 02, ,4.761724537037037
+BTDT_District 02,Beacon Hill,161.9238773148148
+BTDT_District 02,Dorchester,5.543333333333333
+BTDT_District 02,Downtown / Financial District,1.1140393518518519
+BTDT_District 02,East Boston,291.15187962962966
+BTDT_District 02,Greater Mattapan,41.56320023148148
+BTDT_District 02,Hyde Park,40.433616217320264
+BTDT_District 02,Jamaica Plain,54.06649382716049
+BTDT_District 02,Mission Hill,1.3893229166666665
+BTDT_District 02,Roslindale,57.31443033854167
+BTDT_District 02,Roxbury,2.9910185185185183
+BTDT_District 02,South Boston / South Boston Waterfront,9.946412037037037
+BTDT_District 02,West Roxbury,54.833080512152776
+BTDT_District 03,Back Bay,20.533239914021163
+BTDT_District 03,Boston,43.515212191358025
+BTDT_District 03,Charlestown,0.06383101851851852
+BTDT_District 03,Dorchester,49.76855858262108
+BTDT_District 03,Downtown / Financial District,281.2749421296296
+BTDT_District 03,Fenway / Kenmore / Audubon Circle / Longwood,16.80252683080808
+BTDT_District 03,Jamaica Plain,17.19128761574074
+BTDT_District 03,Mission Hill,65.67998947811448
+BTDT_District 03,Roxbury,38.66368882275132
+BTDT_District 03,South Boston / South Boston Waterfront,27.898847222222223
+BTDT_District 03,South End,54.172243265993274
+BTDT_District 04,Allston / Brighton,0.033726851851851855
+BTDT_District 04,Back Bay,2.674328703703704
+BTDT_District 04,Dorchester,45.23371146680217
+BTDT_District 04,Greater Mattapan,43.36954883368946
+BTDT_District 04,Hyde Park,88.26622299382716
+BTDT_District 04,Mattapan,0.016458333333333332
+BTDT_District 04,Roxbury,37.465215698653196
+BTDT_District 04,South Boston / South Boston Waterfront,20.0109375
+BTDT_District 05,Back Bay,8.846979166666667
+BTDT_District 05,Boston,57.85327314814814
+BTDT_District 05,Dorchester,36.887559974747475
+BTDT_District 05,Greater Mattapan,14.848125
+BTDT_District 05,Roxbury,2.345017361111111
+BTDT_District 05,South Boston,51.423550347222225
+BTDT_District 05,South Boston / South Boston Waterfront,45.32649609137826
+BTDT_District 06, ,19.54099151234568
+BTDT_District 06,Allston / Brighton,1.554367283950617
+BTDT_District 06,Back Bay,37.07849563341751
+BTDT_District 06,Beacon Hill,47.44026331018519
+BTDT_District 06,Boston,49.10267255892256
+BTDT_District 06,Charlestown,33.491862185846564
+BTDT_District 06,Downtown / Financial District,30.585884831460675
+BTDT_District 06,East Boston,34.16822048611111
+BTDT_District 06,Fenway / Kenmore / Audubon Circle / Longwood,10.008981481481483
+BTDT_District 06,Greater Mattapan,0.045752314814814815
+BTDT_District 06,Jamaica Plain,63.93950231481482
+BTDT_District 06,Roxbury,95.08224151234568
+BTDT_District 06,South Boston / South Boston Waterfront,12.944679783950617
+BTDT_District 06,South End,17.916194782021606
+BTDT_District 06,Unknown,520.4325810185185
+BTDT_District 06,West Roxbury,86.98304398148147
+BTDT_Engineering_New Sign and Pavement Marking Requests, ,112.43308729091996
+BTDT_Engineering_New Sign and Pavement Marking Requests,Allston,68.89347511574074
+BTDT_Engineering_New Sign and Pavement Marking Requests,Allston / Brighton,207.00797714773043
+BTDT_Engineering_New Sign and Pavement Marking Requests,Back Bay,207.17875305426955
+BTDT_Engineering_New Sign and Pavement Marking Requests,Beacon Hill,250.64183090828925
+BTDT_Engineering_New Sign and Pavement Marking Requests,Boston,181.74940434854497
+BTDT_Engineering_New Sign and Pavement Marking Requests,Brighton,194.41754133597883
+BTDT_Engineering_New Sign and Pavement Marking Requests,Charlestown,220.18337210648147
+BTDT_Engineering_New Sign and Pavement Marking Requests,Dorchester,218.80410906740076
+BTDT_Engineering_New Sign and Pavement Marking Requests,Downtown / Financial District,223.20861145660587
+BTDT_Engineering_New Sign and Pavement Marking Requests,East Boston,212.2486057964853
+BTDT_Engineering_New Sign and Pavement Marking Requests,Fenway / Kenmore / Audubon Circle / Longwood,313.6493151595745
+BTDT_Engineering_New Sign and Pavement Marking Requests,Greater Mattapan,243.61190584334332
+BTDT_Engineering_New Sign and Pavement Marking Requests,Hyde Park,236.0326805344157
+BTDT_Engineering_New Sign and Pavement Marking Requests,Jamaica Plain,213.31725141071206
+BTDT_Engineering_New Sign and Pavement Marking Requests,Mattapan,227.2392962962963
+BTDT_Engineering_New Sign and Pavement Marking Requests,Mission Hill,262.5608989197531
+BTDT_Engineering_New Sign and Pavement Marking Requests,Roslindale,273.30792631172835
+BTDT_Engineering_New Sign and Pavement Marking Requests,Roxbury,232.6361258528265
+BTDT_Engineering_New Sign and Pavement Marking Requests,South Boston,289.2386044973545
+BTDT_Engineering_New Sign and Pavement Marking Requests,South Boston / South Boston Waterfront,194.5150377108329
+BTDT_Engineering_New Sign and Pavement Marking Requests,South End,200.25026651651652
+BTDT_Engineering_New Sign and Pavement Marking Requests,Unknown,234.13118634259257
+BTDT_Engineering_New Sign and Pavement Marking Requests,West Roxbury,224.530359338831
+BTDT_Engineering_Request for Traffic Signal Study or Review, ,142.14040339052286
+BTDT_Engineering_Request for Traffic Signal Study or Review,Allston,29.356938657407408
+BTDT_Engineering_Request for Traffic Signal Study or Review,Allston / Brighton,96.94031986353951
+BTDT_Engineering_Request for Traffic Signal Study or Review,Back Bay,74.40339520064254
+BTDT_Engineering_Request for Traffic Signal Study or Review,Beacon Hill,95.09028259177319
+BTDT_Engineering_Request for Traffic Signal Study or Review,Boston,65.95794907407408
+BTDT_Engineering_Request for Traffic Signal Study or Review,Brighton,25.910960648148144
+BTDT_Engineering_Request for Traffic Signal Study or Review,Charlestown,73.35832524542616
+BTDT_Engineering_Request for Traffic Signal Study or Review,Dorchester,82.43630650462963
+BTDT_Engineering_Request for Traffic Signal Study or Review,Downtown / Financial District,64.50592220966593
+BTDT_Engineering_Request for Traffic Signal Study or Review,East Boston,68.5814527809059
+BTDT_Engineering_Request for Traffic Signal Study or Review,Fenway / Kenmore / Audubon Circle / Longwood,80.48649952868462
+BTDT_Engineering_Request for Traffic Signal Study or Review,Greater Mattapan,86.16482600690625
+BTDT_Engineering_Request for Traffic Signal Study or Review,Hyde Park,78.34227428028466
+BTDT_Engineering_Request for Traffic Signal Study or Review,Jamaica Plain,65.35697006472492
+BTDT_Engineering_Request for Traffic Signal Study or Review,Mattapan,4.768530092592592
+BTDT_Engineering_Request for Traffic Signal Study or Review,Mission Hill,88.75240255793503
+BTDT_Engineering_Request for Traffic Signal Study or Review,Roslindale,93.35692088823599
+BTDT_Engineering_Request for Traffic Signal Study or Review,Roxbury,101.22550229419942
+BTDT_Engineering_Request for Traffic Signal Study or Review,South Boston,12.476836419753086
+BTDT_Engineering_Request for Traffic Signal Study or Review,South Boston / South Boston Waterfront,100.44205109669095
+BTDT_Engineering_Request for Traffic Signal Study or Review,South End,87.13802226069903
+BTDT_Engineering_Request for Traffic Signal Study or Review,Unknown,72.59571797839506
+BTDT_Engineering_Request for Traffic Signal Study or Review,West Roxbury,116.03534776688453
+BTDT_General Comments, ,29.95532193984765
+BTDT_General Comments,Allston / Brighton,0.6049189814814815
+BTDT_General Comments,Back Bay,2.88755787037037
+BTDT_General Comments,Beacon Hill,14.113356481481482
+BTDT_General Comments,Charlestown,23.92804398148148
+BTDT_General Comments,Dorchester,509.9499074074074
+BTDT_General Comments,Downtown / Financial District,169.13198688271606
+BTDT_General Comments,East Boston,49.04795138888889
+BTDT_General Comments,Fenway / Kenmore / Audubon Circle / Longwood,4.563761574074074
+BTDT_General Comments,Roslindale,2.0997106481481485
+BTDT_General Comments,Roxbury,8.832546296296297
+BTDT_General Comments,South Boston / South Boston Waterfront,95.08239583333334
+BTDT_General Comments,South End,4.8271875
+BTDT_General Comments,West Roxbury,3.9833873456790125
+BTDT_OPC_Phone Bank Service, ,86.91703703703703
+BTDT_OPC_Phone Bank Service,Back Bay,114.8078125
+BTDT_OPC_Phone Bank Service,Boston,2.719741512345679
+BTDT_OPC_Phone Bank Service,Dorchester,161.47812114197532
+BTDT_OPC_Phone Bank Service,Downtown / Financial District,34.255625
+BTDT_OPC_Phone Bank Service,East Boston,5.838090277777778
+BTDT_OPC_Phone Bank Service,Fenway / Kenmore / Audubon Circle / Longwood,0.7680902777777778
+BTDT_OPC_Phone Bank Service,Jamaica Plain,8.40480324074074
+BTDT_OPC_Phone Bank Service,South Boston,0.2959953703703704
+BTDT_OPC_Phone Bank Service,South Boston / South Boston Waterfront,158.63444830246914
+BTDT_OPC_Phone Bank Service,South End,2.408568672839506
+BTDT_OPC_Walk-In Service, ,66.05989167853751
+BTDT_OPC_Walk-In Service,Allston / Brighton,112.93796296296297
+BTDT_OPC_Walk-In Service,Back Bay,96.66199074074075
+BTDT_OPC_Walk-In Service,Beacon Hill,75.32235532407408
+BTDT_OPC_Walk-In Service,Boston,65.74393952546295
+BTDT_OPC_Walk-In Service,Charlestown,107.47089120370372
+BTDT_OPC_Walk-In Service,Dorchester,2.1693171296296296
+BTDT_OPC_Walk-In Service,Downtown / Financial District,112.81239969135804
+BTDT_OPC_Walk-In Service,East Boston,2.5456983024691358
+BTDT_OPC_Walk-In Service,Fenway / Kenmore / Audubon Circle / Longwood,3.332222222222222
+BTDT_OPC_Walk-In Service,Jamaica Plain,11.006747685185186
+BTDT_OPC_Walk-In Service,Mission Hill,9.112268518518519
+BTDT_OPC_Walk-In Service,Roslindale,0.010150462962962964
+BTDT_OPC_Walk-In Service,Roxbury,0.12447916666666667
+BTDT_OPC_Walk-In Service,South Boston / South Boston Waterfront,17.53854332010582
+BTDT_OPC_Walk-In Service,South End,164.29910879629628
+BTDT_Parking Enforcement, ,23.624625896057346
+BTDT_Parking Enforcement,Allston,4.695636835143414
+BTDT_Parking Enforcement,Allston / Brighton,4.191658601347619
+BTDT_Parking Enforcement,Back Bay,4.736063963336709
+BTDT_Parking Enforcement,Beacon Hill,4.57662985919804
+BTDT_Parking Enforcement,Boston,4.354779149230737
+BTDT_Parking Enforcement,Brighton,3.9437488525702427
+BTDT_Parking Enforcement,Charlestown,4.340246841094354
+BTDT_Parking Enforcement,Dorchester,4.368473560146894
+BTDT_Parking Enforcement,Downtown / Financial District,4.757422251718477
+BTDT_Parking Enforcement,East Boston,4.281994596013631
+BTDT_Parking Enforcement,Fenway / Kenmore / Audubon Circle / Longwood,4.0708980135352
+BTDT_Parking Enforcement,Greater Mattapan,4.172521164866913
+BTDT_Parking Enforcement,Hyde Park,5.4826631381898965
+BTDT_Parking Enforcement,Jamaica Plain,4.36523729856544
+BTDT_Parking Enforcement,Mattapan,5.8869695216049385
+BTDT_Parking Enforcement,Mission Hill,4.381970275438886
+BTDT_Parking Enforcement,Roslindale,5.571966596604023
+BTDT_Parking Enforcement,Roxbury,4.468278696707212
+BTDT_Parking Enforcement,South Boston,4.687744778858335
+BTDT_Parking Enforcement,South Boston / South Boston Waterfront,4.383142193855705
+BTDT_Parking Enforcement,South End,4.462153347697012
+BTDT_Parking Enforcement,Unknown,7.484906904186795
+BTDT_Parking Enforcement,West Roxbury,4.025864149305556
+BTDT_Parking Lot_Municipal Parking Lot Complaints, ,340.81184722222224
+BTDT_Parking Lot_Municipal Parking Lot Complaints,Allston / Brighton,16.524992283950617
+BTDT_Parking Lot_Municipal Parking Lot Complaints,Back Bay,250.93667824074075
+BTDT_Parking Lot_Municipal Parking Lot Complaints,Boston,2.7796527777777778
+BTDT_Parking Lot_Municipal Parking Lot Complaints,Dorchester,36.651476851851854
+BTDT_Parking Lot_Municipal Parking Lot Complaints,Downtown / Financial District,17.101678240740743
+BTDT_Parking Lot_Municipal Parking Lot Complaints,East Boston,183.15605439814814
+BTDT_Parking Lot_Municipal Parking Lot Complaints,Greater Mattapan,34.14755208333334
+BTDT_Parking Lot_Municipal Parking Lot Complaints,Hyde Park,189.0070011574074
+BTDT_Parking Lot_Municipal Parking Lot Complaints,Jamaica Plain,99.7191422325103
+BTDT_Parking Lot_Municipal Parking Lot Complaints,Roslindale,348.57108217592594
+BTDT_Parking Lot_Municipal Parking Lot Complaints,Roxbury,105.03425102386039
+BTDT_Parking Lot_Municipal Parking Lot Complaints,South Boston,4.8509375
+BTDT_Parking Lot_Municipal Parking Lot Complaints,South Boston / South Boston Waterfront,131.37626157407408
+BTDT_Parking Lot_Municipal Parking Lot Complaints,South End,3.911400462962963
+BTDT_Parking Lot_Municipal Parking Lot Complaints,West Roxbury,94.54297685185186
+BTDT_Parking Lot_PrivateParkingLotComplaints, ,236.6739814814815
+BTDT_Parking Lot_PrivateParkingLotComplaints,Allston / Brighton,89.12273726851852
+BTDT_Parking Lot_PrivateParkingLotComplaints,Back Bay,0.016655092592592593
+BTDT_Parking Lot_PrivateParkingLotComplaints,Boston,154.33493923611113
+BTDT_Parking Lot_PrivateParkingLotComplaints,Charlestown,392.3376157407407
+BTDT_Parking Lot_PrivateParkingLotComplaints,Dorchester,92.52682291666666
+BTDT_Parking Lot_PrivateParkingLotComplaints,Downtown / Financial District,23.099600694444444
+BTDT_Parking Lot_PrivateParkingLotComplaints,Fenway / Kenmore / Audubon Circle / Longwood,41.05298611111111
+BTDT_Parking Lot_PrivateParkingLotComplaints,Hyde Park,157.02686342592594
+BTDT_Parking Lot_PrivateParkingLotComplaints,Jamaica Plain,72.70239583333333
+BTDT_Parking Lot_PrivateParkingLotComplaints,Mission Hill,10.012314814814815
+BTDT_Parking Lot_PrivateParkingLotComplaints,Roxbury,6.677280092592593
+BTDT_Parking Lot_PrivateParkingLotComplaints,South Boston / South Boston Waterfront,7.020783179012345
+BTDT_Parking Lot_PrivateParkingLotComplaints,South End,340.0098553240741
+BTDT_Parking Lot_Valet Parking Problems, ,292.47993634259257
+BTDT_Parking Lot_Valet Parking Problems,Back Bay,26.732516718106993
+BTDT_Parking Lot_Valet Parking Problems,Beacon Hill,5.902245370370371
+BTDT_Parking Lot_Valet Parking Problems,Boston,40.5131105324074
+BTDT_Parking Lot_Valet Parking Problems,Dorchester,25.685873842592596
+BTDT_Parking Lot_Valet Parking Problems,Downtown / Financial District,21.40500925925926
+BTDT_Parking Lot_Valet Parking Problems,Fenway / Kenmore / Audubon Circle / Longwood,16.880596064814817
+BTDT_Parking Lot_Valet Parking Problems,Hyde Park,4.0320833333333335
+BTDT_Parking Lot_Valet Parking Problems,South Boston / South Boston Waterfront,36.86966435185185
+BTDT_Parking Lot_Valet Parking Problems,South End,18.30487037037037
+BTDT_Pavement Marking_Maintenance, ,397.9488577279202
+BTDT_Pavement Marking_Maintenance,Allston,312.83092013888887
+BTDT_Pavement Marking_Maintenance,Allston / Brighton,523.6524231902357
+BTDT_Pavement Marking_Maintenance,Back Bay,510.2576174074074
+BTDT_Pavement Marking_Maintenance,Beacon Hill,450.79449697293444
+BTDT_Pavement Marking_Maintenance,Boston,495.4764898542159
+BTDT_Pavement Marking_Maintenance,Brighton,657.2457725694444
+BTDT_Pavement Marking_Maintenance,Charlestown,536.1546753167642
+BTDT_Pavement Marking_Maintenance,Dorchester,643.9198296144506
+BTDT_Pavement Marking_Maintenance,Downtown / Financial District,528.6599504327697
+BTDT_Pavement Marking_Maintenance,East Boston,628.2303089387465
+BTDT_Pavement Marking_Maintenance,Fenway / Kenmore / Audubon Circle / Longwood,879.0511885127315
+BTDT_Pavement Marking_Maintenance,Greater Mattapan,492.5190149176955
+BTDT_Pavement Marking_Maintenance,Hyde Park,622.5271305199431
+BTDT_Pavement Marking_Maintenance,Jamaica Plain,702.520958029197
+BTDT_Pavement Marking_Maintenance,Mission Hill,953.013469521605
+BTDT_Pavement Marking_Maintenance,Roslindale,729.1503351725013
+BTDT_Pavement Marking_Maintenance,Roxbury,820.3037188552189
+BTDT_Pavement Marking_Maintenance,South Boston,774.159914021164
+BTDT_Pavement Marking_Maintenance,South Boston / South Boston Waterfront,539.5227022902327
+BTDT_Pavement Marking_Maintenance,South End,697.0249300523349
+BTDT_Pavement Marking_Maintenance,Unknown,778.4701748971194
+BTDT_Pavement Marking_Maintenance,West Roxbury,613.4396227152478
+BTDT_Pavement Marking_Workorders from Engineering, ,1508.2895509259258
+BTDT_Pavement Marking_Workorders from Engineering,Allston / Brighton,1918.0171527777777
+BTDT_Pavement Marking_Workorders from Engineering,Back Bay,738.61847029321
+BTDT_Pavement Marking_Workorders from Engineering,Beacon Hill,609.6076331018519
+BTDT_Pavement Marking_Workorders from Engineering,Boston,707.0539293981482
+BTDT_Pavement Marking_Workorders from Engineering,Charlestown,883.6724035493827
+BTDT_Pavement Marking_Workorders from Engineering,Dorchester,1138.4421305941357
+BTDT_Pavement Marking_Workorders from Engineering,Downtown / Financial District,854.3283810763888
+BTDT_Pavement Marking_Workorders from Engineering,East Boston,930.8825677910053
+BTDT_Pavement Marking_Workorders from Engineering,Fenway / Kenmore / Audubon Circle / Longwood,267.89722222222224
+BTDT_Pavement Marking_Workorders from Engineering,Greater Mattapan,1648.8237577160496
+BTDT_Pavement Marking_Workorders from Engineering,Hyde Park,1349.8182899305557
+BTDT_Pavement Marking_Workorders from Engineering,Jamaica Plain,1178.9619907407407
+BTDT_Pavement Marking_Workorders from Engineering,Mission Hill,2132.0944444444444
+BTDT_Pavement Marking_Workorders from Engineering,Roslindale,1167.4387249228396
+BTDT_Pavement Marking_Workorders from Engineering,Roxbury,1374.7789081790122
+BTDT_Pavement Marking_Workorders from Engineering,South Boston,529.1894241898149
+BTDT_Pavement Marking_Workorders from Engineering,South Boston / South Boston Waterfront,1072.1715769675927
+BTDT_Pavement Marking_Workorders from Engineering,South End,489.08420634920634
+BTDT_Pavement Marking_Workorders from Engineering,West Roxbury,856.3231597222223
+BTDT_Permits & Special Events, ,170.83747487579043
+BTDT_Permits & Special Events,Allston,12.250416666666666
+BTDT_Permits & Special Events,Allston / Brighton,95.26539930555556
+BTDT_Permits & Special Events,Back Bay,88.55254407998424
+BTDT_Permits & Special Events,Beacon Hill,139.54236188271605
+BTDT_Permits & Special Events,Boston,25.96281527777778
+BTDT_Permits & Special Events,Brighton,728.0390856481481
+BTDT_Permits & Special Events,Charlestown,157.35039033564814
+BTDT_Permits & Special Events,Dorchester,129.06673482510288
+BTDT_Permits & Special Events,Downtown / Financial District,117.86516381766383
+BTDT_Permits & Special Events,East Boston,164.04231181412894
+BTDT_Permits & Special Events,Fenway / Kenmore / Audubon Circle / Longwood,110.57219504830917
+BTDT_Permits & Special Events,Greater Mattapan,96.96933641975308
+BTDT_Permits & Special Events,Hyde Park,49.49638392857143
+BTDT_Permits & Special Events,Jamaica Plain,183.68951944444444
+BTDT_Permits & Special Events,Mission Hill,49.95833912037037
+BTDT_Permits & Special Events,Roslindale,188.7603113425926
+BTDT_Permits & Special Events,Roxbury,148.58349971064814
+BTDT_Permits & Special Events,South Boston,80.83243940631807
+BTDT_Permits & Special Events,South Boston / South Boston Waterfront,109.13287168064291
+BTDT_Permits & Special Events,South End,188.7182873931624
+BTDT_Permits & Special Events,Unknown,1.950914351851852
+BTDT_Permits & Special Events,West Roxbury,26.807179232804234
+BTDT_Sign Repair,Back Bay,40.47511111111111
+BTDT_Sign Repair,Beacon Hill,13.02226851851852
+BTDT_Sign Repair,Boston,300.04141203703705
+BTDT_Sign Repair,Charlestown,64.8027700617284
+BTDT_Sign Repair,Dorchester,23.35234292328042
+BTDT_Sign Repair,Downtown / Financial District,20.242265625
+BTDT_Sign Repair,East Boston,88.48116666666667
+BTDT_Sign Repair,Fenway / Kenmore / Audubon Circle / Longwood,6.016724537037037
+BTDT_Sign Repair,Greater Mattapan,84.46506944444444
+BTDT_Sign Repair,Hyde Park,8.47028163580247
+BTDT_Sign Repair,Jamaica Plain,69.85893055555556
+BTDT_Sign Repair,Roxbury,18.563605324074075
+BTDT_Sign Repair,South Boston / South Boston Waterfront,93.08218942901233
+BTDT_Sign Repair,South End,24.02711805555555
+BTDT_Sign Repair,West Roxbury,27.728796296296295
+BTDT_Sign Shop Clerical, ,24.079427083333332
+BTDT_Sign Shop Clerical,Allston / Brighton,358.8040162037037
+BTDT_Sign Shop Clerical,Beacon Hill,30.066689814814815
+BTDT_Sign Shop Clerical,Dorchester,3.6574768518518517
+BTDT_Sign Shop Clerical,Downtown / Financial District,11.646417824074074
+BTDT_Sign Shop Clerical,East Boston,1.0055555555555555
+BTDT_Sign Shop Clerical,Fenway / Kenmore / Audubon Circle / Longwood,136.96103009259258
+BTDT_Sign Shop Clerical,Greater Mattapan,35.87722222222222
+BTDT_Sign Shop Clerical,Roxbury,8.982575231481482
+BTDT_Sign Shop Clerical,South Boston / South Boston Waterfront,2.4968171296296298
+BTDT_Sign Shop Clerical,West Roxbury,17.186261574074074
+BTDT_Sign Shop_Sign Installation, ,32.45781286168982
+BTDT_Sign Shop_Sign Installation,Allston,25.90622990915444
+BTDT_Sign Shop_Sign Installation,Allston / Brighton,27.60928360388342
+BTDT_Sign Shop_Sign Installation,Back Bay,27.454945537674384
+BTDT_Sign Shop_Sign Installation,Beacon Hill,26.40446812678063
+BTDT_Sign Shop_Sign Installation,Boston,28.52371679872982
+BTDT_Sign Shop_Sign Installation,Brighton,33.390650880915636
+BTDT_Sign Shop_Sign Installation,Charlestown,29.3332240133985
+BTDT_Sign Shop_Sign Installation,Dorchester,24.992863272680346
+BTDT_Sign Shop_Sign Installation,Downtown / Financial District,23.811786860782103
+BTDT_Sign Shop_Sign Installation,East Boston,25.840098788580246
+BTDT_Sign Shop_Sign Installation,Fenway / Kenmore / Audubon Circle / Longwood,26.1760066213104
+BTDT_Sign Shop_Sign Installation,Greater Mattapan,24.75357991066372
+BTDT_Sign Shop_Sign Installation,Hyde Park,28.33824918808734
+BTDT_Sign Shop_Sign Installation,Jamaica Plain,28.672284624670766
+BTDT_Sign Shop_Sign Installation,Mattapan,52.30765817901234
+BTDT_Sign Shop_Sign Installation,Mission Hill,32.87486769089295
+BTDT_Sign Shop_Sign Installation,Roslindale,27.063834806077008
+BTDT_Sign Shop_Sign Installation,Roxbury,33.974591677433246
+BTDT_Sign Shop_Sign Installation,South Boston,24.897618167562726
+BTDT_Sign Shop_Sign Installation,South Boston / South Boston Waterfront,28.506564539875125
+BTDT_Sign Shop_Sign Installation,South End,23.11379009349155
+BTDT_Sign Shop_Sign Installation,Unknown,36.017979497354496
+BTDT_Sign Shop_Sign Installation,West Roxbury,27.019302554869682
+BTDT_Traffic Signal_Graffiti,Allston / Brighton,232.84335358796295
+BTDT_Traffic Signal_Graffiti,Back Bay,168.14227386039886
+BTDT_Traffic Signal_Graffiti,Beacon Hill,30.402388117283948
+BTDT_Traffic Signal_Graffiti,Boston,56.1680825617284
+BTDT_Traffic Signal_Graffiti,Charlestown,21.170127314814813
+BTDT_Traffic Signal_Graffiti,Dorchester,20.13757523148148
+BTDT_Traffic Signal_Graffiti,Downtown / Financial District,12.408435185185185
+BTDT_Traffic Signal_Graffiti,East Boston,135.180234375
+BTDT_Traffic Signal_Graffiti,Fenway / Kenmore / Audubon Circle / Longwood,192.07315972222221
+BTDT_Traffic Signal_Graffiti,Greater Mattapan,228.64592592592592
+BTDT_Traffic Signal_Graffiti,Hyde Park,311.87282407407406
+BTDT_Traffic Signal_Graffiti,Jamaica Plain,14.348060185185185
+BTDT_Traffic Signal_Graffiti,Mission Hill,81.13613425925926
+BTDT_Traffic Signal_Graffiti,Roslindale,2081.927349537037
+BTDT_Traffic Signal_Graffiti,Roxbury,183.07526620370368
+BTDT_Traffic Signal_Graffiti,South Boston / South Boston Waterfront,35.19248842592592
+BTDT_Traffic Signal_Graffiti,South End,71.7327237654321
+BTDT_Traffic Signal_Graffiti,West Roxbury,62.12047453703704
+BTDT_Traffic Signal_Knock Downs/Contractor,Allston / Brighton,7.563721064814814
+BTDT_Traffic Signal_Knock Downs/Contractor,Back Bay,11.600097415123457
+BTDT_Traffic Signal_Knock Downs/Contractor,Beacon Hill,24.456336805555555
+BTDT_Traffic Signal_Knock Downs/Contractor,Boston,0.5206539351851852
+BTDT_Traffic Signal_Knock Downs/Contractor,Charlestown,60.62945138888889
+BTDT_Traffic Signal_Knock Downs/Contractor,Dorchester,26.89776455026455
+BTDT_Traffic Signal_Knock Downs/Contractor,Downtown / Financial District,28.27421160130719
+BTDT_Traffic Signal_Knock Downs/Contractor,East Boston,8.838121141975309
+BTDT_Traffic Signal_Knock Downs/Contractor,Fenway / Kenmore / Audubon Circle / Longwood,5.874548611111111
+BTDT_Traffic Signal_Knock Downs/Contractor,Greater Mattapan,1.9439737654320988
+BTDT_Traffic Signal_Knock Downs/Contractor,Hyde Park,2.9247993827160492
+BTDT_Traffic Signal_Knock Downs/Contractor,Jamaica Plain,23.262389081790122
+BTDT_Traffic Signal_Knock Downs/Contractor,Mission Hill,15.374284511784511
+BTDT_Traffic Signal_Knock Downs/Contractor,Roslindale,7.220715112433862
+BTDT_Traffic Signal_Knock Downs/Contractor,Roxbury,24.286060956790124
+BTDT_Traffic Signal_Knock Downs/Contractor,South Boston / South Boston Waterfront,3.8149976851851854
+BTDT_Traffic Signal_Knock Downs/Contractor,South End,56.67723063973063
+BTDT_Traffic Signal_Knock Downs/Contractor,Unknown,1.5595428240740739
+BTDT_Traffic Signal_Knock Downs/Contractor,West Roxbury,11.443473508230452
+BTDT_Traffic Signal_Repair, ,18.660754886831274
+BTDT_Traffic Signal_Repair,Allston,27.32838734567901
+BTDT_Traffic Signal_Repair,Allston / Brighton,7.893023726851852
+BTDT_Traffic Signal_Repair,Back Bay,11.268647778762805
+BTDT_Traffic Signal_Repair,Beacon Hill,6.421121954191033
+BTDT_Traffic Signal_Repair,Boston,13.806623944716776
+BTDT_Traffic Signal_Repair,Brighton,10.858725198412698
+BTDT_Traffic Signal_Repair,Charlestown,8.223719869146006
+BTDT_Traffic Signal_Repair,Dorchester,9.982372130738524
+BTDT_Traffic Signal_Repair,Downtown / Financial District,8.632225450466533
+BTDT_Traffic Signal_Repair,East Boston,8.622544441476734
+BTDT_Traffic Signal_Repair,Fenway / Kenmore / Audubon Circle / Longwood,6.2103690843621395
+BTDT_Traffic Signal_Repair,Greater Mattapan,5.248969076448243
+BTDT_Traffic Signal_Repair,Hyde Park,4.0269919511014285
+BTDT_Traffic Signal_Repair,Jamaica Plain,9.822057387660172
+BTDT_Traffic Signal_Repair,Mattapan,21.584853395061728
+BTDT_Traffic Signal_Repair,Mission Hill,13.604497116290018
+BTDT_Traffic Signal_Repair,Roslindale,7.832046184817963
+BTDT_Traffic Signal_Repair,Roxbury,13.831615534979422
+BTDT_Traffic Signal_Repair,South Boston,2.8503587962962964
+BTDT_Traffic Signal_Repair,South Boston / South Boston Waterfront,7.703378890858945
+BTDT_Traffic Signal_Repair,South End,12.181263795361017
+BTDT_Traffic Signal_Repair,Unknown,2.5381552211934153
+BTDT_Traffic Signal_Repair,West Roxbury,6.778172591901603
+BWSC_All Cases, ,113.5721624228395
+BWSC_All Cases,Allston,7.042685185185185
+BWSC_All Cases,Allston / Brighton,42.29153966750842
+BWSC_All Cases,Back Bay,36.408455343364196
+BWSC_All Cases,Beacon Hill,49.25789825970549
+BWSC_All Cases,Boston,70.74223174283154
+BWSC_All Cases,Brighton,5.857268518518518
+BWSC_All Cases,Charlestown,48.531126956569665
+BWSC_All Cases,Dorchester,51.68234835140018
+BWSC_All Cases,Downtown / Financial District,33.95941871761658
+BWSC_All Cases,East Boston,37.17694548481065
+BWSC_All Cases,Fenway / Kenmore / Audubon Circle / Longwood,35.978128472222224
+BWSC_All Cases,Greater Mattapan,47.26032251602564
+BWSC_All Cases,Hyde Park,31.66762111441799
+BWSC_All Cases,Jamaica Plain,45.44953166935051
+BWSC_All Cases,Mission Hill,39.2675719812278
+BWSC_All Cases,Roslindale,38.098366539903
+BWSC_All Cases,Roxbury,45.87261988667772
+BWSC_All Cases,South Boston,75.2855105452675
+BWSC_All Cases,South Boston / South Boston Waterfront,43.979483733308136
+BWSC_All Cases,South End,53.64645764234384
+BWSC_All Cases,West Roxbury,36.52887277421653
+BWSC_Pothole,Allston,5.357800925925926
+BWSC_Pothole,Allston / Brighton,12.849673900462964
+BWSC_Pothole,Back Bay,17.52704221491228
+BWSC_Pothole,Beacon Hill,30.933520622895625
+BWSC_Pothole,Boston,42.43109519675926
+BWSC_Pothole,Brighton,17.539523533950618
+BWSC_Pothole,Charlestown,32.80834810025543
+BWSC_Pothole,Dorchester,22.339592656893004
+BWSC_Pothole,Downtown / Financial District,18.668522709131548
+BWSC_Pothole,East Boston,33.804945436507936
+BWSC_Pothole,Fenway / Kenmore / Audubon Circle / Longwood,27.78129693930041
+BWSC_Pothole,Greater Mattapan,28.63434413580247
+BWSC_Pothole,Hyde Park,21.923105709876545
+BWSC_Pothole,Jamaica Plain,18.61536822702332
+BWSC_Pothole,Mattapan,10.861082175925926
+BWSC_Pothole,Mission Hill,46.892149095117844
+BWSC_Pothole,Roslindale,18.806623263888888
+BWSC_Pothole,Roxbury,19.436420340177133
+BWSC_Pothole,South Boston,12.186799768518519
+BWSC_Pothole,South Boston / South Boston Waterfront,23.817261199618738
+BWSC_Pothole,South End,15.84702346743295
+BWSC_Pothole,Unknown,15.690077160493827
+BWSC_Pothole,West Roxbury,42.33146367521367
+DISB_General_Request, ,315.5927377136752
+DISB_General_Request,Allston / Brighton,423.8638310185185
+DISB_General_Request,Charlestown,231.29456886574076
+DISB_General_Request,Dorchester,285.38683738425925
+DISB_General_Request,Downtown / Financial District,831.0336018518517
+DISB_General_Request,East Boston,171.5395100308642
+DISB_General_Request,Fenway / Kenmore / Audubon Circle / Longwood,301.6917013888889
+DISB_General_Request,Greater Mattapan,254.81082175925926
+DISB_General_Request,Hyde Park,49.949247685185185
+DISB_General_Request,Roslindale,193.08993055555555
+DISB_General_Request,Roxbury,399.99282021604944
+DISB_General_Request,South Boston / South Boston Waterfront,295.0055215141612
+DISB_General_Request,South End,218.3565895061728
+DISB_General_Request,West Roxbury,687.2317824074074
+DISB_HP Sign, ,88.30356481481482
+DISB_HP Sign,Allston / Brighton,571.5805208333333
+DISB_HP Sign,Beacon Hill,349.0139351851852
+DISB_HP Sign,Charlestown,859.3844212962963
+DISB_HP Sign,Dorchester,525.3238052983539
+DISB_HP Sign,Downtown / Financial District,187.7409027777778
+DISB_HP Sign,East Boston,474.0574602141204
+DISB_HP Sign,Fenway / Kenmore / Audubon Circle / Longwood,875.1117708333334
+DISB_HP Sign,Greater Mattapan,12.7028125
+DISB_HP Sign,Hyde Park,613.6245563271606
+DISB_HP Sign,Jamaica Plain,13.346278935185186
+DISB_HP Sign,Mission Hill,1130.649866898148
+DISB_HP Sign,Roslindale,550.9853240740741
+DISB_HP Sign,Roxbury,623.8099286265432
+DISB_HP Sign,South Boston,0.08611111111111111
+DISB_HP Sign,South Boston / South Boston Waterfront,424.79169515669514
+DISB_HP Sign,South End,668.9959143518519
+DND_General,Allston / Brighton,356.02633101851853
+DND_General,Dorchester,157.8540836056645
+DND_General,East Boston,118.02144675925926
+DND_General,Greater Mattapan,92.45829282407408
+DND_General,Hyde Park,292.731300154321
+DND_General,Jamaica Plain,1.2296836419753088
+DND_General,Mission Hill,22.882071759259258
+DND_General,Roslindale,539.601244212963
+DND_General,Roxbury,284.39525077160494
+DND_General,South Boston / South Boston Waterfront,538.2996527777777
+ECON_OutdoorDining,Downtown / Financial District,0.23091435185185186
+ECON_OutdoorDining,Roslindale,34.86282407407408
+ECON_OutdoorDining,South End,8.018449074074073
+GEN_Needle_Pickup,Back Bay,3.2642939814814813
+GEN_Needle_Pickup,Boston,0.02074074074074074
+GEN_Needle_Pickup,Dorchester,71.22223214285715
+GEN_Needle_Pickup,Fenway / Kenmore / Audubon Circle / Longwood,0.11760416666666666
+GEN_Needle_Pickup,Jamaica Plain,0.05380787037037037
+GEN_Needle_Pickup,Roxbury,53.47063753858024
+GEN_Needle_Pickup,South Boston / South Boston Waterfront,2.7098276748971193
+GEN_Needle_Pickup,South End,10.574003182870369
+GEN_Needle_Pickup,Unknown,0.1956712962962963
+GRNi_Green_Infrastructure,Dorchester,20.055235339506172
+GRNi_Green_Infrastructure,Greater Mattapan,54.09325231481481
+INFO01_GenericeFormforOtherServiceRequestTypes, ,23.50644953703704
+INFO01_GenericeFormforOtherServiceRequestTypes,Allston,165.8922824074074
+INFO01_GenericeFormforOtherServiceRequestTypes,Allston / Brighton,166.75560925925924
+INFO01_GenericeFormforOtherServiceRequestTypes,Back Bay,231.50708160953508
+INFO01_GenericeFormforOtherServiceRequestTypes,Beacon Hill,269.4462388392857
+INFO01_GenericeFormforOtherServiceRequestTypes,Boston,111.7220103815937
+INFO01_GenericeFormforOtherServiceRequestTypes,Brighton,544.2944888117285
+INFO01_GenericeFormforOtherServiceRequestTypes,Charlestown,188.40357166477702
+INFO01_GenericeFormforOtherServiceRequestTypes,Chestnut Hill,1955.2978703703704
+INFO01_GenericeFormforOtherServiceRequestTypes,Dorchester,167.53694132604107
+INFO01_GenericeFormforOtherServiceRequestTypes,Downtown / Financial District,149.69761644935753
+INFO01_GenericeFormforOtherServiceRequestTypes,East Boston,202.75004020467836
+INFO01_GenericeFormforOtherServiceRequestTypes,Fenway / Kenmore / Audubon Circle / Longwood,265.71737980769234
+INFO01_GenericeFormforOtherServiceRequestTypes,Greater Mattapan,161.76303433641974
+INFO01_GenericeFormforOtherServiceRequestTypes,Hyde Park,444.41948645404665
+INFO01_GenericeFormforOtherServiceRequestTypes,Jamaica Plain,312.56473166423
+INFO01_GenericeFormforOtherServiceRequestTypes,Mattapan,260.861599537037
+INFO01_GenericeFormforOtherServiceRequestTypes,Mission Hill,197.61042824074073
+INFO01_GenericeFormforOtherServiceRequestTypes,Roslindale,217.42916944444445
+INFO01_GenericeFormforOtherServiceRequestTypes,Roxbury,185.3280931712963
+INFO01_GenericeFormforOtherServiceRequestTypes,South Boston,38.30137648809524
+INFO01_GenericeFormforOtherServiceRequestTypes,South Boston / South Boston Waterfront,126.27618162158869
+INFO01_GenericeFormforOtherServiceRequestTypes,South End,335.52777672558926
+INFO01_GenericeFormforOtherServiceRequestTypes,Unknown,144.6562847222222
+INFO01_GenericeFormforOtherServiceRequestTypes,West Roxbury,128.34948552425664
+INFO02_SelfServiceGenericeFormforOtherServiceRequestTypes,Allston / Brighton,7.909953703703704
+INFO02_SelfServiceGenericeFormforOtherServiceRequestTypes,Boston,5.993831018518518
+INFO02_SelfServiceGenericeFormforOtherServiceRequestTypes,West Roxbury,2.6915625
+"INFO03_Mobile ""Other"" Requests",Allston / Brighton,1075.8811921296297
+INFO05_Alert Boston,Allston / Brighton,15.193425925925926
+INFO05_Alert Boston,Back Bay,42.82780092592593
+INFO05_Alert Boston,Fenway / Kenmore / Audubon Circle / Longwood,45.239270833333336
+INFO05_Alert Boston,South Boston / South Boston Waterfront,78.18329861111111
+INFO05_Alert Boston,West Roxbury,54.223715277777785
+INFO09_Current Events,Boston,7.729525462962963
+INFO09_Current Events,West Roxbury,0.055914351851851854
+INFO_Areaway,Back Bay,83.01782986111111
+INFO_Areaway,Downtown / Financial District,490.2323148148149
+INFO_Areaway,South End,33.17598090277778
+INFO_BPHC,Back Bay,93.90069058641977
+INFO_BPHC,Boston,42.09450231481481
+INFO_BPHC,Brighton,56.144131944444446
+INFO_BPHC,South Boston / South Boston Waterfront,0.10532407407407407
+INFO_BPHC,South End,47.399085648148144
+INFO_Down Wire,West Roxbury,304.0499189814815
+INFO_Encampments,Allston / Brighton,15.89900848765432
+INFO_Encampments,Back Bay,79.71172539437586
+INFO_Encampments,Beacon Hill,38.48862847222222
+INFO_Encampments,Boston,82.06147266313933
+INFO_Encampments,Brighton,66.0659837962963
+INFO_Encampments,Charlestown,59.92039351851852
+INFO_Encampments,Dorchester,49.29856802983539
+INFO_Encampments,Downtown / Financial District,93.46902672558922
+INFO_Encampments,East Boston,47.58851080246914
+INFO_Encampments,Fenway / Kenmore / Audubon Circle / Longwood,31.51007523148148
+INFO_Encampments,Greater Mattapan,40.755468750000006
+INFO_Encampments,Hyde Park,2.0596412037037037
+INFO_Encampments,Mission Hill,388.058587962963
+INFO_Encampments,Roxbury,36.283399074074076
+INFO_Encampments,South Boston,9.819062500000001
+INFO_Encampments,South Boston / South Boston Waterfront,73.16789253766478
+INFO_Encampments,South End,42.8800053635953
+INFO_Encampments,Unknown,0.1283449074074074
+INFO_Eversource, ,826.1766435185185
+INFO_Eversource,Allston,508.58051504629634
+INFO_Eversource,Allston / Brighton,1118.7380580039173
+INFO_Eversource,Back Bay,1302.5083760288067
+INFO_Eversource,Beacon Hill,1252.241267361111
+INFO_Eversource,Boston,954.1522900702427
+INFO_Eversource,Brighton,1516.093275462963
+INFO_Eversource,Charlestown,879.5800356867285
+INFO_Eversource,Dorchester,1038.4647437363833
+INFO_Eversource,Downtown / Financial District,1311.6933841210614
+INFO_Eversource,East Boston,933.3220792824073
+INFO_Eversource,Fenway / Kenmore / Audubon Circle / Longwood,907.7462045940172
+INFO_Eversource,Greater Mattapan,776.8015048658352
+INFO_Eversource,Hyde Park,918.1930026455027
+INFO_Eversource,Jamaica Plain,1286.913665355868
+INFO_Eversource,Mattapan,613.292550154321
+INFO_Eversource,Mission Hill,1118.9342691798943
+INFO_Eversource,Roslindale,895.8169220430108
+INFO_Eversource,Roxbury,1239.6303262786596
+INFO_Eversource,South Boston,2153.140150462963
+INFO_Eversource,South Boston / South Boston Waterfront,1249.2011187678063
+INFO_Eversource,South End,1367.599429466231
+INFO_Eversource,West Roxbury,948.3109763660265
+INFO_Gas_Odor_Leak,Back Bay,213.5412326388889
+INFO_Gas_Odor_Leak,Beacon Hill,340.61976851851847
+INFO_Gas_Odor_Leak,Charlestown,525.6641608796297
+INFO_Gas_Odor_Leak,Dorchester,15.208692129629629
+INFO_Gas_Odor_Leak,Downtown / Financial District,799.5077141203703
+INFO_General Comments Complaints Compliments, ,136.2651422839506
+INFO_General Comments Complaints Compliments,Allston / Brighton,256.82877893518514
+INFO_General Comments Complaints Compliments,Back Bay,68.09197916666666
+INFO_General Comments Complaints Compliments,Boston,4.216383101851852
+INFO_General Comments Complaints Compliments,Dorchester,137.43576388888889
+INFO_General Comments Complaints Compliments,East Boston,302.0130555555556
+INFO_General Comments Complaints Compliments,Greater Mattapan,182.7429861111111
+INFO_General Comments Complaints Compliments,Jamaica Plain,308.06327546296296
+INFO_General Comments Complaints Compliments,South End,94.01778935185185
+INFO_General Comments Complaints Compliments,West Roxbury,22.981041666666666
+INFO_Homeless Issue,Back Bay,13.235428240740738
+INFO_Homeless Issue,Boston,1.0097627314814814
+INFO_Homeless Issue,Downtown / Financial District,4.403726851851852
+INFO_Homeless Issue,South Boston / South Boston Waterfront,24.268602430555557
+INFO_Homeless Issue,South End,50.83139178240741
+INFO_HumanWaste,Boston,0.1973263888888889
+INFO_HumanWaste,Jamaica Plain,29.22357638888889
+INFO_HumanWaste,Roxbury,0.3089351851851852
+INFO_HumanWaste,South Boston / South Boston Waterfront,1.0485069444444444
+INFO_JC Decaux,Allston / Brighton,3.4196122685185184
+INFO_JC Decaux,Back Bay,3.737251157407407
+INFO_JC Decaux,Boston,1.3315335648148148
+INFO_JC Decaux,Dorchester,146.63655092592592
+INFO_JC Decaux,Downtown / Financial District,65.20399305555556
+INFO_JC Decaux,East Boston,8.242962962962963
+INFO_JC Decaux,Fenway / Kenmore / Audubon Circle / Longwood,0.5947858796296296
+INFO_JC Decaux,Greater Mattapan,2.8896180555555557
+INFO_JC Decaux,Hyde Park,6.800694444444445
+INFO_JC Decaux,Roslindale,2.2331481481481483
+INFO_JC Decaux,Roxbury,13.89684722222222
+INFO_JC Decaux,South Boston,1.8004571759259258
+INFO_JC Decaux,South Boston / South Boston Waterfront,208.2456423611111
+INFO_JC Decaux,South End,55.81760416666666
+INFO_Low Hanging Wire,Dorchester,729.3718981481481
+INFO_Low Hanging Wire,Greater Mattapan,4.919756944444444
+INFO_Low Hanging Wire,Hyde Park,1454.2214699074075
+INFO_Low Hanging Wire,Jamaica Plain,931.1681423611111
+INFO_Low Hanging Wire,Roslindale,646.3317013888889
+INFO_Low Hanging Wire,South Boston / South Boston Waterfront,793.0608275462963
+INFO_Low Hanging Wire,West Roxbury,566.3004282407408
+INFO_MBTA, ,95.97230324074074
+INFO_MBTA,Allston / Brighton,17.286871913580246
+INFO_MBTA,Back Bay,151.41202410130722
+INFO_MBTA,Beacon Hill,3.136449074074074
+INFO_MBTA,Boston,7.680803915895062
+INFO_MBTA,Brighton,0.06480324074074074
+INFO_MBTA,Charlestown,9.583400997150997
+INFO_MBTA,Dorchester,24.145714476495723
+INFO_MBTA,Downtown / Financial District,31.374953703703703
+INFO_MBTA,East Boston,8.267546296296297
+INFO_MBTA,Fenway / Kenmore / Audubon Circle / Longwood,4.78550925925926
+INFO_MBTA,Greater Mattapan,4.963166666666666
+INFO_MBTA,Hyde Park,39.40392526455026
+INFO_MBTA,Jamaica Plain,34.88134565631808
+INFO_MBTA,Mission Hill,6.875894675925926
+INFO_MBTA,Roslindale,11.576508969907408
+INFO_MBTA,Roxbury,58.95007361111111
+INFO_MBTA,South Boston,3.8824691358024688
+INFO_MBTA,South Boston / South Boston Waterfront,79.83165013227514
+INFO_MBTA,South End,17.113801328502415
+INFO_MBTA,Unknown,0.6241956018518519
+INFO_MBTA,West Roxbury,101.86809259259259
+INFO_Mass DCR, ,1267.4444766505635
+INFO_Mass DCR,Allston,1411.208245701058
+INFO_Mass DCR,Allston / Brighton,1082.4822228612816
+INFO_Mass DCR,Back Bay,1219.601324783675
+INFO_Mass DCR,Beacon Hill,969.1785587231968
+INFO_Mass DCR,Boston,1398.1508070612094
+INFO_Mass DCR,Brighton,853.4475430555556
+INFO_Mass DCR,Charlestown,1529.6584008487655
+INFO_Mass DCR,Chestnut Hill,60.28545138888889
+INFO_Mass DCR,Dorchester,1356.140455647005
+INFO_Mass DCR,Downtown / Financial District,1380.3247867838543
+INFO_Mass DCR,East Boston,1420.6756319444444
+INFO_Mass DCR,Fenway / Kenmore / Audubon Circle / Longwood,1413.4672131899683
+INFO_Mass DCR,Greater Mattapan,1458.9883159722222
+INFO_Mass DCR,Hyde Park,1245.2293656660693
+INFO_Mass DCR,Jamaica Plain,1244.0649253366303
+INFO_Mass DCR,Mattapan,1267.8240133101851
+INFO_Mass DCR,Mission Hill,1143.326845026116
+INFO_Mass DCR,Roslindale,1228.3796520867884
+INFO_Mass DCR,Roxbury,984.2612822420634
+INFO_Mass DCR,South Boston,1375.2144744318182
+INFO_Mass DCR,South Boston / South Boston Waterfront,1131.9464403521827
+INFO_Mass DCR,South End,1146.2441961692084
+INFO_Mass DCR,Unknown,1624.361787037037
+INFO_Mass DCR,West Roxbury,1223.6601518757607
+INFO_Mass DOT, ,937.9762751906319
+INFO_Mass DOT,Allston,1038.0404872685185
+INFO_Mass DOT,Allston / Brighton,1147.2547661652834
+INFO_Mass DOT,Back Bay,962.7138416561788
+INFO_Mass DOT,Beacon Hill,803.0843641067538
+INFO_Mass DOT,Boston,909.3966061084782
+INFO_Mass DOT,Brighton,1116.1101456404322
+INFO_Mass DOT,Charlestown,951.4901243313698
+INFO_Mass DOT,Dorchester,894.9862543535507
+INFO_Mass DOT,Downtown / Financial District,910.5155477927017
+INFO_Mass DOT,East Boston,979.1293298748899
+INFO_Mass DOT,Fenway / Kenmore / Audubon Circle / Longwood,1103.2022226446338
+INFO_Mass DOT,Greater Mattapan,829.8454886831275
+INFO_Mass DOT,Hyde Park,564.66406065867
+INFO_Mass DOT,Jamaica Plain,1215.968868925553
+INFO_Mass DOT,Mattapan,862.4329263117284
+INFO_Mass DOT,Mission Hill,921.0237022569445
+INFO_Mass DOT,Roslindale,1083.9152546296295
+INFO_Mass DOT,Roxbury,920.4939292227834
+INFO_Mass DOT,South Boston,880.9271226851852
+INFO_Mass DOT,South Boston / South Boston Waterfront,900.6379489220478
+INFO_Mass DOT,South End,1094.3149519638102
+INFO_Mass DOT,Unknown,908.2628983634797
+INFO_Mass DOT,West Roxbury,1210.8895844356261
+INFO_Massport, ,271.0616087962963
+INFO_Massport,Boston,74.92161541005292
+INFO_Massport,Charlestown,9.382546296296296
+INFO_Massport,East Boston,144.30788978494624
+INFO_Massport,South Boston / South Boston Waterfront,7.546737213403881
+INFO_Mayors Policy Office, ,372.98364969135804
+INFO_Mayors Policy Office,Back Bay,1217.7380671296296
+INFO_Mayors Policy Office,Beacon Hill,1343.2433101851852
+INFO_Mayors Policy Office,Boston,385.3041435185185
+INFO_Mayors Policy Office,Charlestown,656.2754050925926
+INFO_Mayors Policy Office,Downtown / Financial District,573.5497569444444
+INFO_Mayors Policy Office,Fenway / Kenmore / Audubon Circle / Longwood,1054.0457754629629
+INFO_Mayors Policy Office,Greater Mattapan,951.1023958333333
+INFO_Mayors Policy Office,Jamaica Plain,1043.7099305555555
+INFO_Mayors Policy Office,Roxbury,484.95986111111114
+INFO_Mayors Policy Office,Unknown,912.1627083333333
+INFO_Reallocation From Dept, ,80.58712268518518
+INFO_Reallocation From Dept,Allston,23.298376068376065
+INFO_Reallocation From Dept,Allston / Brighton,47.989086496248405
+INFO_Reallocation From Dept,Back Bay,64.44019754316069
+INFO_Reallocation From Dept,Beacon Hill,65.95279279651675
+INFO_Reallocation From Dept,Boston,55.150673674530694
+INFO_Reallocation From Dept,Brighton,29.930773969534048
+INFO_Reallocation From Dept,Charlestown,55.68309712266029
+INFO_Reallocation From Dept,Dorchester,46.305791069929704
+INFO_Reallocation From Dept,Downtown / Financial District,59.331960507856344
+INFO_Reallocation From Dept,East Boston,87.65531565656565
+INFO_Reallocation From Dept,Fenway / Kenmore / Audubon Circle / Longwood,55.69434243109389
+INFO_Reallocation From Dept,Greater Mattapan,37.927691653050104
+INFO_Reallocation From Dept,Hyde Park,74.63190871089536
+INFO_Reallocation From Dept,Jamaica Plain,61.02655432217932
+INFO_Reallocation From Dept,Mission Hill,60.847309092800664
+INFO_Reallocation From Dept,Roslindale,72.29293416236004
+INFO_Reallocation From Dept,Roxbury,46.245966618900646
+INFO_Reallocation From Dept,South Boston,56.5612375685871
+INFO_Reallocation From Dept,South Boston / South Boston Waterfront,43.50731830958394
+INFO_Reallocation From Dept,South End,49.20527554735725
+INFO_Reallocation From Dept,Unknown,29.873019421860885
+INFO_Reallocation From Dept,West Roxbury,73.74216453703704
+INFO_USPS Issues,Allston / Brighton,1099.1340046296295
+INFO_USPS Issues,Back Bay,538.8348336226852
+INFO_USPS Issues,Beacon Hill,1214.768287037037
+INFO_USPS Issues,Boston,778.9815297067902
+INFO_USPS Issues,Charlestown,306.4725810185185
+INFO_USPS Issues,Dorchester,101.71486276455026
+INFO_USPS Issues,Downtown / Financial District,584.094212962963
+INFO_USPS Issues,East Boston,1784.2076851851853
+INFO_USPS Issues,Fenway / Kenmore / Audubon Circle / Longwood,413.26435956790124
+INFO_USPS Issues,Greater Mattapan,417.28622685185184
+INFO_USPS Issues,Jamaica Plain,208.46806216931216
+INFO_USPS Issues,Roslindale,767.4897847222222
+INFO_USPS Issues,Roxbury,987.2044791666667
+INFO_USPS Issues,South Boston / South Boston Waterfront,554.485643738977
+INFO_USPS Issues,South End,462.7866458333334
+INFO_USPS Issues,West Roxbury,1617.496361882716
+INFO_Unsheltered_Persons,Allston / Brighton,44.39376157407408
+INFO_Unsheltered_Persons,Back Bay,5.756328125
+INFO_Unsheltered_Persons,Beacon Hill,3.3253935185185184
+INFO_Unsheltered_Persons,Boston,52.23189120370371
+INFO_Unsheltered_Persons,Brighton,141.39895833333333
+INFO_Unsheltered_Persons,Dorchester,9.443314043209876
+INFO_Unsheltered_Persons,Downtown / Financial District,27.163840277777773
+INFO_Unsheltered_Persons,East Boston,1.241261574074074
+INFO_Unsheltered_Persons,Roxbury,16.817362764550264
+INFO_Unsheltered_Persons,South Boston / South Boston Waterfront,23.148593749999996
+INFO_Unsheltered_Persons,South End,4.9221257716049385
+ISD_Administrative, ,26.38404398148148
+ISD_Administrative,Allston,12.303079989711936
+ISD_Administrative,Allston / Brighton,9.52892320923354
+ISD_Administrative,Back Bay,13.967524928774928
+ISD_Administrative,Beacon Hill,27.24548142096345
+ISD_Administrative,Boston,25.96435393198498
+ISD_Administrative,Brighton,8.481870126705653
+ISD_Administrative,Charlestown,12.14079970472441
+ISD_Administrative,Dorchester,11.470907859983381
+ISD_Administrative,Downtown / Financial District,40.44822629068462
+ISD_Administrative,East Boston,13.184403885296934
+ISD_Administrative,Fenway / Kenmore / Audubon Circle / Longwood,12.126883747846684
+ISD_Administrative,Greater Mattapan,13.824845289670403
+ISD_Administrative,Hyde Park,11.75069308278867
+ISD_Administrative,Jamaica Plain,17.971115468409586
+ISD_Administrative,Mattapan,8.30622974537037
+ISD_Administrative,Mission Hill,20.861828086419756
+ISD_Administrative,Roslindale,13.471382964065256
+ISD_Administrative,Roxbury,11.518875759159696
+ISD_Administrative,South Boston,8.422683090828924
+ISD_Administrative,South Boston / South Boston Waterfront,12.12596799193199
+ISD_Administrative,South End,11.295973991185509
+ISD_Administrative,Unknown,2.8684529320987653
+ISD_Administrative,West Roxbury,11.951115023474179
+ISD_Building (INTERNAL), ,274.5558498540034
+ISD_Building (INTERNAL),Allston,618.7897965661214
+ISD_Building (INTERNAL),Allston / Brighton,524.4299415384693
+ISD_Building (INTERNAL),Back Bay,213.32306886850483
+ISD_Building (INTERNAL),Beacon Hill,173.27695478484785
+ISD_Building (INTERNAL),Boston,309.33707597680734
+ISD_Building (INTERNAL),Brighton,452.8246988343743
+ISD_Building (INTERNAL),Charlestown,224.4572637507314
+ISD_Building (INTERNAL),Chestnut Hill,45.53949074074074
+ISD_Building (INTERNAL),Dorchester,183.6486450765038
+ISD_Building (INTERNAL),Downtown / Financial District,273.1402260005598
+ISD_Building (INTERNAL),East Boston,225.9085884979448
+ISD_Building (INTERNAL),Fenway / Kenmore / Audubon Circle / Longwood,319.53165925178206
+ISD_Building (INTERNAL),Greater Mattapan,347.8171993257984
+ISD_Building (INTERNAL),Hyde Park,359.7432247305468
+ISD_Building (INTERNAL),Jamaica Plain,431.14452011184267
+ISD_Building (INTERNAL),Mattapan,234.29335806303197
+ISD_Building (INTERNAL),Mission Hill,170.49754135176346
+ISD_Building (INTERNAL),Roslindale,245.87405490292056
+ISD_Building (INTERNAL),Roxbury,275.52491892883216
+ISD_Building (INTERNAL),South Boston,515.4317366583762
+ISD_Building (INTERNAL),South Boston / South Boston Waterfront,485.7751947907086
+ISD_Building (INTERNAL),South End,271.8108326418716
+ISD_Building (INTERNAL),Unknown,90.72283151455026
+ISD_Building (INTERNAL),West Roxbury,95.92526329009131
+ISD_Electrical,Allston,158.00072916666667
+ISD_Electrical,Allston / Brighton,66.43129861111112
+ISD_Electrical,Back Bay,61.05119212962963
+ISD_Electrical,Beacon Hill,43.19596395502646
+ISD_Electrical,Boston,29.440690418679548
+ISD_Electrical,Brighton,100.87233217592592
+ISD_Electrical,Charlestown,6.980075231481481
+ISD_Electrical,Dorchester,38.30384516460905
+ISD_Electrical,Downtown / Financial District,37.00271604938271
+ISD_Electrical,East Boston,45.5071233974359
+ISD_Electrical,Fenway / Kenmore / Audubon Circle / Longwood,43.163175636574074
+ISD_Electrical,Greater Mattapan,22.431715534979425
+ISD_Electrical,Hyde Park,58.69317515432099
+ISD_Electrical,Jamaica Plain,32.562243716931214
+ISD_Electrical,Mattapan,49.53367361111111
+ISD_Electrical,Mission Hill,14.017109375
+ISD_Electrical,Roslindale,178.98666666666668
+ISD_Electrical,Roxbury,37.45428576762246
+ISD_Electrical,South Boston,22.903564814814814
+ISD_Electrical,South Boston / South Boston Waterfront,20.60265509259259
+ISD_Electrical,South End,43.9896087962963
+ISD_Electrical,West Roxbury,62.71078935185185
+ISD_Environmental Services (INTERNAL), ,123.60848175925926
+ISD_Environmental Services (INTERNAL),Allston,95.20385648148148
+ISD_Environmental Services (INTERNAL),Allston / Brighton,98.02554193014153
+ISD_Environmental Services (INTERNAL),Back Bay,64.94860103123102
+ISD_Environmental Services (INTERNAL),Beacon Hill,80.45962332691602
+ISD_Environmental Services (INTERNAL),Boston,72.17309931847083
+ISD_Environmental Services (INTERNAL),Brighton,89.55423334715313
+ISD_Environmental Services (INTERNAL),Charlestown,70.45011339916506
+ISD_Environmental Services (INTERNAL),Chestnut Hill,40.93579861111111
+ISD_Environmental Services (INTERNAL),Dorchester,162.65237962613952
+ISD_Environmental Services (INTERNAL),Downtown / Financial District,86.31796832178372
+ISD_Environmental Services (INTERNAL),East Boston,103.69403201876816
+ISD_Environmental Services (INTERNAL),Fenway / Kenmore / Audubon Circle / Longwood,87.4921496878666
+ISD_Environmental Services (INTERNAL),Greater Mattapan,271.0400053593375
+ISD_Environmental Services (INTERNAL),Hyde Park,87.68187558685446
+ISD_Environmental Services (INTERNAL),Jamaica Plain,105.56595506779101
+ISD_Environmental Services (INTERNAL),Mattapan,141.02460582010582
+ISD_Environmental Services (INTERNAL),Mission Hill,100.6601821888513
+ISD_Environmental Services (INTERNAL),Roslindale,98.41875688457854
+ISD_Environmental Services (INTERNAL),Roxbury,162.20808548049575
+ISD_Environmental Services (INTERNAL),South Boston,64.90567977631096
+ISD_Environmental Services (INTERNAL),South Boston / South Boston Waterfront,76.29151646138254
+ISD_Environmental Services (INTERNAL),South End,72.91953966750842
+ISD_Environmental Services (INTERNAL),Unknown,150.74767939814814
+ISD_Environmental Services (INTERNAL),West Roxbury,114.99738739486499
+ISD_Health (INTERNAL), ,5.642407585470085
+ISD_Health (INTERNAL),Allston,1.4775111454046639
+ISD_Health (INTERNAL),Allston / Brighton,3.292366898148148
+ISD_Health (INTERNAL),Back Bay,5.984495065789474
+ISD_Health (INTERNAL),Beacon Hill,4.1372698801742915
+ISD_Health (INTERNAL),Boston,4.415978093129361
+ISD_Health (INTERNAL),Brighton,5.512246958968773
+ISD_Health (INTERNAL),Charlestown,6.966806370631195
+ISD_Health (INTERNAL),Chestnut Hill,1.8121875
+ISD_Health (INTERNAL),Dorchester,4.665116904114166
+ISD_Health (INTERNAL),Downtown / Financial District,4.407234772149601
+ISD_Health (INTERNAL),East Boston,21.179842356042172
+ISD_Health (INTERNAL),Fenway / Kenmore / Audubon Circle / Longwood,2.894876804770872
+ISD_Health (INTERNAL),Greater Mattapan,12.182769892144892
+ISD_Health (INTERNAL),Hyde Park,4.721627025462963
+ISD_Health (INTERNAL),Jamaica Plain,5.18755082149819
+ISD_Health (INTERNAL),Mattapan,2.8834104938271605
+ISD_Health (INTERNAL),Mission Hill,2.1069585346215782
+ISD_Health (INTERNAL),Roslindale,3.8810906685906685
+ISD_Health (INTERNAL),Roxbury,6.84987145118464
+ISD_Health (INTERNAL),South Boston,24.21957791568164
+ISD_Health (INTERNAL),South Boston / South Boston Waterfront,6.162714755077658
+ISD_Health (INTERNAL),South End,6.028126102292769
+ISD_Health (INTERNAL),West Roxbury,6.957143246187364
+ISD_Housing (INTERNAL), ,234.11331886574075
+ISD_Housing (INTERNAL),Allston,90.4456687556459
+ISD_Housing (INTERNAL),Allston / Brighton,152.89658567162496
+ISD_Housing (INTERNAL),Back Bay,155.7088982228196
+ISD_Housing (INTERNAL),Beacon Hill,123.805679503367
+ISD_Housing (INTERNAL),Boston,137.2738377578528
+ISD_Housing (INTERNAL),Brighton,99.00285339506173
+ISD_Housing (INTERNAL),Charlestown,107.68534561064229
+ISD_Housing (INTERNAL),Dorchester,139.09267625908979
+ISD_Housing (INTERNAL),Downtown / Financial District,112.44424723570658
+ISD_Housing (INTERNAL),East Boston,149.71311552452178
+ISD_Housing (INTERNAL),Fenway / Kenmore / Audubon Circle / Longwood,151.48308770576133
+ISD_Housing (INTERNAL),Greater Mattapan,155.67233118789522
+ISD_Housing (INTERNAL),Hyde Park,146.08874773739907
+ISD_Housing (INTERNAL),Jamaica Plain,136.82666766826924
+ISD_Housing (INTERNAL),Mattapan,104.1207862654321
+ISD_Housing (INTERNAL),Mission Hill,133.06189562289563
+ISD_Housing (INTERNAL),Roslindale,125.17122543047432
+ISD_Housing (INTERNAL),Roxbury,143.0986066363274
+ISD_Housing (INTERNAL),South Boston,215.78229166666665
+ISD_Housing (INTERNAL),South Boston / South Boston Waterfront,153.04931005291004
+ISD_Housing (INTERNAL),South End,166.2152603094993
+ISD_Housing (INTERNAL),Unknown,272.41075231481483
+ISD_Housing (INTERNAL),West Roxbury,145.75148253367004
+ISD_Housing_ShortTermRental,Allston / Brighton,44.671853780864204
+ISD_Housing_ShortTermRental,Back Bay,27.766591435185187
+ISD_Housing_ShortTermRental,Beacon Hill,49.423557098765436
+ISD_Housing_ShortTermRental,Boston,23.384913194444444
+ISD_Housing_ShortTermRental,Brighton,2.042013888888889
+ISD_Housing_ShortTermRental,Dorchester,28.360389660493826
+ISD_Housing_ShortTermRental,Downtown / Financial District,54.07642939814815
+ISD_Housing_ShortTermRental,East Boston,54.19968894675926
+ISD_Housing_ShortTermRental,Fenway / Kenmore / Audubon Circle / Longwood,7.104467592592592
+ISD_Housing_ShortTermRental,Greater Mattapan,63.06988425925926
+ISD_Housing_ShortTermRental,Hyde Park,20.963726851851852
+ISD_Housing_ShortTermRental,Jamaica Plain,23.047040895061727
+ISD_Housing_ShortTermRental,Roxbury,32.3034799382716
+ISD_Housing_ShortTermRental,South Boston / South Boston Waterfront,79.68443121693122
+ISD_Housing_ShortTermRental,South End,15.750358796296297
+ISD_Housing_ShortTermRental,West Roxbury,30.66774884259259
+ISD_Plumbing,Allston / Brighton,4.249340277777778
+ISD_Plumbing,Downtown / Financial District,19.135810185185186
+ISD_Plumbing,Fenway / Kenmore / Audubon Circle / Longwood,142.88246527777778
+ISD_Plumbing,Mattapan,112.09454861111111
+ISD_Plumbing,Roxbury,77.45070216049383
+ISD_Plumbing,South Boston / South Boston Waterfront,157.12439814814815
+ISD_Plumbing,South End,112.78988425925925
+ISD_Weights and Measures (INTERNAL), ,26.96679783950617
+ISD_Weights and Measures (INTERNAL),Allston / Brighton,228.26519290123454
+ISD_Weights and Measures (INTERNAL),Back Bay,6.103509259259259
+ISD_Weights and Measures (INTERNAL),Beacon Hill,2.4631963734567903
+ISD_Weights and Measures (INTERNAL),Boston,5.31224074074074
+ISD_Weights and Measures (INTERNAL),Brighton,2.1858865740740745
+ISD_Weights and Measures (INTERNAL),Charlestown,0.9610763888888889
+ISD_Weights and Measures (INTERNAL),Dorchester,127.95531954508856
+ISD_Weights and Measures (INTERNAL),Downtown / Financial District,3.7194087577160495
+ISD_Weights and Measures (INTERNAL),East Boston,4.094508825231482
+ISD_Weights and Measures (INTERNAL),Fenway / Kenmore / Audubon Circle / Longwood,5.081059027777778
+ISD_Weights and Measures (INTERNAL),Greater Mattapan,4.370417390046296
+ISD_Weights and Measures (INTERNAL),Hyde Park,3.203586033950617
+ISD_Weights and Measures (INTERNAL),Jamaica Plain,9.13626880787037
+ISD_Weights and Measures (INTERNAL),Mattapan,0.1712770061728395
+ISD_Weights and Measures (INTERNAL),Mission Hill,1.0109675925925925
+ISD_Weights and Measures (INTERNAL),Roslindale,3.198276515151515
+ISD_Weights and Measures (INTERNAL),Roxbury,71.83413136574073
+ISD_Weights and Measures (INTERNAL),South Boston,6.7499922839506175
+ISD_Weights and Measures (INTERNAL),South Boston / South Boston Waterfront,2.944777922453704
+ISD_Weights and Measures (INTERNAL),South End,5.3438329475308635
+ISD_Weights and Measures (INTERNAL),West Roxbury,293.97351369598766
+No Queue Assigned To User, ,71.16704861111111
+No Queue Assigned To User,Allston,29.94158564814815
+No Queue Assigned To User,South Boston / South Boston Waterfront,34.95594907407408
+ONS_Charlestown,Charlestown,6.16761574074074
+PARK_Administration, ,83.18652099297573
+PARK_Administration,Allston,51.651822916666674
+PARK_Administration,Allston / Brighton,39.5712003968254
+PARK_Administration,Back Bay,70.09488136574075
+PARK_Administration,Beacon Hill,1.9344401041666666
+PARK_Administration,Boston,69.262666005291
+PARK_Administration,Brighton,4.751122685185185
+PARK_Administration,Charlestown,30.308609892787523
+PARK_Administration,Dorchester,51.17333654835391
+PARK_Administration,Downtown / Financial District,60.74750385802469
+PARK_Administration,East Boston,20.405461182336182
+PARK_Administration,Fenway / Kenmore / Audubon Circle / Longwood,14.472923096707818
+PARK_Administration,Greater Mattapan,32.13483351139601
+PARK_Administration,Hyde Park,57.76759259259259
+PARK_Administration,Jamaica Plain,28.74557391443167
+PARK_Administration,Mission Hill,111.8890625
+PARK_Administration,Roslindale,46.19903133903134
+PARK_Administration,Roxbury,19.95630155723906
+PARK_Administration,South Boston,103.35333543771044
+PARK_Administration,South Boston / South Boston Waterfront,58.47714763374486
+PARK_Administration,South End,26.72734272875817
+PARK_Administration,Unknown,4.955231481481482
+PARK_Administration,West Roxbury,14.51336612654321
+PARK_Carpentry, ,62.23137075041459
+PARK_Carpentry,Allston,29.848107638888887
+PARK_Carpentry,Allston / Brighton,73.07571437757201
+PARK_Carpentry,Back Bay,35.696693121693116
+PARK_Carpentry,Beacon Hill,156.61545875420876
+PARK_Carpentry,Boston,61.64921712239583
+PARK_Carpentry,Brighton,12.954054783950617
+PARK_Carpentry,Charlestown,16.804161014211886
+PARK_Carpentry,Dorchester,75.83700901559453
+PARK_Carpentry,Downtown / Financial District,35.39331886574074
+PARK_Carpentry,East Boston,82.51708186026937
+PARK_Carpentry,Fenway / Kenmore / Audubon Circle / Longwood,23.51954475308642
+PARK_Carpentry,Greater Mattapan,83.8919422398589
+PARK_Carpentry,Hyde Park,63.90286541005291
+PARK_Carpentry,Jamaica Plain,129.49088377882597
+PARK_Carpentry,Mattapan,120.73784722222221
+PARK_Carpentry,Mission Hill,62.58253761574074
+PARK_Carpentry,Roslindale,93.00008410493827
+PARK_Carpentry,Roxbury,74.76512014991182
+PARK_Carpentry,South Boston,71.53843315972222
+PARK_Carpentry,South Boston / South Boston Waterfront,117.23647762345678
+PARK_Carpentry,South End,27.402354166666665
+PARK_Carpentry,West Roxbury,31.676282793209875
+PARK_Cemetery Maintenance Request, ,132.5391318032972
+PARK_Cemetery Maintenance Request,Allston / Brighton,111.95451388888888
+PARK_Cemetery Maintenance Request,Boston,33.54194675925926
+PARK_Cemetery Maintenance Request,Charlestown,30.027959104938272
+PARK_Cemetery Maintenance Request,Dorchester,48.30520736882716
+PARK_Cemetery Maintenance Request,Downtown / Financial District,38.267287808641974
+PARK_Cemetery Maintenance Request,East Boston,116.96345238095239
+PARK_Cemetery Maintenance Request,Greater Mattapan,173.0396238425926
+PARK_Cemetery Maintenance Request,Hyde Park,21.388757716049383
+PARK_Cemetery Maintenance Request,Jamaica Plain,132.89091435185185
+PARK_Cemetery Maintenance Request,Mattapan,353.7267361111111
+PARK_Cemetery Maintenance Request,Roslindale,165.7010686728395
+PARK_Cemetery Maintenance Request,Roxbury,48.41548611111111
+PARK_Cemetery Maintenance Request,South Boston,23.800208333333334
+PARK_Cemetery Maintenance Request,South Boston / South Boston Waterfront,34.45173996913581
+PARK_Cemetery Maintenance Request,South End,28.452650462962964
+PARK_Cemetery Maintenance Request,West Roxbury,26.068032407407408
+PARK_Corporate or Community Group Service Day Clean Up, ,87.74352237654321
+PARK_Corporate or Community Group Service Day Clean Up,Boston,2.996273148148148
+PARK_Corporate or Community Group Service Day Clean Up,Dorchester,2.104699074074074
+PARK_Corporate or Community Group Service Day Clean Up,East Boston,0.0032291666666666666
+PARK_Corporate or Community Group Service Day Clean Up,Roxbury,9.465266203703703
+PARK_General Comments, ,102.99536577245054
+PARK_General Comments,Allston / Brighton,1.6818402777777777
+PARK_General Comments,Beacon Hill,172.26435570987655
+PARK_General Comments,Boston,10.152575231481482
+PARK_General Comments,Charlestown,45.97883101851852
+PARK_General Comments,Dorchester,34.86164351851852
+PARK_General Comments,Downtown / Financial District,3.730177469135802
+PARK_General Comments,East Boston,80.43765335648148
+PARK_General Comments,Roslindale,67.55710069444444
+PARK_General Comments,West Roxbury,6.050474537037037
+PARK_Graffiti, ,43.54325253527337
+PARK_Graffiti,Allston,71.23434461805556
+PARK_Graffiti,Allston / Brighton,10.65291049382716
+PARK_Graffiti,Back Bay,19.390757347020934
+PARK_Graffiti,Beacon Hill,29.934736111111114
+PARK_Graffiti,Boston,24.082715583028083
+PARK_Graffiti,Brighton,4.970569444444445
+PARK_Graffiti,Charlestown,39.57857188786008
+PARK_Graffiti,Dorchester,89.11594525709219
+PARK_Graffiti,Downtown / Financial District,20.792829378858027
+PARK_Graffiti,East Boston,37.09821887860082
+PARK_Graffiti,Fenway / Kenmore / Audubon Circle / Longwood,29.485100659371493
+PARK_Graffiti,Greater Mattapan,28.527663194444443
+PARK_Graffiti,Hyde Park,91.58288580246914
+PARK_Graffiti,Jamaica Plain,58.40142322530865
+PARK_Graffiti,Mission Hill,38.3961858974359
+PARK_Graffiti,Roslindale,32.519456790123456
+PARK_Graffiti,Roxbury,18.480813271604937
+PARK_Graffiti,South Boston,19.48925925925926
+PARK_Graffiti,South Boston / South Boston Waterfront,5.515309606481481
+PARK_Graffiti,South End,14.64220775462963
+PARK_Graffiti,Unknown,12.976003086419754
+PARK_Graffiti,West Roxbury,1.726736111111111
+PARK_Long Term Capital Improvement,Charlestown,1097.1375462962963
+PARK_Long Term Capital Improvement,Dorchester,34.15560185185185
+PARK_Maintenance_Ground Maintenance, ,87.36399839743589
+PARK_Maintenance_Ground Maintenance,Allston,5.179577546296296
+PARK_Maintenance_Ground Maintenance,Allston / Brighton,15.724718364197534
+PARK_Maintenance_Ground Maintenance,Back Bay,0.06684027777777778
+PARK_Maintenance_Ground Maintenance,Beacon Hill,104.94293055555556
+PARK_Maintenance_Ground Maintenance,Boston,36.83619864004629
+PARK_Maintenance_Ground Maintenance,Brighton,71.10596064814814
+PARK_Maintenance_Ground Maintenance,Charlestown,5.7898302469135805
+PARK_Maintenance_Ground Maintenance,Dorchester,14.221221064814815
+PARK_Maintenance_Ground Maintenance,Downtown / Financial District,6.600910493827161
+PARK_Maintenance_Ground Maintenance,East Boston,16.139430555555556
+PARK_Maintenance_Ground Maintenance,Fenway / Kenmore / Audubon Circle / Longwood,9.730965277777779
+PARK_Maintenance_Ground Maintenance,Greater Mattapan,25.820605709876542
+PARK_Maintenance_Ground Maintenance,Hyde Park,40.443711419753086
+PARK_Maintenance_Ground Maintenance,Jamaica Plain,3.132474809368192
+PARK_Maintenance_Ground Maintenance,Mission Hill,2.1192824074074075
+PARK_Maintenance_Ground Maintenance,Roslindale,55.66767361111112
+PARK_Maintenance_Ground Maintenance,Roxbury,23.51811673280423
+PARK_Maintenance_Ground Maintenance,South Boston,8.00914599867725
+PARK_Maintenance_Ground Maintenance,South Boston / South Boston Waterfront,47.06706365740741
+PARK_Maintenance_Ground Maintenance,South End,3.456599537037037
+PARK_Maintenance_Ground Maintenance,West Roxbury,17.620490740740742
+PARK_Maintenance_Horticulture, ,29.684711845466154
+PARK_Maintenance_Horticulture,Allston / Brighton,3.951261574074074
+PARK_Maintenance_Horticulture,Back Bay,9.090300925925925
+PARK_Maintenance_Horticulture,Beacon Hill,7.388900462962963
+PARK_Maintenance_Horticulture,Boston,11.281401353276353
+PARK_Maintenance_Horticulture,Charlestown,22.471851851851852
+PARK_Maintenance_Horticulture,Dorchester,23.021067971380475
+PARK_Maintenance_Horticulture,Downtown / Financial District,5.555596064814814
+PARK_Maintenance_Horticulture,East Boston,56.2177175925926
+PARK_Maintenance_Horticulture,Fenway / Kenmore / Audubon Circle / Longwood,4.8642669753086425
+PARK_Maintenance_Horticulture,Greater Mattapan,5.695060185185185
+PARK_Maintenance_Horticulture,Hyde Park,27.03086226851852
+PARK_Maintenance_Horticulture,Jamaica Plain,20.87961226851852
+PARK_Maintenance_Horticulture,Mattapan,18.798055555555557
+PARK_Maintenance_Horticulture,Mission Hill,23.371581790123457
+PARK_Maintenance_Horticulture,Roslindale,59.050700231481486
+PARK_Maintenance_Horticulture,Roxbury,7.07432098765432
+PARK_Maintenance_Horticulture,South End,1.082511574074074
+PARK_Maintenance_Horticulture,Unknown,7.43889274691358
+PARK_Maintenance_Horticulture,West Roxbury,10.654305555555554
+PARK_Maintenance_Lighting Electrical, ,83.25799189814815
+PARK_Maintenance_Lighting Electrical,Allston,78.6949537037037
+PARK_Maintenance_Lighting Electrical,Allston / Brighton,44.946541280864196
+PARK_Maintenance_Lighting Electrical,Back Bay,131.42965205439816
+PARK_Maintenance_Lighting Electrical,Beacon Hill,27.892583333333334
+PARK_Maintenance_Lighting Electrical,Boston,39.75444377153316
+PARK_Maintenance_Lighting Electrical,Brighton,56.859955632716044
+PARK_Maintenance_Lighting Electrical,Charlestown,44.52407021604938
+PARK_Maintenance_Lighting Electrical,Dorchester,37.7015887345679
+PARK_Maintenance_Lighting Electrical,Downtown / Financial District,19.72992621527778
+PARK_Maintenance_Lighting Electrical,East Boston,66.04354923433048
+PARK_Maintenance_Lighting Electrical,Fenway / Kenmore / Audubon Circle / Longwood,18.47226851851852
+PARK_Maintenance_Lighting Electrical,Greater Mattapan,67.82411892361111
+PARK_Maintenance_Lighting Electrical,Hyde Park,64.94505015432098
+PARK_Maintenance_Lighting Electrical,Jamaica Plain,49.272643314270155
+PARK_Maintenance_Lighting Electrical,Mattapan,47.84996527777778
+PARK_Maintenance_Lighting Electrical,Mission Hill,25.484892939814817
+PARK_Maintenance_Lighting Electrical,Roslindale,48.72470833333334
+PARK_Maintenance_Lighting Electrical,Roxbury,57.85115298202614
+PARK_Maintenance_Lighting Electrical,South Boston,27.573315972222222
+PARK_Maintenance_Lighting Electrical,South Boston / South Boston Waterfront,168.06728587962962
+PARK_Maintenance_Lighting Electrical,South End,36.70633101851852
+PARK_Maintenance_Lighting Electrical,West Roxbury,46.52818801440329
+PARK_Maintenance_Region 1, ,19.853521412037036
+PARK_Maintenance_Region 1,Back Bay,2.641999495489079
+PARK_Maintenance_Region 1,Beacon Hill,1.9127837240910635
+PARK_Maintenance_Region 1,Boston,3.9923547364672363
+PARK_Maintenance_Region 1,Charlestown,10.491762071039966
+PARK_Maintenance_Region 1,Downtown / Financial District,4.088494281719838
+PARK_Maintenance_Region 1,East Boston,10.67221419817927
+PARK_Maintenance_Region 1,Fenway / Kenmore / Audubon Circle / Longwood,8.667546296296296
+PARK_Maintenance_Region 1,Unknown,1.6753986625514403
+PARK_Maintenance_Region 2, ,18.66173024988129
+PARK_Maintenance_Region 2,Allston,3.0241435185185184
+PARK_Maintenance_Region 2,Allston / Brighton,4.736643518518519
+PARK_Maintenance_Region 2,Boston,1.2291493055555556
+PARK_Maintenance_Region 2,Brighton,3.3250925925925925
+PARK_Maintenance_Region 2,Charlestown,14.386261574074075
+PARK_Maintenance_Region 2,Dorchester,19.123140397419892
+PARK_Maintenance_Region 2,Downtown / Financial District,1.2968344907407408
+PARK_Maintenance_Region 2,Fenway / Kenmore / Audubon Circle / Longwood,71.88826388888889
+PARK_Maintenance_Region 2,Greater Mattapan,26.637144114973868
+PARK_Maintenance_Region 2,Hyde Park,131.87920428240741
+PARK_Maintenance_Region 2,Jamaica Plain,1.9659982638888889
+PARK_Maintenance_Region 2,Mattapan,14.755819376361657
+PARK_Maintenance_Region 2,Roslindale,4.9374375
+PARK_Maintenance_Region 2,Roxbury,16.35601025132275
+PARK_Maintenance_Region 2,South Boston,6.591716119528621
+PARK_Maintenance_Region 2,South Boston / South Boston Waterfront,8.460063470728794
+PARK_Maintenance_Region 2,West Roxbury,9.557170138888889
+PARK_Maintenance_Region 3, ,19.986749314128943
+PARK_Maintenance_Region 3,Back Bay,8.894490740740741
+PARK_Maintenance_Region 3,Boston,14.988282763532764
+PARK_Maintenance_Region 3,Dorchester,5.114606481481482
+PARK_Maintenance_Region 3,Fenway / Kenmore / Audubon Circle / Longwood,11.682425583594156
+PARK_Maintenance_Region 3,Greater Mattapan,14.486985652139209
+PARK_Maintenance_Region 3,Hyde Park,0.0011342592592592593
+PARK_Maintenance_Region 3,Jamaica Plain,22.30134903141196
+PARK_Maintenance_Region 3,Mission Hill,18.305328228869897
+PARK_Maintenance_Region 3,Roslindale,6.5799219821673525
+PARK_Maintenance_Region 3,Roxbury,9.135039910600256
+PARK_Maintenance_Region 3,South Boston / South Boston Waterfront,17.91991898148148
+PARK_Maintenance_Region 4, ,8.383277540360874
+PARK_Maintenance_Region 4,Allston,17.05839484126984
+PARK_Maintenance_Region 4,Allston / Brighton,4.819945391414142
+PARK_Maintenance_Region 4,Brighton,7.031571969696969
+PARK_Maintenance_Region 4,Hyde Park,5.977626653439153
+PARK_Maintenance_Region 4,Jamaica Plain,1.2607936507936508
+PARK_Maintenance_Region 4,Roslindale,5.395776694247439
+PARK_Maintenance_Region 4,West Roxbury,6.341475694444444
+PARK_Maintenance_Region 5, ,15.431680978693748
+PARK_Maintenance_Region 5,Allston / Brighton,62.25446759259259
+PARK_Maintenance_Region 5,Back Bay,2.443348765432099
+PARK_Maintenance_Region 5,Beacon Hill,13.397974537037037
+PARK_Maintenance_Region 5,Boston,4.573729166666666
+PARK_Maintenance_Region 5,Charlestown,12.128333333333334
+PARK_Maintenance_Region 5,Dorchester,9.94878900304414
+PARK_Maintenance_Region 5,Downtown / Financial District,4.5491104497354495
+PARK_Maintenance_Region 5,Greater Mattapan,13.875590277777778
+PARK_Maintenance_Region 5,Hyde Park,12.164537037037036
+PARK_Maintenance_Region 5,Jamaica Plain,13.369347993827162
+PARK_Maintenance_Region 5,Mission Hill,16.13923353909465
+PARK_Maintenance_Region 5,Roslindale,19.741180555555555
+PARK_Maintenance_Region 5,Roxbury,9.616223643197653
+PARK_Maintenance_Region 5,South Boston / South Boston Waterfront,5.960857124485597
+PARK_Maintenance_Region 5,South End,6.362198765432099
+PARK_Maintenance_Region 5,West Roxbury,3.242372685185185
+PARK_Maintenance_Region 6, ,7.09309944058642
+PARK_Maintenance_Region 6,Allston / Brighton,0.18734953703703705
+PARK_Maintenance_Region 6,Back Bay,3.7710937500000004
+PARK_Maintenance_Region 6,Boston,4.359575617283951
+PARK_Maintenance_Region 6,Dorchester,8.086269290123457
+PARK_Maintenance_Region 6,Downtown / Financial District,0.08621527777777778
+PARK_Maintenance_Region 6,Roxbury,7.921554335343095
+PARK_Maintenance_Region 6,South Boston,6.563318943943944
+PARK_Maintenance_Region 6,South Boston / South Boston Waterfront,6.701285673515981
+PARK_Maintenance_Region 6,South End,17.910145670572916
+PARK_Maintenance_Support Services, ,17.082426518087857
+PARK_Maintenance_Support Services,Allston / Brighton,1.635173611111111
+PARK_Maintenance_Support Services,Back Bay,6.979282407407408
+PARK_Maintenance_Support Services,Beacon Hill,1.0224074074074074
+PARK_Maintenance_Support Services,Boston,6.865015625
+PARK_Maintenance_Support Services,Charlestown,2.18525462962963
+PARK_Maintenance_Support Services,Dorchester,2.1420824430199428
+PARK_Maintenance_Support Services,Downtown / Financial District,5.044184027777778
+PARK_Maintenance_Support Services,Jamaica Plain,12.873045910493827
+PARK_Maintenance_Support Services,Mission Hill,0.4278645833333333
+PARK_Maintenance_Support Services,Roslindale,2.837662037037037
+PARK_Maintenance_Support Services,Roxbury,3.505833180034339
+PARK_Maintenance_Support Services,South Boston,4.298382844650206
+PARK_Maintenance_Support Services,South Boston / South Boston Waterfront,3.155553436358894
+PARK_Maintenance_Support Services,South End,3.2664918650793653
+PARK_Maintenance_Support Services,Unknown,5.845462962962963
+PARK_Maintenance_Support Services,West Roxbury,3.2468373842592593
+PARK_Maintenance_Trades, ,134.15714946776794
+PARK_Maintenance_Trades,Allston,46.4173837962963
+PARK_Maintenance_Trades,Allston / Brighton,60.81251993312757
+PARK_Maintenance_Trades,Back Bay,72.11401057307307
+PARK_Maintenance_Trades,Beacon Hill,105.92355241402116
+PARK_Maintenance_Trades,Boston,45.986113057820816
+PARK_Maintenance_Trades,Brighton,33.77794025997151
+PARK_Maintenance_Trades,Charlestown,93.24749238822156
+PARK_Maintenance_Trades,Chestnut Hill,9.021788194444445
+PARK_Maintenance_Trades,Dorchester,69.89925647870092
+PARK_Maintenance_Trades,Downtown / Financial District,112.18336004273503
+PARK_Maintenance_Trades,East Boston,57.320114293981476
+PARK_Maintenance_Trades,Fenway / Kenmore / Audubon Circle / Longwood,43.41204673423424
+PARK_Maintenance_Trades,Greater Mattapan,85.67870287698413
+PARK_Maintenance_Trades,Hyde Park,78.36926818783068
+PARK_Maintenance_Trades,Jamaica Plain,57.6315962226431
+PARK_Maintenance_Trades,Mattapan,74.0465920781893
+PARK_Maintenance_Trades,Mission Hill,59.1321174620133
+PARK_Maintenance_Trades,Roslindale,81.73051183127572
+PARK_Maintenance_Trades,Roxbury,58.11564081182561
+PARK_Maintenance_Trades,South Boston,46.9411761964887
+PARK_Maintenance_Trades,South Boston / South Boston Waterfront,64.65245997299384
+PARK_Maintenance_Trades,South End,64.57802268518518
+PARK_Maintenance_Trades,Unknown,165.25617283950615
+PARK_Maintenance_Trades,West Roxbury,52.47666112415232
+PARK_New Tree Requests, ,356.8708159722222
+PARK_New Tree Requests,Allston,110.41321035879629
+PARK_New Tree Requests,Allston / Brighton,163.84997434318555
+PARK_New Tree Requests,Back Bay,172.21282028256704
+PARK_New Tree Requests,Beacon Hill,116.86176697530864
+PARK_New Tree Requests,Boston,152.99254215511382
+PARK_New Tree Requests,Brighton,228.96304843304844
+PARK_New Tree Requests,Charlestown,154.24847978317513
+PARK_New Tree Requests,Dorchester,145.08492447042957
+PARK_New Tree Requests,Downtown / Financial District,172.07842161929372
+PARK_New Tree Requests,East Boston,152.06345314999385
+PARK_New Tree Requests,Fenway / Kenmore / Audubon Circle / Longwood,159.3562946269587
+PARK_New Tree Requests,Greater Mattapan,154.19348158360566
+PARK_New Tree Requests,Hyde Park,157.73312333808167
+PARK_New Tree Requests,Jamaica Plain,147.58192912037038
+PARK_New Tree Requests,Mattapan,151.78730324074073
+PARK_New Tree Requests,Mission Hill,231.8088089364035
+PARK_New Tree Requests,Roslindale,187.0671956673655
+PARK_New Tree Requests,Roxbury,155.98624743200233
+PARK_New Tree Requests,South Boston,184.88584104938272
+PARK_New Tree Requests,South Boston / South Boston Waterfront,173.75577942485756
+PARK_New Tree Requests,South End,151.36782085042256
+PARK_New Tree Requests,Unknown,344.50063078703704
+PARK_New Tree Requests,West Roxbury,170.00232888407888
+PARK_Painting, ,86.77492980072464
+PARK_Painting,Allston / Brighton,7.096116898148148
+PARK_Painting,Back Bay,44.55613040123456
+PARK_Painting,Beacon Hill,176.87524305555553
+PARK_Painting,Boston,32.26126114540467
+PARK_Painting,Brighton,0.06493055555555556
+PARK_Painting,Charlestown,58.96811535493827
+PARK_Painting,Dorchester,39.11310846560847
+PARK_Painting,Downtown / Financial District,64.4256087962963
+PARK_Painting,East Boston,66.07761574074075
+PARK_Painting,Fenway / Kenmore / Audubon Circle / Longwood,50.9091975308642
+PARK_Painting,Greater Mattapan,5.233854166666666
+PARK_Painting,Hyde Park,21.32845775462963
+PARK_Painting,Jamaica Plain,35.425327546296295
+PARK_Painting,Mission Hill,12.024363425925927
+PARK_Painting,Roslindale,143.05201774691358
+PARK_Painting,Roxbury,77.80915991512346
+PARK_Painting,South Boston,0.013981481481481482
+PARK_Painting,South Boston / South Boston Waterfront,4.0346875
+PARK_Painting,South End,21.250910493827163
+PARK_Painting,Unknown,7.1276118827160495
+PARK_Painting,West Roxbury,154.52670717592594
+PARK_Park Improvement Requests, ,287.9678668478261
+PARK_Park Improvement Requests,Allston,80.26222415123458
+PARK_Park Improvement Requests,Allston / Brighton,209.56864149305554
+PARK_Park Improvement Requests,Back Bay,343.1605476851852
+PARK_Park Improvement Requests,Beacon Hill,186.59816743827162
+PARK_Park Improvement Requests,Boston,128.10480372299384
+PARK_Park Improvement Requests,Brighton,88.40749228395062
+PARK_Park Improvement Requests,Charlestown,212.5716712962963
+PARK_Park Improvement Requests,Dorchester,107.3031244212963
+PARK_Park Improvement Requests,Downtown / Financial District,247.44783043981482
+PARK_Park Improvement Requests,East Boston,118.82734881365741
+PARK_Park Improvement Requests,Fenway / Kenmore / Audubon Circle / Longwood,68.80317708333334
+PARK_Park Improvement Requests,Greater Mattapan,273.69248842592594
+PARK_Park Improvement Requests,Hyde Park,11.524881365740741
+PARK_Park Improvement Requests,Jamaica Plain,178.28810609567898
+PARK_Park Improvement Requests,Mattapan,64.82443287037037
+PARK_Park Improvement Requests,Mission Hill,111.97281828703704
+PARK_Park Improvement Requests,Roslindale,89.72636466408268
+PARK_Park Improvement Requests,Roxbury,132.3381900542784
+PARK_Park Improvement Requests,South Boston,226.12787471064814
+PARK_Park Improvement Requests,South Boston / South Boston Waterfront,44.70644675925926
+PARK_Park Improvement Requests,South End,159.57369708994707
+PARK_Park Improvement Requests,Unknown,214.9748900462963
+PARK_Park Improvement Requests,West Roxbury,157.61824074074073
+PARK_Plumbing, ,49.29932911340545
+PARK_Plumbing,Allston,9.841797839506173
+PARK_Plumbing,Allston / Brighton,9.724738706509541
+PARK_Plumbing,Back Bay,13.203527612433861
+PARK_Plumbing,Beacon Hill,25.36596322016461
+PARK_Plumbing,Boston,18.29326792227834
+PARK_Plumbing,Brighton,30.87229638203018
+PARK_Plumbing,Charlestown,26.759615575396825
+PARK_Plumbing,Chestnut Hill,12.964340277777778
+PARK_Plumbing,Dorchester,18.641726380694855
+PARK_Plumbing,Downtown / Financial District,16.221130401234568
+PARK_Plumbing,East Boston,29.25447669579692
+PARK_Plumbing,Fenway / Kenmore / Audubon Circle / Longwood,57.290055555555554
+PARK_Plumbing,Greater Mattapan,16.226987433862433
+PARK_Plumbing,Hyde Park,17.695770061728396
+PARK_Plumbing,Jamaica Plain,27.60682928240741
+PARK_Plumbing,Mattapan,16.769155092592595
+PARK_Plumbing,Mission Hill,14.193586516203704
+PARK_Plumbing,Roslindale,14.105410434472933
+PARK_Plumbing,Roxbury,24.547926725809578
+PARK_Plumbing,South Boston,20.81009048821549
+PARK_Plumbing,South Boston / South Boston Waterfront,23.35207997311828
+PARK_Plumbing,South End,15.720725308641976
+PARK_Plumbing,Unknown,5.067320601851852
+PARK_Plumbing,West Roxbury,26.286094077568137
+PARK_Tree Emergencies, ,2.569756944444445
+PARK_Tree Emergencies,Allston,0.10646412037037037
+PARK_Tree Emergencies,Allston / Brighton,5.897247785829308
+PARK_Tree Emergencies,Back Bay,1.404230324074074
+PARK_Tree Emergencies,Beacon Hill,0.9895225694444445
+PARK_Tree Emergencies,Boston,1.424566798941799
+PARK_Tree Emergencies,Brighton,3.0177754629629634
+PARK_Tree Emergencies,Charlestown,1.418022803388495
+PARK_Tree Emergencies,Dorchester,3.1011832464467264
+PARK_Tree Emergencies,Downtown / Financial District,2.208584104938272
+PARK_Tree Emergencies,East Boston,6.4102651376705655
+PARK_Tree Emergencies,Fenway / Kenmore / Audubon Circle / Longwood,1.8202416087962963
+PARK_Tree Emergencies,Greater Mattapan,1.6860529715762276
+PARK_Tree Emergencies,Hyde Park,1.5830114530380053
+PARK_Tree Emergencies,Jamaica Plain,1.95393167989418
+PARK_Tree Emergencies,Mattapan,1.7734849537037036
+PARK_Tree Emergencies,Mission Hill,1.2132866236772486
+PARK_Tree Emergencies,Roslindale,2.52654845096669
+PARK_Tree Emergencies,Roxbury,1.7020891965155944
+PARK_Tree Emergencies,South Boston,0.27308333333333334
+PARK_Tree Emergencies,South Boston / South Boston Waterfront,3.0467883322310407
+PARK_Tree Emergencies,South End,2.361147486772487
+PARK_Tree Emergencies,West Roxbury,2.6338890258601797
+PARK_Tree Maintenance Request, ,127.85121106902356
+PARK_Tree Maintenance Request,Allston,18.73793209876543
+PARK_Tree Maintenance Request,Allston / Brighton,135.01056157042868
+PARK_Tree Maintenance Request,Back Bay,104.46617066936727
+PARK_Tree Maintenance Request,Beacon Hill,131.83640613348248
+PARK_Tree Maintenance Request,Boston,110.15096830197132
+PARK_Tree Maintenance Request,Brighton,106.6501940883191
+PARK_Tree Maintenance Request,Charlestown,254.40125995154034
+PARK_Tree Maintenance Request,Chestnut Hill,1329.8155208333333
+PARK_Tree Maintenance Request,Dorchester,151.42961305055056
+PARK_Tree Maintenance Request,Downtown / Financial District,185.32395395395395
+PARK_Tree Maintenance Request,East Boston,140.0920079751284
+PARK_Tree Maintenance Request,Fenway / Kenmore / Audubon Circle / Longwood,155.55031947848582
+PARK_Tree Maintenance Request,Greater Mattapan,144.56875329262454
+PARK_Tree Maintenance Request,Hyde Park,141.96262763191274
+PARK_Tree Maintenance Request,Jamaica Plain,154.5623420479303
+PARK_Tree Maintenance Request,Mission Hill,199.65005545910495
+PARK_Tree Maintenance Request,Roslindale,165.64196469907407
+PARK_Tree Maintenance Request,Roxbury,158.059052180946
+PARK_Tree Maintenance Request,South Boston,152.23847608024693
+PARK_Tree Maintenance Request,South Boston / South Boston Waterfront,133.09787065266488
+PARK_Tree Maintenance Request,South End,164.99333179012345
+PARK_Tree Maintenance Request,Unknown,644.2063657407407
+PARK_Tree Maintenance Request,West Roxbury,146.62794167493388
+PARK_Tree in Park, ,505.6419806763285
+PARK_Tree in Park,Allston,236.40478202160497
+PARK_Tree in Park,Allston / Brighton,209.3447227868112
+PARK_Tree in Park,Back Bay,260.43186959876545
+PARK_Tree in Park,Boston,314.6030058183183
+PARK_Tree in Park,Brighton,123.76682175925926
+PARK_Tree in Park,Charlestown,267.09685287309367
+PARK_Tree in Park,Dorchester,265.98622262286324
+PARK_Tree in Park,Downtown / Financial District,206.79314318783068
+PARK_Tree in Park,East Boston,409.1100780316607
+PARK_Tree in Park,Fenway / Kenmore / Audubon Circle / Longwood,114.9225191417379
+PARK_Tree in Park,Greater Mattapan,427.27348755005005
+PARK_Tree in Park,Hyde Park,425.8045964856902
+PARK_Tree in Park,Jamaica Plain,303.09848910108025
+PARK_Tree in Park,Mattapan,294.1431001984127
+PARK_Tree in Park,Mission Hill,265.1396377995643
+PARK_Tree in Park,Roslindale,373.8917257771164
+PARK_Tree in Park,Roxbury,328.3066257122507
+PARK_Tree in Park,South Boston,151.5108134920635
+PARK_Tree in Park,South Boston / South Boston Waterfront,163.00301241582494
+PARK_Tree in Park,South End,318.52947102194787
+PARK_Tree in Park,West Roxbury,385.54829923673674
+PARK_Urban_Wilds,East Boston,34.7649537037037
+PARK_Urban_Wilds,Greater Mattapan,0.7843518518518519
+PARK_Urban_Wilds,Hyde Park,1.9968171296296295
+PARK_Urban_Wilds,Jamaica Plain,0.08223379629629629
+PARK_Urban_Wilds,West Roxbury,12.661417824074075
+PARK_Welding, ,85.3862949143173
+PARK_Welding,Allston,11.110043981481482
+PARK_Welding,Allston / Brighton,71.1634923510467
+PARK_Welding,Back Bay,66.2292599826389
+PARK_Welding,Beacon Hill,328.97588413065847
+PARK_Welding,Boston,64.57477041245791
+PARK_Welding,Brighton,35.31652777777778
+PARK_Welding,Charlestown,28.539217522446688
+PARK_Welding,Dorchester,70.07985236625514
+PARK_Welding,Downtown / Financial District,41.00928667153996
+PARK_Welding,East Boston,33.79923971615058
+PARK_Welding,Fenway / Kenmore / Audubon Circle / Longwood,37.37478632478632
+PARK_Welding,Greater Mattapan,57.11142708333333
+PARK_Welding,Hyde Park,73.16475188078704
+PARK_Welding,Jamaica Plain,79.65973756459948
+PARK_Welding,Mattapan,42.15368923611111
+PARK_Welding,Mission Hill,56.87991687710437
+PARK_Welding,Roslindale,68.74321960547505
+PARK_Welding,Roxbury,47.53342020861223
+PARK_Welding,South Boston,97.12524127492877
+PARK_Welding,South Boston / South Boston Waterfront,56.81118882275132
+PARK_Welding,South End,50.34528833061002
+PARK_Welding,Unknown,241.88695370370368
+PARK_Welding,West Roxbury,32.967494855967075
+PROP_GRAF_GraffitiRemoval, ,450.4019146825397
+PROP_GRAF_GraffitiRemoval,Allston,229.6156674041298
+PROP_GRAF_GraffitiRemoval,Allston / Brighton,209.88894359827265
+PROP_GRAF_GraffitiRemoval,Back Bay,199.10506926681902
+PROP_GRAF_GraffitiRemoval,Beacon Hill,323.59160295804656
+PROP_GRAF_GraffitiRemoval,Boston,215.9665923259647
+PROP_GRAF_GraffitiRemoval,Brighton,260.8445226051669
+PROP_GRAF_GraffitiRemoval,Charlestown,125.77372011676779
+PROP_GRAF_GraffitiRemoval,Dorchester,223.35461999663931
+PROP_GRAF_GraffitiRemoval,Downtown / Financial District,209.55235283367733
+PROP_GRAF_GraffitiRemoval,East Boston,164.6077599867725
+PROP_GRAF_GraffitiRemoval,Fenway / Kenmore / Audubon Circle / Longwood,243.9310246619002
+PROP_GRAF_GraffitiRemoval,Greater Mattapan,361.018339832145
+PROP_GRAF_GraffitiRemoval,Hyde Park,212.81921096901357
+PROP_GRAF_GraffitiRemoval,Jamaica Plain,211.30839060544142
+PROP_GRAF_GraffitiRemoval,Mattapan,234.73898389274692
+PROP_GRAF_GraffitiRemoval,Mission Hill,198.19191858868754
+PROP_GRAF_GraffitiRemoval,Roslindale,168.04377084975047
+PROP_GRAF_GraffitiRemoval,Roxbury,182.44776089463033
+PROP_GRAF_GraffitiRemoval,South Boston,143.45936458333333
+PROP_GRAF_GraffitiRemoval,South Boston / South Boston Waterfront,170.36376316683655
+PROP_GRAF_GraffitiRemoval,South End,225.94728691180617
+PROP_GRAF_GraffitiRemoval,Unknown,634.189196937322
+PROP_GRAF_GraffitiRemoval,West Roxbury,144.94801033314243
+PWDx_Administration, ,67.44991266835017
+PWDx_Administration,Allston,0.13630787037037037
+PWDx_Administration,Allston / Brighton,3.9572506313131313
+PWDx_Administration,Back Bay,30.779282407407408
+PWDx_Administration,Beacon Hill,2.5925966435185184
+PWDx_Administration,Boston,5.440136846405229
+PWDx_Administration,Charlestown,8.242907529239766
+PWDx_Administration,Dorchester,14.772746913580248
+PWDx_Administration,Downtown / Financial District,4.167272524928775
+PWDx_Administration,East Boston,31.74677248677249
+PWDx_Administration,Fenway / Kenmore / Audubon Circle / Longwood,12.148355324074075
+PWDx_Administration,Greater Mattapan,4.611935763888889
+PWDx_Administration,Hyde Park,1.2183819444444446
+PWDx_Administration,Jamaica Plain,5.209823232323232
+PWDx_Administration,Mattapan,5.631454475308641
+PWDx_Administration,Mission Hill,3.226721322016461
+PWDx_Administration,Roslindale,21.442417052469136
+PWDx_Administration,Roxbury,7.483908772554606
+PWDx_Administration,South Boston,0.08064814814814815
+PWDx_Administration,South Boston / South Boston Waterfront,10.380535148635477
+PWDx_Administration,South End,2.634692410213243
+PWDx_Administration,West Roxbury,5.733499074074074
+PWDx_Bridge Maintenance, ,152.32734953703704
+PWDx_Bridge Maintenance,Allston,5.099861111111111
+PWDx_Bridge Maintenance,Allston / Brighton,51.856231192129634
+PWDx_Bridge Maintenance,Back Bay,20.878030626780628
+PWDx_Bridge Maintenance,Boston,64.88595538720539
+PWDx_Bridge Maintenance,Charlestown,50.310869467028006
+PWDx_Bridge Maintenance,Dorchester,70.50299520502645
+PWDx_Bridge Maintenance,Downtown / Financial District,46.971071937321945
+PWDx_Bridge Maintenance,East Boston,85.80056655092594
+PWDx_Bridge Maintenance,Fenway / Kenmore / Audubon Circle / Longwood,7.151886574074074
+PWDx_Bridge Maintenance,Greater Mattapan,11.339406828703703
+PWDx_Bridge Maintenance,Hyde Park,25.242253472222224
+PWDx_Bridge Maintenance,Jamaica Plain,53.479265572390574
+PWDx_Bridge Maintenance,Mattapan,1.97125
+PWDx_Bridge Maintenance,Mission Hill,20.1909375
+PWDx_Bridge Maintenance,Roslindale,95.43064814814815
+PWDx_Bridge Maintenance,Roxbury,9.754186921296297
+PWDx_Bridge Maintenance,South Boston,6.462426697530863
+PWDx_Bridge Maintenance,South Boston / South Boston Waterfront,71.9161410290007
+PWDx_Bridge Maintenance,South End,46.206064814814816
+PWDx_Bridge Maintenance,Unknown,37.58809523809524
+PWDx_Bridge Maintenance,West Roxbury,464.19341435185186
+PWDx_Code Enforcement, ,6.784969907407408
+PWDx_Code Enforcement,Allston,1.317182158119658
+PWDx_Code Enforcement,Allston / Brighton,1.648829600612008
+PWDx_Code Enforcement,Back Bay,2.301546858050519
+PWDx_Code Enforcement,Beacon Hill,2.4073236531986533
+PWDx_Code Enforcement,Boston,12.80463463077275
+PWDx_Code Enforcement,Brighton,1.3131879340277777
+PWDx_Code Enforcement,Charlestown,2.14484740990991
+PWDx_Code Enforcement,Dorchester,4.492077079941663
+PWDx_Code Enforcement,Downtown / Financial District,2.6701252293960627
+PWDx_Code Enforcement,East Boston,11.816759924435928
+PWDx_Code Enforcement,Fenway / Kenmore / Audubon Circle / Longwood,1.273587873931624
+PWDx_Code Enforcement,Greater Mattapan,7.300358950617284
+PWDx_Code Enforcement,Hyde Park,1.5390982320407656
+PWDx_Code Enforcement,Jamaica Plain,1.5754917134554767
+PWDx_Code Enforcement,Mattapan,0.6526591435185185
+PWDx_Code Enforcement,Mission Hill,4.8191207292563885
+PWDx_Code Enforcement,Roslindale,1.0462953016493055
+PWDx_Code Enforcement,Roxbury,2.0336864041568163
+PWDx_Code Enforcement,South Boston,4.083660175120772
+PWDx_Code Enforcement,South Boston / South Boston Waterfront,3.007387971698113
+PWDx_Code Enforcement,South End,2.3442114763846416
+PWDx_Code Enforcement,Unknown,2.1916883680555554
+PWDx_Code Enforcement,West Roxbury,1.3955793845315903
+PWDx_Complaint Against PWD Employee, ,15.934756944444445
+PWDx_Complaint Against PWD Employee,Dorchester,12.021284722222223
+PWDx_Complaint Against PWD Employee,Roxbury,27.094953703703705
+PWDx_Contractor Complaints, ,25.915738425925927
+PWDx_Contractor Complaints,Allston,6.047461226851852
+PWDx_Contractor Complaints,Allston / Brighton,13.50282572239422
+PWDx_Contractor Complaints,Back Bay,19.075060257349676
+PWDx_Contractor Complaints,Beacon Hill,20.14998431408382
+PWDx_Contractor Complaints,Boston,11.706684548885379
+PWDx_Contractor Complaints,Brighton,10.102360387731482
+PWDx_Contractor Complaints,Charlestown,16.644657866767545
+PWDx_Contractor Complaints,Dorchester,14.906231190083293
+PWDx_Contractor Complaints,Downtown / Financial District,15.709140381619937
+PWDx_Contractor Complaints,East Boston,13.446940951263134
+PWDx_Contractor Complaints,Fenway / Kenmore / Audubon Circle / Longwood,11.002585988979778
+PWDx_Contractor Complaints,Greater Mattapan,21.413938732078854
+PWDx_Contractor Complaints,Hyde Park,14.538093171296296
+PWDx_Contractor Complaints,Jamaica Plain,11.970794359410432
+PWDx_Contractor Complaints,Mattapan,25.946592881944444
+PWDx_Contractor Complaints,Mission Hill,6.835027343750001
+PWDx_Contractor Complaints,Roslindale,9.575181015400924
+PWDx_Contractor Complaints,Roxbury,10.917221064814814
+PWDx_Contractor Complaints,South Boston,13.289085834826762
+PWDx_Contractor Complaints,South Boston / South Boston Waterfront,10.77903755587484
+PWDx_Contractor Complaints,South End,16.25244118755383
+PWDx_Contractor Complaints,Unknown,6.115193602693603
+PWDx_Contractor Complaints,West Roxbury,16.296481690023356
+PWDx_District 02: Jamaica Plain, ,7.585409301346801
+PWDx_District 02: Jamaica Plain,Beacon Hill,1.9848726851851852
+PWDx_District 02: Jamaica Plain,Boston,0.30855324074074075
+PWDx_District 02: Jamaica Plain,Dorchester,6.185789930555556
+PWDx_District 02: Jamaica Plain,Downtown / Financial District,9.394261574074076
+PWDx_District 02: Jamaica Plain,Greater Mattapan,4.481281939992877
+PWDx_District 02: Jamaica Plain,Hyde Park,1.0243171296296296
+PWDx_District 02: Jamaica Plain,Jamaica Plain,6.812895539659163
+PWDx_District 02: Jamaica Plain,Mission Hill,2.971658950617284
+PWDx_District 02: Jamaica Plain,Roslindale,5.725480024306572
+PWDx_District 02: Jamaica Plain,Roxbury,1.8829850589225592
+PWDx_District 02: Jamaica Plain,South End,29.014085648148146
+PWDx_District 02: Jamaica Plain,Unknown,1.0017824074074073
+PWDx_District 02: Jamaica Plain,West Roxbury,2.3242983217592594
+PWDx_District 03: North Dorchester, ,19.07568198005698
+PWDx_District 03: North Dorchester,Allston / Brighton,13.146030092592593
+PWDx_District 03: North Dorchester,Back Bay,3.007152777777778
+PWDx_District 03: North Dorchester,Dorchester,6.3118042784815875
+PWDx_District 03: North Dorchester,Downtown / Financial District,12.042687114197532
+PWDx_District 03: North Dorchester,Greater Mattapan,7.436497638772858
+PWDx_District 03: North Dorchester,Roxbury,6.724349861618688
+PWDx_District 03: North Dorchester,South Boston / South Boston Waterfront,17.726556712962964
+PWDx_District 04: Allston/Brighton, ,19.28500096450617
+PWDx_District 04: Allston/Brighton,Allston,23.29085841049383
+PWDx_District 04: Allston/Brighton,Allston / Brighton,9.947177379052668
+PWDx_District 04: Allston/Brighton,Back Bay,4.587488425925926
+PWDx_District 04: Allston/Brighton,Boston,7.05996074879227
+PWDx_District 04: Allston/Brighton,Brighton,12.791890766540535
+PWDx_District 04: Allston/Brighton,Downtown / Financial District,4.013719135802469
+PWDx_District 04: Allston/Brighton,Fenway / Kenmore / Audubon Circle / Longwood,2.2012037037037038
+PWDx_District 04: Allston/Brighton,Mission Hill,20.14357638888889
+PWDx_District 04: Allston/Brighton,Roslindale,6.236412037037037
+PWDx_District 04: Allston/Brighton,Roxbury,1.5365046296296296
+PWDx_District 04: Allston/Brighton,Unknown,11.206547364672364
+PWDx_District 05: South Boston, ,14.882400730056979
+PWDx_District 05: South Boston,Boston,7.471957236842105
+PWDx_District 05: South Boston,Dorchester,4.07769386574074
+PWDx_District 05: South Boston,Downtown / Financial District,19.698935185185185
+PWDx_District 05: South Boston,Roxbury,4.715115740740741
+PWDx_District 05: South Boston,South Boston,14.672931751642386
+PWDx_District 05: South Boston,South Boston / South Boston Waterfront,12.924857313278483
+PWDx_District 05: South Boston,Unknown,4.667385912698413
+PWDx_District 06: West Roxbury and Roslindale, ,4.3917906746031745
+PWDx_District 06: West Roxbury and Roslindale,Boston,1.7895138888888888
+PWDx_District 06: West Roxbury and Roslindale,Charlestown,1.010300925925926
+PWDx_District 06: West Roxbury and Roslindale,Chestnut Hill,0.9580844907407408
+PWDx_District 06: West Roxbury and Roslindale,Downtown / Financial District,40.4753125
+PWDx_District 06: West Roxbury and Roslindale,Hyde Park,10.983333333333334
+PWDx_District 06: West Roxbury and Roslindale,Jamaica Plain,0.49854166666666666
+PWDx_District 06: West Roxbury and Roslindale,Roslindale,2.2624901987801294
+PWDx_District 06: West Roxbury and Roslindale,South Boston / South Boston Waterfront,0.01778935185185185
+PWDx_District 06: West Roxbury and Roslindale,Unknown,2.610642361111111
+PWDx_District 06: West Roxbury and Roslindale,West Roxbury,2.3219553379648272
+PWDx_District 07: South Dorchester, ,10.280213477366255
+PWDx_District 07: South Dorchester,Beacon Hill,2.4634027777777776
+PWDx_District 07: South Dorchester,Boston,2.4335208333333336
+PWDx_District 07: South Dorchester,Dorchester,12.004146412037038
+PWDx_District 07: South Dorchester,Downtown / Financial District,14.645682870370372
+PWDx_District 07: South Dorchester,Greater Mattapan,13.222785116329637
+PWDx_District 07: South Dorchester,Hyde Park,10.00889274691358
+PWDx_District 07: South Dorchester,Jamaica Plain,0.6470949074074074
+PWDx_District 07: South Dorchester,Mattapan,12.99277852934103
+PWDx_District 07: South Dorchester,Roslindale,19.234675925925927
+PWDx_District 07: South Dorchester,Roxbury,2.1440104166666667
+PWDx_District 07: South Dorchester,South Boston / South Boston Waterfront,41.07971064814815
+PWDx_District 07: South Dorchester,South End,22.94846064814815
+PWDx_District 08: Hyde Park, ,6.104874614197531
+PWDx_District 08: Hyde Park,Downtown / Financial District,0.07184027777777778
+PWDx_District 08: Hyde Park,Greater Mattapan,3.1047421855580413
+PWDx_District 08: Hyde Park,Hyde Park,3.100494605638753
+PWDx_District 08: Hyde Park,Mattapan,1.2623567708333334
+PWDx_District 08: Hyde Park,Roslindale,5.104206863113113
+PWDx_District 08: Hyde Park,Roxbury,7.705868055555555
+PWDx_District 08: Hyde Park,Unknown,0.8977256944444444
+PWDx_District 08: Hyde Park,West Roxbury,0.3478771219135803
+PWDx_District 09: East Boston, ,19.796130401234567
+PWDx_District 09: East Boston,Dorchester,44.07369212962963
+PWDx_District 09: East Boston,Downtown / Financial District,0.5126331018518518
+PWDx_District 09: East Boston,East Boston,10.529439654370593
+PWDx_District 10A: Roxbury, ,33.67252989969136
+PWDx_District 10A: Roxbury,Allston / Brighton,12.143237847222222
+PWDx_District 10A: Roxbury,Back Bay,10.706342952408367
+PWDx_District 10A: Roxbury,Boston,9.05182337595532
+PWDx_District 10A: Roxbury,Dorchester,5.876469907407407
+PWDx_District 10A: Roxbury,Downtown / Financial District,16.27204475308642
+PWDx_District 10A: Roxbury,Fenway / Kenmore / Audubon Circle / Longwood,8.672258523093378
+PWDx_District 10A: Roxbury,Greater Mattapan,53.19574459876543
+PWDx_District 10A: Roxbury,Jamaica Plain,9.22449665303832
+PWDx_District 10A: Roxbury,Mission Hill,8.314325408971873
+PWDx_District 10A: Roxbury,Roxbury,9.366911915204678
+PWDx_District 10A: Roxbury,South Boston / South Boston Waterfront,4.029054783950618
+PWDx_District 10A: Roxbury,South End,3.3977708333333334
+PWDx_District 10A: Roxbury,Unknown,6.111583543771044
+PWDx_District 10B: Roxbury, ,41.27773148148148
+PWDx_District 10B: Roxbury,Back Bay,4.077604166666666
+PWDx_District 10B: Roxbury,Boston,6.487285236625514
+PWDx_District 10B: Roxbury,Dorchester,11.917206307870371
+PWDx_District 10B: Roxbury,Downtown / Financial District,0.994537037037037
+PWDx_District 10B: Roxbury,Fenway / Kenmore / Audubon Circle / Longwood,9.778705357142856
+PWDx_District 10B: Roxbury,Greater Mattapan,25.87335648148148
+PWDx_District 10B: Roxbury,Jamaica Plain,13.730482842097823
+PWDx_District 10B: Roxbury,Mission Hill,11.86698016826923
+PWDx_District 10B: Roxbury,Roxbury,12.476165531587874
+PWDx_District 10B: Roxbury,South Boston / South Boston Waterfront,1.3619791666666667
+PWDx_District 10B: Roxbury,South End,10.558200231481482
+PWDx_District 10B: Roxbury,Unknown,2.047029320987654
+PWDx_District 1A: Charlestown, ,24.57261959876543
+PWDx_District 1A: Charlestown,Back Bay,0.08179398148148148
+PWDx_District 1A: Charlestown,Beacon Hill,1.6523225308641976
+PWDx_District 1A: Charlestown,Charlestown,6.246513943559054
+PWDx_District 1A: Charlestown,Mission Hill,0.10802083333333333
+PWDx_District 1A: Charlestown,South Boston / South Boston Waterfront,3.0248032407407406
+PWDx_District 1A: Charlestown,Unknown,1.15181801994302
+PWDx_District 1B: North End, ,19.302492283950617
+PWDx_District 1B: North End,Allston / Brighton,0.012453703703703703
+PWDx_District 1B: North End,Back Bay,6.920981986358787
+PWDx_District 1B: North End,Beacon Hill,5.218220444065267
+PWDx_District 1B: North End,Boston,6.931803798358075
+PWDx_District 1B: North End,Downtown / Financial District,6.058547300882098
+PWDx_District 1B: North End,East Boston,5.049328703703703
+PWDx_District 1B: North End,Fenway / Kenmore / Audubon Circle / Longwood,41.39568287037037
+PWDx_District 1B: North End,Roxbury,1.9980150462962964
+PWDx_District 1B: North End,South Boston / South Boston Waterfront,0.17049189814814814
+PWDx_District 1B: North End,South End,15.281172453703704
+PWDx_District 1B: North End,Unknown,3.104013888888889
+PWDx_District 1C: Downtown, ,21.5774360670194
+PWDx_District 1C: Downtown,Allston / Brighton,16.456880787037036
+PWDx_District 1C: Downtown,Back Bay,8.675016357002697
+PWDx_District 1C: Downtown,Beacon Hill,4.173074603174602
+PWDx_District 1C: Downtown,Boston,9.731113199765858
+PWDx_District 1C: Downtown,Charlestown,11.100775462962963
+PWDx_District 1C: Downtown,Dorchester,2.0355103114478115
+PWDx_District 1C: Downtown,Downtown / Financial District,8.021928076436724
+PWDx_District 1C: Downtown,Fenway / Kenmore / Audubon Circle / Longwood,7.495413773148148
+PWDx_District 1C: Downtown,Mission Hill,2.5813368055555554
+PWDx_District 1C: Downtown,Roxbury,9.191328628802147
+PWDx_District 1C: Downtown,South Boston / South Boston Waterfront,8.364012382075472
+PWDx_District 1C: Downtown,South End,9.845283234872369
+PWDx_District 1C: Downtown,Unknown,3.257061708089669
+PWDx_Empty Litter Basket, ,6.552100694444444
+PWDx_Empty Litter Basket,Allston / Brighton,0.87921875
+PWDx_Empty Litter Basket,Back Bay,2.2425250106428267
+PWDx_Empty Litter Basket,Beacon Hill,5.140753161698283
+PWDx_Empty Litter Basket,Boston,4.108833333333333
+PWDx_Empty Litter Basket,Charlestown,4.365422202093398
+PWDx_Empty Litter Basket,Dorchester,23.71120949074074
+PWDx_Empty Litter Basket,Downtown / Financial District,4.2503415501594315
+PWDx_Empty Litter Basket,East Boston,4.418049768518518
+PWDx_Empty Litter Basket,Fenway / Kenmore / Audubon Circle / Longwood,2.336953125
+PWDx_Empty Litter Basket,Greater Mattapan,5.90386574074074
+PWDx_Empty Litter Basket,Hyde Park,1.0931944444444444
+PWDx_Empty Litter Basket,Jamaica Plain,2.8746944444444447
+PWDx_Empty Litter Basket,Mission Hill,1.7921354166666665
+PWDx_Empty Litter Basket,Roxbury,3.3753398919753086
+PWDx_Empty Litter Basket,South Boston,0.9622222222222223
+PWDx_Empty Litter Basket,South Boston / South Boston Waterfront,10.618678977272728
+PWDx_Empty Litter Basket,South End,2.6912844364426154
+PWDx_Empty Litter Basket,Unknown,1.5974623842592592
+PWDx_Empty Litter Basket,West Roxbury,0.06101851851851852
+PWDx_Engineering_Design, ,348.00121438746436
+PWDx_Engineering_Design,Allston,209.9972511574074
+PWDx_Engineering_Design,Allston / Brighton,381.1237747122122
+PWDx_Engineering_Design,Back Bay,387.3886432613169
+PWDx_Engineering_Design,Beacon Hill,602.7936689814815
+PWDx_Engineering_Design,Boston,362.1406985294118
+PWDx_Engineering_Design,Brighton,230.9719849537037
+PWDx_Engineering_Design,Charlestown,179.79010501355015
+PWDx_Engineering_Design,Dorchester,359.52847441191193
+PWDx_Engineering_Design,Downtown / Financial District,358.8749152612434
+PWDx_Engineering_Design,East Boston,354.7286747685185
+PWDx_Engineering_Design,Fenway / Kenmore / Audubon Circle / Longwood,484.49404513888885
+PWDx_Engineering_Design,Greater Mattapan,403.75000289351857
+PWDx_Engineering_Design,Hyde Park,218.33622685185185
+PWDx_Engineering_Design,Jamaica Plain,280.14316984953706
+PWDx_Engineering_Design,Mission Hill,484.0859837962963
+PWDx_Engineering_Design,Roslindale,210.62849074074074
+PWDx_Engineering_Design,Roxbury,242.2741019758598
+PWDx_Engineering_Design,South Boston,83.41223765432099
+PWDx_Engineering_Design,South Boston / South Boston Waterfront,263.2251473283179
+PWDx_Engineering_Design,South End,127.85133294753086
+PWDx_Engineering_Design,Unknown,48.97851851851852
+PWDx_Engineering_Design,West Roxbury,320.9786305555555
+PWDx_Engineering_PIC, ,56.295462962962965
+PWDx_Engineering_PIC,Allston / Brighton,61.87707175925926
+PWDx_Engineering_PIC,Back Bay,175.45271590099716
+PWDx_Engineering_PIC,Boston,186.92361426767675
+PWDx_Engineering_PIC,Charlestown,11.997546296296296
+PWDx_Engineering_PIC,Dorchester,257.79041377314815
+PWDx_Engineering_PIC,Downtown / Financial District,320.1328387345679
+PWDx_Engineering_PIC,East Boston,36.12252314814815
+PWDx_Engineering_PIC,Fenway / Kenmore / Audubon Circle / Longwood,74.66217757936508
+PWDx_Engineering_PIC,Greater Mattapan,21.64824074074074
+PWDx_Engineering_PIC,Hyde Park,96.37454861111111
+PWDx_Engineering_PIC,Jamaica Plain,242.03698206018518
+PWDx_Engineering_PIC,Mission Hill,178.34749768518517
+PWDx_Engineering_PIC,Roslindale,130.93673032407406
+PWDx_Engineering_PIC,Roxbury,116.69983217592593
+PWDx_Engineering_PIC,South Boston / South Boston Waterfront,350.76718460648146
+PWDx_Engineering_PIC,South End,62.998275462962965
+PWDx_Engineering_PIC,West Roxbury,265.52540509259256
+PWDx_General Comments, ,12.849025462962963
+PWDx_General Comments,Beacon Hill,366.55260416666664
+PWDx_General Comments,Downtown / Financial District,9.624143518518519
+PWDx_General Comments,Greater Mattapan,11.044508101851852
+PWDx_General Comments,South Boston / South Boston Waterfront,1.0056597222222223
+PWDx_Graffiti, ,240.54951620370372
+PWDx_Graffiti,Allston,100.39522183641976
+PWDx_Graffiti,Allston / Brighton,59.01895773051697
+PWDx_Graffiti,Back Bay,96.06223842592593
+PWDx_Graffiti,Beacon Hill,66.48307291666667
+PWDx_Graffiti,Boston,92.63475067515432
+PWDx_Graffiti,Brighton,27.854181134259257
+PWDx_Graffiti,Charlestown,46.81760660331384
+PWDx_Graffiti,Dorchester,82.5580324074074
+PWDx_Graffiti,Downtown / Financial District,84.14067515432099
+PWDx_Graffiti,East Boston,52.57985032172002
+PWDx_Graffiti,Fenway / Kenmore / Audubon Circle / Longwood,118.07536720272904
+PWDx_Graffiti,Greater Mattapan,154.39577293113425
+PWDx_Graffiti,Hyde Park,70.16519267429193
+PWDx_Graffiti,Jamaica Plain,52.19699094559161
+PWDx_Graffiti,Mattapan,0.6024421296296296
+PWDx_Graffiti,Mission Hill,61.897762868801
+PWDx_Graffiti,Roslindale,47.849416182170536
+PWDx_Graffiti,Roxbury,58.28258026573321
+PWDx_Graffiti,South Boston,61.80959701178451
+PWDx_Graffiti,South Boston / South Boston Waterfront,86.90679902659069
+PWDx_Graffiti,South End,57.18988240169182
+PWDx_Graffiti,Unknown,88.02922839506174
+PWDx_Graffiti,West Roxbury,30.14275318287037
+PWDx_Highway Construction, ,69.49720223063973
+PWDx_Highway Construction,Allston,840.0035841049383
+PWDx_Highway Construction,Allston / Brighton,354.9511958899828
+PWDx_Highway Construction,Back Bay,254.94306451149424
+PWDx_Highway Construction,Beacon Hill,233.90742550850032
+PWDx_Highway Construction,Boston,288.774797705314
+PWDx_Highway Construction,Brighton,492.3004083994709
+PWDx_Highway Construction,Charlestown,331.1864703660537
+PWDx_Highway Construction,Dorchester,284.98253082287493
+PWDx_Highway Construction,Downtown / Financial District,265.2136339612656
+PWDx_Highway Construction,East Boston,222.77246792791624
+PWDx_Highway Construction,Fenway / Kenmore / Audubon Circle / Longwood,192.3313836050725
+PWDx_Highway Construction,Greater Mattapan,339.22914887688614
+PWDx_Highway Construction,Hyde Park,162.27392120775147
+PWDx_Highway Construction,Jamaica Plain,178.51876457217762
+PWDx_Highway Construction,Mattapan,531.192625
+PWDx_Highway Construction,Mission Hill,248.279481427228
+PWDx_Highway Construction,Roslindale,208.40672658661265
+PWDx_Highway Construction,Roxbury,357.8877681772317
+PWDx_Highway Construction,South Boston,102.60129540598291
+PWDx_Highway Construction,South Boston / South Boston Waterfront,118.6585438712522
+PWDx_Highway Construction,South End,201.68847307704834
+PWDx_Highway Construction,Unknown,290.62333333333333
+PWDx_Highway Construction,West Roxbury,277.10738242398406
+PWDx_Highway Construction General, ,76.78499228395061
+PWDx_Highway Construction General,Allston / Brighton,109.03476577729046
+PWDx_Highway Construction General,Back Bay,89.30064875730994
+PWDx_Highway Construction General,Beacon Hill,88.31639187008979
+PWDx_Highway Construction General,Boston,120.9862679811508
+PWDx_Highway Construction General,Brighton,355.178359375
+PWDx_Highway Construction General,Charlestown,69.91702596618357
+PWDx_Highway Construction General,Dorchester,49.07875489907898
+PWDx_Highway Construction General,Downtown / Financial District,94.25935917422525
+PWDx_Highway Construction General,East Boston,69.91010714285714
+PWDx_Highway Construction General,Fenway / Kenmore / Audubon Circle / Longwood,144.71276920438956
+PWDx_Highway Construction General,Greater Mattapan,107.53784221254837
+PWDx_Highway Construction General,Hyde Park,49.964061281676415
+PWDx_Highway Construction General,Jamaica Plain,83.43514120370371
+PWDx_Highway Construction General,Mattapan,87.52062114197531
+PWDx_Highway Construction General,Mission Hill,60.66212818287037
+PWDx_Highway Construction General,Roslindale,127.55960129310344
+PWDx_Highway Construction General,Roxbury,67.65509494664155
+PWDx_Highway Construction General,South Boston,104.62081018518518
+PWDx_Highway Construction General,South Boston / South Boston Waterfront,69.60775929380874
+PWDx_Highway Construction General,South End,76.2985685483871
+PWDx_Highway Construction General,Unknown,288.8592476851852
+PWDx_Highway Construction General,West Roxbury,96.93077546296297
+PWDx_IPL Damaged Cart Replacement, ,11.021226851851852
+PWDx_IPL Damaged Cart Replacement,Allston,76.4894921875
+PWDx_IPL Damaged Cart Replacement,Allston / Brighton,28.236573691811078
+PWDx_IPL Damaged Cart Replacement,Back Bay,20.224638047138047
+PWDx_IPL Damaged Cart Replacement,Beacon Hill,7.821796296296296
+PWDx_IPL Damaged Cart Replacement,Boston,59.754641203703706
+PWDx_IPL Damaged Cart Replacement,Brighton,37.223774691358024
+PWDx_IPL Damaged Cart Replacement,Charlestown,27.964064164764082
+PWDx_IPL Damaged Cart Replacement,Dorchester,60.39120924592459
+PWDx_IPL Damaged Cart Replacement,Downtown / Financial District,145.4146267361111
+PWDx_IPL Damaged Cart Replacement,East Boston,46.12691320568141
+PWDx_IPL Damaged Cart Replacement,Fenway / Kenmore / Audubon Circle / Longwood,18.34079089506173
+PWDx_IPL Damaged Cart Replacement,Greater Mattapan,45.128646834550814
+PWDx_IPL Damaged Cart Replacement,Hyde Park,42.044175787068596
+PWDx_IPL Damaged Cart Replacement,Jamaica Plain,44.040980994152044
+PWDx_IPL Damaged Cart Replacement,Mattapan,26.149109953703704
+PWDx_IPL Damaged Cart Replacement,Mission Hill,49.87085177553927
+PWDx_IPL Damaged Cart Replacement,Roslindale,41.84676231907194
+PWDx_IPL Damaged Cart Replacement,Roxbury,37.54703639403292
+PWDx_IPL Damaged Cart Replacement,South Boston,27.134705246913583
+PWDx_IPL Damaged Cart Replacement,South Boston / South Boston Waterfront,49.8217325398315
+PWDx_IPL Damaged Cart Replacement,South End,40.008838975694445
+PWDx_IPL Damaged Cart Replacement,West Roxbury,32.537296006944445
+PWDx_Litter Basket Maintenance, ,0.0008564814814814815
+PWDx_Litter Basket Maintenance,Allston / Brighton,0.7083809156378601
+PWDx_Litter Basket Maintenance,Back Bay,1.353272399237473
+PWDx_Litter Basket Maintenance,Beacon Hill,3.6030216049382715
+PWDx_Litter Basket Maintenance,Boston,2.875830577601411
+PWDx_Litter Basket Maintenance,Brighton,0.9993171296296296
+PWDx_Litter Basket Maintenance,Charlestown,2.6201273148148148
+PWDx_Litter Basket Maintenance,Dorchester,4.920454749103943
+PWDx_Litter Basket Maintenance,Downtown / Financial District,2.541874748389694
+PWDx_Litter Basket Maintenance,East Boston,3.1738787615740742
+PWDx_Litter Basket Maintenance,Fenway / Kenmore / Audubon Circle / Longwood,1.0659104938271606
+PWDx_Litter Basket Maintenance,Greater Mattapan,0.6208275462962963
+PWDx_Litter Basket Maintenance,Hyde Park,0.15443287037037037
+PWDx_Litter Basket Maintenance,Jamaica Plain,8.450777777777777
+PWDx_Litter Basket Maintenance,Mission Hill,106.8972723765432
+PWDx_Litter Basket Maintenance,Roslindale,0.8524672067901234
+PWDx_Litter Basket Maintenance,Roxbury,4.591399636243386
+PWDx_Litter Basket Maintenance,South Boston / South Boston Waterfront,1.3791203703703703
+PWDx_Litter Basket Maintenance,South End,6.001190159574468
+PWDx_Litter Basket Maintenance,West Roxbury,0.6931481481481482
+PWDx_Major System Failure, ,1.0578819444444445
+PWDx_Major System Failure,Allston,1.249050925925926
+PWDx_Major System Failure,Allston / Brighton,34.19630963590709
+PWDx_Major System Failure,Back Bay,33.36796036204744
+PWDx_Major System Failure,Beacon Hill,22.95465663580247
+PWDx_Major System Failure,Boston,20.948118179563494
+PWDx_Major System Failure,Brighton,5.530833333333334
+PWDx_Major System Failure,Charlestown,39.496062352245865
+PWDx_Major System Failure,Dorchester,26.149532241149988
+PWDx_Major System Failure,Downtown / Financial District,36.527415168058226
+PWDx_Major System Failure,East Boston,27.53201339285714
+PWDx_Major System Failure,Fenway / Kenmore / Audubon Circle / Longwood,29.266613828502415
+PWDx_Major System Failure,Greater Mattapan,27.141205433163048
+PWDx_Major System Failure,Hyde Park,23.89369658119658
+PWDx_Major System Failure,Jamaica Plain,37.13365678178178
+PWDx_Major System Failure,Mattapan,14.85990162037037
+PWDx_Major System Failure,Mission Hill,26.410787358539096
+PWDx_Major System Failure,Roslindale,19.49841931216931
+PWDx_Major System Failure,Roxbury,25.603230447766467
+PWDx_Major System Failure,South Boston,19.130956018518518
+PWDx_Major System Failure,South Boston / South Boston Waterfront,24.747611963937622
+PWDx_Major System Failure,South End,31.977969646583205
+PWDx_Major System Failure,Unknown,45.96743184156379
+PWDx_Major System Failure,West Roxbury,74.89490869341563
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item, ,1.6393205589849107
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Allston,2.3704695767195765
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Allston / Brighton,0.7741880841121496
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Back Bay,0.959147524928775
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Beacon Hill,3.8456895861911295
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Boston,1.7868458652618135
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Brighton,1.137829245468873
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Charlestown,1.07858373998999
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Chestnut Hill,0.6754629629629629
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Dorchester,1.6285398104472395
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Downtown / Financial District,11.516612873526936
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,East Boston,1.8117962113489636
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Fenway / Kenmore / Audubon Circle / Longwood,1.0859274598393573
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Greater Mattapan,0.7729885278566919
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Hyde Park,0.7792161445435033
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Jamaica Plain,0.6868978953164329
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Mattapan,0.7200305555555556
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Mission Hill,0.7992399293623521
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Roslindale,1.0285492063492063
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Roxbury,1.595713229826329
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,South Boston,0.4507365740740741
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,South Boston / South Boston Waterfront,2.2869390117157975
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,South End,1.1450843534212178
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,Unknown,1.123605324074074
+PWDx_Missed Trash\Recycling\Yard Waste\Bulk Item,West Roxbury,1.5183999341475096
+PWDx_News Boxes,Back Bay,204.05748842592592
+PWDx_News Boxes,Beacon Hill,0.10031635802469135
+PWDx_News Boxes,Boston,37.960940806878305
+PWDx_News Boxes,Downtown / Financial District,14.635196759259259
+PWDx_News Boxes,Fenway / Kenmore / Audubon Circle / Longwood,12.94525462962963
+PWDx_News Boxes,South Boston,32.99503472222222
+PWDx_News Boxes,South Boston / South Boston Waterfront,17.13020447530864
+PWDx_News Boxes,South End,229.84082175925926
+PWDx_Permitting (Internal), ,81.09665895061728
+PWDx_Permitting (Internal),Hyde Park,5.861493055555556
+PWDx_Permitting (Internal),Jamaica Plain,3.431863425925926
+PWDx_Permitting (Internal),Roxbury,4.678495370370371
+PWDx_Permitting (Internal),South Boston / South Boston Waterfront,0.9385532407407408
+PWDx_Permitting (Internal),West Roxbury,179.04030092592592
+PWDx_Pick Up Dead Animals, ,2.9633842592592594
+PWDx_Pick Up Dead Animals,Allston / Brighton,0.1859953703703704
+PWDx_Pick Up Dead Animals,Boston,0.5717862654320988
+PWDx_Pick Up Dead Animals,Dorchester,2.979586226851852
+PWDx_Pick Up Dead Animals,East Boston,9.997928240740741
+PWDx_Pick Up Dead Animals,Fenway / Kenmore / Audubon Circle / Longwood,4.9858622685185185
+PWDx_Pick Up Dead Animals,Hyde Park,0.9873032407407407
+PWDx_Pick Up Dead Animals,Jamaica Plain,31.318784722222222
+PWDx_Pick Up Dead Animals,Mission Hill,2.155266203703704
+PWDx_Pick Up Dead Animals,Roxbury,7.619936342592593
+PWDx_Pick Up Dead Animals,South Boston,1.3007638888888888
+PWDx_Pick Up Dead Animals,South Boston / South Boston Waterfront,0.2270023148148148
+PWDx_Pick Up Dead Animals,South End,3.6137847222222224
+PWDx_Pick Up Dead Animals,Unknown,4.073140432098765
+PWDx_Pick Up Dead Animals,West Roxbury,1.0174074074074073
+PWDx_Recycling, ,21.727450547138048
+PWDx_Recycling,Allston,8.757377314814814
+PWDx_Recycling,Allston / Brighton,22.640364611562784
+PWDx_Recycling,Back Bay,17.439187625125125
+PWDx_Recycling,Beacon Hill,27.492856125356123
+PWDx_Recycling,Boston,63.09300347222222
+PWDx_Recycling,Brighton,32.52322731481482
+PWDx_Recycling,Charlestown,25.067866645381013
+PWDx_Recycling,Dorchester,38.84571513157895
+PWDx_Recycling,Downtown / Financial District,13.4729083994709
+PWDx_Recycling,East Boston,22.562134330362788
+PWDx_Recycling,Fenway / Kenmore / Audubon Circle / Longwood,13.551907407407407
+PWDx_Recycling,Greater Mattapan,39.47294883407655
+PWDx_Recycling,Hyde Park,43.77610857828049
+PWDx_Recycling,Jamaica Plain,29.395502773193986
+PWDx_Recycling,Mattapan,19.027514467592592
+PWDx_Recycling,Mission Hill,30.65200634057971
+PWDx_Recycling,Roslindale,26.65051856112247
+PWDx_Recycling,Roxbury,35.80781392207054
+PWDx_Recycling,South Boston,41.68677432739344
+PWDx_Recycling,South Boston / South Boston Waterfront,23.419855662677303
+PWDx_Recycling,South End,24.036915632387707
+PWDx_Recycling,Unknown,51.006967592592595
+PWDx_Recycling,West Roxbury,24.329801704359227
+PWDx_Recycling Cart Return, ,15.895196759259258
+PWDx_Recycling Cart Return,Allston,60.204791666666665
+PWDx_Recycling Cart Return,Allston / Brighton,14.968866718831507
+PWDx_Recycling Cart Return,Back Bay,12.44015162037037
+PWDx_Recycling Cart Return,Beacon Hill,9.534932484567902
+PWDx_Recycling Cart Return,Boston,32.07403935185185
+PWDx_Recycling Cart Return,Brighton,17.776938014403292
+PWDx_Recycling Cart Return,Charlestown,7.109377104377105
+PWDx_Recycling Cart Return,Dorchester,16.19528930152979
+PWDx_Recycling Cart Return,Downtown / Financial District,15.3134765625
+PWDx_Recycling Cart Return,East Boston,18.420770691970596
+PWDx_Recycling Cart Return,Fenway / Kenmore / Audubon Circle / Longwood,49.16637731481482
+PWDx_Recycling Cart Return,Greater Mattapan,15.078071526484583
+PWDx_Recycling Cart Return,Hyde Park,18.557138339217143
+PWDx_Recycling Cart Return,Jamaica Plain,13.072027516427719
+PWDx_Recycling Cart Return,Mattapan,6.056328125
+PWDx_Recycling Cart Return,Mission Hill,15.41897190293742
+PWDx_Recycling Cart Return,Roslindale,15.293226364522416
+PWDx_Recycling Cart Return,Roxbury,15.352296418935492
+PWDx_Recycling Cart Return,South Boston,9.695701058201058
+PWDx_Recycling Cart Return,South Boston / South Boston Waterfront,15.501266907225855
+PWDx_Recycling Cart Return,South End,12.199042022792023
+PWDx_Recycling Cart Return,West Roxbury,12.875924508692366
+PWDx_Recycling Sent to Contractor,Allston,12.919246399176954
+PWDx_Recycling Sent to Contractor,Allston / Brighton,18.192652919790955
+PWDx_Recycling Sent to Contractor,Back Bay,15.196972044159544
+PWDx_Recycling Sent to Contractor,Beacon Hill,15.248216820987656
+PWDx_Recycling Sent to Contractor,Boston,37.43016292735042
+PWDx_Recycling Sent to Contractor,Brighton,18.25656681190995
+PWDx_Recycling Sent to Contractor,Charlestown,8.805051209507228
+PWDx_Recycling Sent to Contractor,Chestnut Hill,11.327256944444445
+PWDx_Recycling Sent to Contractor,Dorchester,21.06118737649331
+PWDx_Recycling Sent to Contractor,Downtown / Financial District,16.386305555555555
+PWDx_Recycling Sent to Contractor,East Boston,14.67056488459298
+PWDx_Recycling Sent to Contractor,Fenway / Kenmore / Audubon Circle / Longwood,15.117814814814816
+PWDx_Recycling Sent to Contractor,Greater Mattapan,18.254555160587152
+PWDx_Recycling Sent to Contractor,Hyde Park,19.125182209397657
+PWDx_Recycling Sent to Contractor,Jamaica Plain,18.450653775490338
+PWDx_Recycling Sent to Contractor,Mattapan,15.746986641589507
+PWDx_Recycling Sent to Contractor,Mission Hill,11.452335851476477
+PWDx_Recycling Sent to Contractor,Roslindale,14.161677508461889
+PWDx_Recycling Sent to Contractor,Roxbury,17.335602815315315
+PWDx_Recycling Sent to Contractor,South Boston,9.566247685185186
+PWDx_Recycling Sent to Contractor,South Boston / South Boston Waterfront,10.026830511689667
+PWDx_Recycling Sent to Contractor,South End,10.405817274305555
+PWDx_Recycling Sent to Contractor,West Roxbury,12.279232776928305
+PWDx_Recycling_BigBuildings,Allston,90.20293981481481
+PWDx_Recycling_BigBuildings,Allston / Brighton,161.79561053240744
+PWDx_Recycling_BigBuildings,Back Bay,4.915532407407407
+PWDx_Recycling_BigBuildings,Boston,145.32095679012346
+PWDx_Recycling_BigBuildings,Brighton,16.499074074074073
+PWDx_Recycling_BigBuildings,Charlestown,40.52016203703704
+PWDx_Recycling_BigBuildings,Dorchester,55.23619474313023
+PWDx_Recycling_BigBuildings,Downtown / Financial District,29.540823412698412
+PWDx_Recycling_BigBuildings,East Boston,55.32073302469136
+PWDx_Recycling_BigBuildings,Fenway / Kenmore / Audubon Circle / Longwood,201.84342923280425
+PWDx_Recycling_BigBuildings,Greater Mattapan,49.11792879188713
+PWDx_Recycling_BigBuildings,Hyde Park,49.79980902777778
+PWDx_Recycling_BigBuildings,Jamaica Plain,116.07525523879143
+PWDx_Recycling_BigBuildings,Mattapan,85.04896219135803
+PWDx_Recycling_BigBuildings,Mission Hill,279.7405825617284
+PWDx_Recycling_BigBuildings,Roslindale,21.989938271604938
+PWDx_Recycling_BigBuildings,Roxbury,67.98359876543209
+PWDx_Recycling_BigBuildings,South Boston / South Boston Waterfront,35.68280257936508
+PWDx_Recycling_BigBuildings,South End,75.68190972222223
+PWDx_Recycling_BigBuildings,West Roxbury,14.655321180555555
+PWDx_Request for Litter Basket Installation, ,28.118557098765432
+PWDx_Request for Litter Basket Installation,Allston / Brighton,12.332242063492064
+PWDx_Request for Litter Basket Installation,Back Bay,35.87467824074074
+PWDx_Request for Litter Basket Installation,Beacon Hill,16.507145061728398
+PWDx_Request for Litter Basket Installation,Boston,27.151423611111113
+PWDx_Request for Litter Basket Installation,Charlestown,0.8845543981481482
+PWDx_Request for Litter Basket Installation,Dorchester,20.57687830687831
+PWDx_Request for Litter Basket Installation,Downtown / Financial District,65.21549024470899
+PWDx_Request for Litter Basket Installation,East Boston,22.562779706790124
+PWDx_Request for Litter Basket Installation,Fenway / Kenmore / Audubon Circle / Longwood,27.43119675925926
+PWDx_Request for Litter Basket Installation,Greater Mattapan,32.33232104700855
+PWDx_Request for Litter Basket Installation,Hyde Park,13.46917438271605
+PWDx_Request for Litter Basket Installation,Jamaica Plain,10.818701388888888
+PWDx_Request for Litter Basket Installation,Mission Hill,8.799216820987654
+PWDx_Request for Litter Basket Installation,Roslindale,1.497022890946502
+PWDx_Request for Litter Basket Installation,Roxbury,9.437797880116959
+PWDx_Request for Litter Basket Installation,South Boston / South Boston Waterfront,10.730974893162394
+PWDx_Request for Litter Basket Installation,South End,19.822891203703705
+PWDx_Request for Litter Basket Installation,West Roxbury,1.869675925925926
+PWDx_Request for Street Cleaning, ,11.546087962962963
+PWDx_Request for Street Cleaning,Allston / Brighton,1.3589606481481482
+PWDx_Request for Street Cleaning,Back Bay,136.6808912037037
+PWDx_Request for Street Cleaning,Beacon Hill,0.8170717592592592
+PWDx_Request for Street Cleaning,Boston,11.412480709876542
+PWDx_Request for Street Cleaning,Charlestown,3.8640856481481483
+PWDx_Request for Street Cleaning,Dorchester,10.453347222222224
+PWDx_Request for Street Cleaning,Downtown / Financial District,0.4920688657407407
+PWDx_Request for Street Cleaning,East Boston,0.01363425925925926
+PWDx_Request for Street Cleaning,Fenway / Kenmore / Audubon Circle / Longwood,4.028182870370371
+PWDx_Request for Street Cleaning,Greater Mattapan,2.023553240740741
+PWDx_Request for Street Cleaning,Hyde Park,1880.8937962962964
+PWDx_Request for Street Cleaning,Jamaica Plain,1.5180803571428572
+PWDx_Request for Street Cleaning,Mission Hill,206.21983796296297
+PWDx_Request for Street Cleaning,Roslindale,110.07515046296297
+PWDx_Request for Street Cleaning,Roxbury,5.766535493827161
+PWDx_Request for Street Cleaning,South Boston,0.918125
+PWDx_Request for Street Cleaning,South Boston / South Boston Waterfront,37.469743055555554
+PWDx_Request for Street Cleaning,South End,5.374930555555555
+PWDx_Request for Street Cleaning,West Roxbury,2.4760590277777776
+PWDx_Requests for Pothole Repair, ,5.030966094771242
+PWDx_Requests for Pothole Repair,Allston / Brighton,41.34558883101852
+PWDx_Requests for Pothole Repair,Back Bay,3.767136863425926
+PWDx_Requests for Pothole Repair,Beacon Hill,1.9283834876543213
+PWDx_Requests for Pothole Repair,Boston,16.040694444444444
+PWDx_Requests for Pothole Repair,Charlestown,3.313194444444444
+PWDx_Requests for Pothole Repair,Dorchester,3.5495679012345676
+PWDx_Requests for Pothole Repair,Downtown / Financial District,55.71868827160494
+PWDx_Requests for Pothole Repair,East Boston,0.025138888888888888
+PWDx_Requests for Pothole Repair,Fenway / Kenmore / Audubon Circle / Longwood,5.58307098765432
+PWDx_Requests for Pothole Repair,Greater Mattapan,0.9991319444444444
+PWDx_Requests for Pothole Repair,Hyde Park,20.443506944444444
+PWDx_Requests for Pothole Repair,Jamaica Plain,151.38427469135803
+PWDx_Requests for Pothole Repair,Mission Hill,4.153700810185185
+PWDx_Requests for Pothole Repair,Roslindale,9.14537037037037
+PWDx_Requests for Pothole Repair,Roxbury,103.52499999999999
+PWDx_Requests for Pothole Repair,South Boston / South Boston Waterfront,3.6704359567901235
+PWDx_Requests for Pothole Repair,South End,1.865730613425926
+PWDx_Requests for Pothole Repair,Unknown,1.814386574074074
+PWDx_Requests for Pothole Repair,West Roxbury,1.7566782407407406
+PWDx_Requests for Snow Plowing, ,4.579661323751076
+PWDx_Requests for Snow Plowing,Allston / Brighton,5.289799382716049
+PWDx_Requests for Snow Plowing,Back Bay,79.90560474537037
+PWDx_Requests for Snow Plowing,Boston,6.76507957175926
+PWDx_Requests for Snow Plowing,Brighton,4.9151851851851855
+PWDx_Requests for Snow Plowing,Charlestown,6.700700676638177
+PWDx_Requests for Snow Plowing,Dorchester,7.496730061026937
+PWDx_Requests for Snow Plowing,Downtown / Financial District,6.096140046296296
+PWDx_Requests for Snow Plowing,East Boston,7.5128790509259264
+PWDx_Requests for Snow Plowing,Fenway / Kenmore / Audubon Circle / Longwood,9.250628858024692
+PWDx_Requests for Snow Plowing,Greater Mattapan,4.1946347736625516
+PWDx_Requests for Snow Plowing,Hyde Park,6.934106867283951
+PWDx_Requests for Snow Plowing,Jamaica Plain,16.70115787037037
+PWDx_Requests for Snow Plowing,Mattapan,17.161242283950617
+PWDx_Requests for Snow Plowing,Mission Hill,4.6974375
+PWDx_Requests for Snow Plowing,Roslindale,4.954346064814815
+PWDx_Requests for Snow Plowing,Roxbury,6.251094907407407
+PWDx_Requests for Snow Plowing,South Boston,4.743284143518519
+PWDx_Requests for Snow Plowing,South Boston / South Boston Waterfront,4.284036265432098
+PWDx_Requests for Snow Plowing,South End,3.873940145502645
+PWDx_Requests for Snow Plowing,Unknown,133.88878472222223
+PWDx_Requests for Snow Plowing,West Roxbury,7.451501906318083
+PWDx_Roadway Repair, ,440.2999845679012
+PWDx_Roadway Repair,Allston,5.000960648148149
+PWDx_Roadway Repair,Allston / Brighton,210.62444830246915
+PWDx_Roadway Repair,Back Bay,729.4338960537918
+PWDx_Roadway Repair,Beacon Hill,44.84057175925926
+PWDx_Roadway Repair,Boston,542.1364172979797
+PWDx_Roadway Repair,Brighton,463.7708603395062
+PWDx_Roadway Repair,Charlestown,377.3412941261574
+PWDx_Roadway Repair,Dorchester,415.63599492521365
+PWDx_Roadway Repair,Downtown / Financial District,393.6491898148148
+PWDx_Roadway Repair,East Boston,200.05594022331155
+PWDx_Roadway Repair,Fenway / Kenmore / Audubon Circle / Longwood,76.64271634615385
+PWDx_Roadway Repair,Greater Mattapan,462.3631093409586
+PWDx_Roadway Repair,Hyde Park,402.9749101631393
+PWDx_Roadway Repair,Jamaica Plain,515.6509972472472
+PWDx_Roadway Repair,Mattapan,1609.9650347222223
+PWDx_Roadway Repair,Mission Hill,732.0497132201647
+PWDx_Roadway Repair,Roslindale,751.8059453914142
+PWDx_Roadway Repair,Roxbury,510.1593319088319
+PWDx_Roadway Repair,South Boston / South Boston Waterfront,279.4515397805213
+PWDx_Roadway Repair,South End,439.61816398635483
+PWDx_Roadway Repair,Unknown,106.70317129629629
+PWDx_Roadway Repair,West Roxbury,399.04457297758285
+PWDx_Roadway Repair_ARP_Resurfacing, ,683.1604693930041
+PWDx_Roadway Repair_ARP_Resurfacing,Allston,2.233090277777778
+PWDx_Roadway Repair_ARP_Resurfacing,Allston / Brighton,85.04867019980507
+PWDx_Roadway Repair_ARP_Resurfacing,Back Bay,291.9065907622739
+PWDx_Roadway Repair_ARP_Resurfacing,Beacon Hill,246.9866230936819
+PWDx_Roadway Repair_ARP_Resurfacing,Boston,214.29690031828704
+PWDx_Roadway Repair_ARP_Resurfacing,Brighton,0.8663888888888889
+PWDx_Roadway Repair_ARP_Resurfacing,Charlestown,315.20475694444445
+PWDx_Roadway Repair_ARP_Resurfacing,Dorchester,317.3086375661375
+PWDx_Roadway Repair_ARP_Resurfacing,Downtown / Financial District,184.0347234623016
+PWDx_Roadway Repair_ARP_Resurfacing,East Boston,260.4813136574074
+PWDx_Roadway Repair_ARP_Resurfacing,Fenway / Kenmore / Audubon Circle / Longwood,307.3599837962963
+PWDx_Roadway Repair_ARP_Resurfacing,Greater Mattapan,29.354751157407406
+PWDx_Roadway Repair_ARP_Resurfacing,Hyde Park,347.9140013227513
+PWDx_Roadway Repair_ARP_Resurfacing,Jamaica Plain,266.4134386022928
+PWDx_Roadway Repair_ARP_Resurfacing,Mission Hill,395.01348842592597
+PWDx_Roadway Repair_ARP_Resurfacing,Roslindale,144.5216724537037
+PWDx_Roadway Repair_ARP_Resurfacing,Roxbury,350.4563141317547
+PWDx_Roadway Repair_ARP_Resurfacing,South Boston,220.47839891975306
+PWDx_Roadway Repair_ARP_Resurfacing,South Boston / South Boston Waterfront,160.49836980920315
+PWDx_Roadway Repair_ARP_Resurfacing,South End,520.9312122770918
+PWDx_Roadway Repair_ARP_Resurfacing,West Roxbury,404.31824983465606
+PWDx_Roadway Repair_CRP_Resurfacing, ,785.2776813271605
+PWDx_Roadway Repair_CRP_Resurfacing,Allston / Brighton,88.84709270282187
+PWDx_Roadway Repair_CRP_Resurfacing,Back Bay,516.3412588507625
+PWDx_Roadway Repair_CRP_Resurfacing,Beacon Hill,274.0199282407408
+PWDx_Roadway Repair_CRP_Resurfacing,Boston,202.72794675925925
+PWDx_Roadway Repair_CRP_Resurfacing,Brighton,1.5932407407407407
+PWDx_Roadway Repair_CRP_Resurfacing,Charlestown,469.2493185763889
+PWDx_Roadway Repair_CRP_Resurfacing,Dorchester,645.3531430844907
+PWDx_Roadway Repair_CRP_Resurfacing,Downtown / Financial District,492.97476490162035
+PWDx_Roadway Repair_CRP_Resurfacing,East Boston,203.2818220899471
+PWDx_Roadway Repair_CRP_Resurfacing,Fenway / Kenmore / Audubon Circle / Longwood,347.11301697530865
+PWDx_Roadway Repair_CRP_Resurfacing,Greater Mattapan,391.7277912808642
+PWDx_Roadway Repair_CRP_Resurfacing,Hyde Park,821.1512885802468
+PWDx_Roadway Repair_CRP_Resurfacing,Jamaica Plain,665.1443958333333
+PWDx_Roadway Repair_CRP_Resurfacing,Mission Hill,1366.6841493055554
+PWDx_Roadway Repair_CRP_Resurfacing,Roslindale,276.3775853587963
+PWDx_Roadway Repair_CRP_Resurfacing,Roxbury,429.70839554398145
+PWDx_Roadway Repair_CRP_Resurfacing,South Boston,441.8252083333333
+PWDx_Roadway Repair_CRP_Resurfacing,South Boston / South Boston Waterfront,205.5029690545809
+PWDx_Roadway Repair_CRP_Resurfacing,South End,364.1326408179012
+PWDx_Roadway Repair_CRP_Resurfacing,Unknown,260.9999652777778
+PWDx_Roadway Repair_CRP_Resurfacing,West Roxbury,444.22127232142856
+PWDx_Roadway Repair_Patch Paving, ,12.816354166666667
+PWDx_Roadway Repair_Patch Paving,Allston / Brighton,1829.3109895833334
+PWDx_Roadway Repair_Patch Paving,Back Bay,640.0017332175926
+PWDx_Roadway Repair_Patch Paving,Beacon Hill,809.9005208333333
+PWDx_Roadway Repair_Patch Paving,Boston,161.9640943287037
+PWDx_Roadway Repair_Patch Paving,Charlestown,798.3415625000001
+PWDx_Roadway Repair_Patch Paving,Dorchester,210.05912326388886
+PWDx_Roadway Repair_Patch Paving,East Boston,549.9514097222223
+PWDx_Roadway Repair_Patch Paving,Fenway / Kenmore / Audubon Circle / Longwood,825.0526131687243
+PWDx_Roadway Repair_Patch Paving,Greater Mattapan,67.20347222222222
+PWDx_Roadway Repair_Patch Paving,Hyde Park,270.8365532407407
+PWDx_Roadway Repair_Patch Paving,Jamaica Plain,373.68493827160495
+PWDx_Roadway Repair_Patch Paving,Mission Hill,248.63251446759259
+PWDx_Roadway Repair_Patch Paving,Roslindale,359.6366832010582
+PWDx_Roadway Repair_Patch Paving,Roxbury,333.8785804398148
+PWDx_Roadway Repair_Patch Paving,South Boston,272.29175925925927
+PWDx_Roadway Repair_Patch Paving,South Boston / South Boston Waterfront,598.1843113425925
+PWDx_Roadway Repair_Patch Paving,South End,1184.3830709876543
+PWDx_Roadway Repair_Patch Paving,West Roxbury,319.814724537037
+PWDx_Roadway Repair_Ponding,Allston / Brighton,1276.0549961419754
+PWDx_Roadway Repair_Ponding,Back Bay,32.44788483796296
+PWDx_Roadway Repair_Ponding,Charlestown,1061.7453973765432
+PWDx_Roadway Repair_Ponding,Dorchester,437.8980169753086
+PWDx_Roadway Repair_Ponding,Downtown / Financial District,400.6739699074074
+PWDx_Roadway Repair_Ponding,East Boston,594.0162601273148
+PWDx_Roadway Repair_Ponding,Fenway / Kenmore / Audubon Circle / Longwood,111.55804398148148
+PWDx_Roadway Repair_Ponding,Greater Mattapan,532.4007159391534
+PWDx_Roadway Repair_Ponding,Hyde Park,953.3277546296297
+PWDx_Roadway Repair_Ponding,Jamaica Plain,850.568509837963
+PWDx_Roadway Repair_Ponding,Mission Hill,101.08763888888889
+PWDx_Roadway Repair_Ponding,Roslindale,1322.7692685185186
+PWDx_Roadway Repair_Ponding,Roxbury,112.88741319444445
+PWDx_Roadway Repair_Ponding,South Boston / South Boston Waterfront,45.49214409722222
+PWDx_Roadway Repair_Ponding,South End,292.8424681712963
+PWDx_Roadway Repair_Ponding,West Roxbury,319.3450636574074
+PWDx_Roadway Repair_Reconstruction, ,444.56163194444446
+PWDx_Roadway Repair_Reconstruction,Allston,679.0644907407408
+PWDx_Roadway Repair_Reconstruction,Allston / Brighton,556.232890625
+PWDx_Roadway Repair_Reconstruction,Back Bay,488.0094399928775
+PWDx_Roadway Repair_Reconstruction,Beacon Hill,451.615390625
+PWDx_Roadway Repair_Reconstruction,Boston,170.39147055041153
+PWDx_Roadway Repair_Reconstruction,Charlestown,172.7598173868313
+PWDx_Roadway Repair_Reconstruction,Dorchester,303.4054439484127
+PWDx_Roadway Repair_Reconstruction,Downtown / Financial District,300.9971334586466
+PWDx_Roadway Repair_Reconstruction,East Boston,205.49113161375664
+PWDx_Roadway Repair_Reconstruction,Fenway / Kenmore / Audubon Circle / Longwood,410.2266782407408
+PWDx_Roadway Repair_Reconstruction,Greater Mattapan,275.9541889245014
+PWDx_Roadway Repair_Reconstruction,Hyde Park,277.70611074942127
+PWDx_Roadway Repair_Reconstruction,Jamaica Plain,587.4989625420875
+PWDx_Roadway Repair_Reconstruction,Mission Hill,525.368425925926
+PWDx_Roadway Repair_Reconstruction,Roslindale,597.5574897119342
+PWDx_Roadway Repair_Reconstruction,Roxbury,365.951788510101
+PWDx_Roadway Repair_Reconstruction,South Boston,283.62427469135804
+PWDx_Roadway Repair_Reconstruction,South Boston / South Boston Waterfront,305.0709666495199
+PWDx_Roadway Repair_Reconstruction,South End,159.41920806623932
+PWDx_Roadway Repair_Reconstruction,Unknown,152.0358912037037
+PWDx_Roadway Repair_Reconstruction,West Roxbury,532.1139807581019
+PWDx_STRL Pole Compliance,Allston / Brighton,142.6185157126824
+PWDx_STRL Pole Compliance,Back Bay,79.77902223526344
+PWDx_STRL Pole Compliance,Beacon Hill,72.37601208847737
+PWDx_STRL Pole Compliance,Boston,169.2828345630787
+PWDx_STRL Pole Compliance,Charlestown,153.0815311819172
+PWDx_STRL Pole Compliance,Dorchester,167.83887249228397
+PWDx_STRL Pole Compliance,Downtown / Financial District,127.64188223379628
+PWDx_STRL Pole Compliance,East Boston,109.19520949074074
+PWDx_STRL Pole Compliance,Fenway / Kenmore / Audubon Circle / Longwood,100.67997845441596
+PWDx_STRL Pole Compliance,Greater Mattapan,245.0362800925926
+PWDx_STRL Pole Compliance,Hyde Park,66.53484953703703
+PWDx_STRL Pole Compliance,Jamaica Plain,146.60379629629628
+PWDx_STRL Pole Compliance,Mission Hill,327.8457986111111
+PWDx_STRL Pole Compliance,Roslindale,94.93442129629629
+PWDx_STRL Pole Compliance,Roxbury,158.77839285714285
+PWDx_STRL Pole Compliance,South Boston,3.5801099537037038
+PWDx_STRL Pole Compliance,South Boston / South Boston Waterfront,201.28709731867283
+PWDx_STRL Pole Compliance,South End,55.06259748931624
+PWDx_STRL Pole Compliance,Unknown,91.03655478395062
+PWDx_Schedule a Bulk Item Pickup, ,3.6877623456790123
+PWDx_Schedule a Bulk Item Pickup,Allston,1.0272337962962963
+PWDx_Schedule a Bulk Item Pickup,Allston / Brighton,5.3427931056056055
+PWDx_Schedule a Bulk Item Pickup,Back Bay,6.754891203703704
+PWDx_Schedule a Bulk Item Pickup,Beacon Hill,3.5035686728395063
+PWDx_Schedule a Bulk Item Pickup,Boston,4.716273148148148
+PWDx_Schedule a Bulk Item Pickup,Brighton,7.063750000000001
+PWDx_Schedule a Bulk Item Pickup,Charlestown,138.52754861111111
+PWDx_Schedule a Bulk Item Pickup,Dorchester,5.478260263275324
+PWDx_Schedule a Bulk Item Pickup,Downtown / Financial District,6.607726851851853
+PWDx_Schedule a Bulk Item Pickup,East Boston,2.8953845164609056
+PWDx_Schedule a Bulk Item Pickup,Fenway / Kenmore / Audubon Circle / Longwood,0.020474537037037038
+PWDx_Schedule a Bulk Item Pickup,Greater Mattapan,6.94708122895623
+PWDx_Schedule a Bulk Item Pickup,Hyde Park,6.145530555555556
+PWDx_Schedule a Bulk Item Pickup,Jamaica Plain,6.219042592592592
+PWDx_Schedule a Bulk Item Pickup,Mattapan,7.217453703703704
+PWDx_Schedule a Bulk Item Pickup,Mission Hill,17.717039930555558
+PWDx_Schedule a Bulk Item Pickup,Roslindale,7.462495659722222
+PWDx_Schedule a Bulk Item Pickup,Roxbury,7.825007716049384
+PWDx_Schedule a Bulk Item Pickup,South Boston,13.156971450617283
+PWDx_Schedule a Bulk Item Pickup,South Boston / South Boston Waterfront,6.517108262108262
+PWDx_Schedule a Bulk Item Pickup,South End,4.024236111111111
+PWDx_Schedule a Bulk Item Pickup,West Roxbury,7.221771412037038
+PWDx_Sidewalk Repair, ,165.75777096949892
+PWDx_Sidewalk Repair,Allston,115.80110468106994
+PWDx_Sidewalk Repair,Allston / Brighton,279.3793708554377
+PWDx_Sidewalk Repair,Back Bay,505.7289296227197
+PWDx_Sidewalk Repair,Beacon Hill,242.05537467429738
+PWDx_Sidewalk Repair,Boston,406.9704696702002
+PWDx_Sidewalk Repair,Brighton,357.1265343915344
+PWDx_Sidewalk Repair,Charlestown,334.3747641630117
+PWDx_Sidewalk Repair,Dorchester,354.8903466334248
+PWDx_Sidewalk Repair,Downtown / Financial District,342.00888091253904
+PWDx_Sidewalk Repair,East Boston,361.35633970504006
+PWDx_Sidewalk Repair,Fenway / Kenmore / Audubon Circle / Longwood,223.3780718557099
+PWDx_Sidewalk Repair,Greater Mattapan,554.54603303407
+PWDx_Sidewalk Repair,Hyde Park,243.57537362258952
+PWDx_Sidewalk Repair,Jamaica Plain,290.5758562175114
+PWDx_Sidewalk Repair,Mattapan,999.1619791666667
+PWDx_Sidewalk Repair,Mission Hill,269.4440687321937
+PWDx_Sidewalk Repair,Roslindale,238.31027433780528
+PWDx_Sidewalk Repair,Roxbury,543.5674744398885
+PWDx_Sidewalk Repair,South Boston,167.2114504419192
+PWDx_Sidewalk Repair,South Boston / South Boston Waterfront,245.66075610959322
+PWDx_Sidewalk Repair,South End,327.6200750707305
+PWDx_Sidewalk Repair,Unknown,840.9405208333334
+PWDx_Sidewalk Repair,West Roxbury,395.65534475088964
+PWDx_Sidewalk Repair (Make Safe), ,1.0051765046296297
+PWDx_Sidewalk Repair (Make Safe),Allston / Brighton,1.8406283068783067
+PWDx_Sidewalk Repair (Make Safe),Back Bay,227.9654552469136
+PWDx_Sidewalk Repair (Make Safe),Beacon Hill,258.0275462962963
+PWDx_Sidewalk Repair (Make Safe),Boston,61.33793595679012
+PWDx_Sidewalk Repair (Make Safe),Dorchester,48.63997106481482
+PWDx_Sidewalk Repair (Make Safe),Downtown / Financial District,42.74252314814815
+PWDx_Sidewalk Repair (Make Safe),East Boston,3.4677228009259258
+PWDx_Sidewalk Repair (Make Safe),Fenway / Kenmore / Audubon Circle / Longwood,294.8158564814815
+PWDx_Sidewalk Repair (Make Safe),Greater Mattapan,29.43730324074074
+PWDx_Sidewalk Repair (Make Safe),Hyde Park,4.3399855324074075
+PWDx_Sidewalk Repair (Make Safe),Jamaica Plain,3.8984780092592595
+PWDx_Sidewalk Repair (Make Safe),Mattapan,0.9214236111111112
+PWDx_Sidewalk Repair (Make Safe),Mission Hill,14.76818287037037
+PWDx_Sidewalk Repair (Make Safe),Roslindale,2.4960725308641973
+PWDx_Sidewalk Repair (Make Safe),Roxbury,172.14699459876542
+PWDx_Sidewalk Repair (Make Safe),South Boston / South Boston Waterfront,175.38627314814815
+PWDx_Sidewalk Repair (Make Safe),South End,38.46138599537037
+PWDx_Sidewalk Repair (Make Safe),West Roxbury,3.4468431712962966
+PWDx_Sinkhole Highway,Allston / Brighton,0.027118055555555555
+PWDx_Sinkhole Highway,Boston,4.218252314814815
+PWDx_Sinkhole Highway,Fenway / Kenmore / Audubon Circle / Longwood,0.13655092592592594
+PWDx_Sinkhole Highway,Roxbury,1.3929166666666666
+PWDx_Sinkhole Highway,South Boston / South Boston Waterfront,3.984976851851852
+PWDx_Snow Cases, ,1.1140277777777778
+PWDx_Snow Cases,Allston / Brighton,563.4436921296297
+PWDx_Snow Cases,Back Bay,381.4527281746032
+PWDx_Snow Cases,Beacon Hill,374.9086921296296
+PWDx_Snow Cases,Boston,253.9645486111111
+PWDx_Snow Cases,Brighton,615.5857523148148
+PWDx_Snow Cases,Charlestown,378.6325115740741
+PWDx_Snow Cases,Dorchester,351.092037037037
+PWDx_Snow Cases,Downtown / Financial District,523.6667418981482
+PWDx_Snow Cases,East Boston,287.9949537037037
+PWDx_Snow Cases,Fenway / Kenmore / Audubon Circle / Longwood,478.0976331018519
+PWDx_Snow Cases,Jamaica Plain,635.7154398148148
+PWDx_Snow Cases,Roslindale,448.37548379629635
+PWDx_Snow Cases,Roxbury,540.4065902777777
+PWDx_Snow Cases,South Boston / South Boston Waterfront,610.5236863425926
+PWDx_Snow Cases,South End,393.04792052469134
+PWDx_Snow Cases,West Roxbury,639.7630787037037
+PWDx_Snow Removal,Beacon Hill,70.0087037037037
+PWDx_Snow Removal,Roxbury,44.11039351851852
+PWDx_Snow Removal,South End,190.21704861111112
+PWDx_Space Saver Removal,Allston / Brighton,106.69618386243386
+PWDx_Space Saver Removal,Back Bay,1.4314583333333333
+PWDx_Space Saver Removal,Charlestown,1.6385995370370372
+PWDx_Space Saver Removal,Dorchester,99.7760162037037
+PWDx_Space Saver Removal,Downtown / Financial District,0.19813657407407406
+PWDx_Space Saver Removal,East Boston,0.4681828703703704
+PWDx_Space Saver Removal,Greater Mattapan,0.027708333333333335
+PWDx_Space Saver Removal,Jamaica Plain,0.1688136574074074
+PWDx_Space Saver Removal,Roslindale,1.5221585648148148
+PWDx_Space Saver Removal,Roxbury,124.74635416666666
+PWDx_Space Saver Removal,South Boston,3.188715277777778
+PWDx_Space Saver Removal,South Boston / South Boston Waterfront,1.3676388888888886
+PWDx_Space Saver Removal,South End,28.818599537037038
+PWDx_Sticker Request, ,0.348287037037037
+PWDx_Sticker Request,Allston,0.5103472222222222
+PWDx_Sticker Request,Allston / Brighton,2.390386208576998
+PWDx_Sticker Request,Back Bay,2.6272698045267493
+PWDx_Sticker Request,Beacon Hill,2.1265112433862434
+PWDx_Sticker Request,Boston,2.920891203703704
+PWDx_Sticker Request,Brighton,0.19372974537037035
+PWDx_Sticker Request,Charlestown,1.495524691358025
+PWDx_Sticker Request,Dorchester,0.8571314782664609
+PWDx_Sticker Request,Downtown / Financial District,3.3867814153439157
+PWDx_Sticker Request,East Boston,1.886558505408063
+PWDx_Sticker Request,Fenway / Kenmore / Audubon Circle / Longwood,6.984961419753087
+PWDx_Sticker Request,Greater Mattapan,2.1312443541102075
+PWDx_Sticker Request,Hyde Park,1.3258396128841607
+PWDx_Sticker Request,Jamaica Plain,1.3009973320778405
+PWDx_Sticker Request,Mattapan,0.7333449074074074
+PWDx_Sticker Request,Mission Hill,1.8197935956790123
+PWDx_Sticker Request,Roslindale,1.9510468863471313
+PWDx_Sticker Request,Roxbury,1.10963511208577
+PWDx_Sticker Request,South Boston,25.48500771604938
+PWDx_Sticker Request,South Boston / South Boston Waterfront,3.062205528846154
+PWDx_Sticker Request,South End,7.99050925925926
+PWDx_Sticker Request,Unknown,0.03886574074074074
+PWDx_Sticker Request,West Roxbury,1.5065121882086168
+PWDx_Street Light Knock Downs, ,40.55910218253968
+PWDx_Street Light Knock Downs,Allston,28.067280092592593
+PWDx_Street Light Knock Downs,Allston / Brighton,88.98610300925927
+PWDx_Street Light Knock Downs,Back Bay,61.415169696350766
+PWDx_Street Light Knock Downs,Beacon Hill,50.64599605119825
+PWDx_Street Light Knock Downs,Boston,59.8256675690521
+PWDx_Street Light Knock Downs,Brighton,43.07219907407407
+PWDx_Street Light Knock Downs,Charlestown,55.22291393389918
+PWDx_Street Light Knock Downs,Dorchester,60.011680345117846
+PWDx_Street Light Knock Downs,Downtown / Financial District,53.52059154040404
+PWDx_Street Light Knock Downs,East Boston,57.989445573622405
+PWDx_Street Light Knock Downs,Fenway / Kenmore / Audubon Circle / Longwood,82.69351378367003
+PWDx_Street Light Knock Downs,Greater Mattapan,51.69816196617536
+PWDx_Street Light Knock Downs,Hyde Park,58.228493105877625
+PWDx_Street Light Knock Downs,Jamaica Plain,65.35766732804233
+PWDx_Street Light Knock Downs,Mattapan,14.120324074074075
+PWDx_Street Light Knock Downs,Mission Hill,59.3874041005291
+PWDx_Street Light Knock Downs,Roslindale,62.31193672839506
+PWDx_Street Light Knock Downs,Roxbury,63.055124693063235
+PWDx_Street Light Knock Downs,South Boston,110.36748263888889
+PWDx_Street Light Knock Downs,South Boston / South Boston Waterfront,59.41145938552189
+PWDx_Street Light Knock Downs,South End,72.20416749338624
+PWDx_Street Light Knock Downs,Unknown,86.97872974537037
+PWDx_Street Light Knock Downs,West Roxbury,45.900555555555556
+PWDx_Street Light Knockdown Replacement, ,126.59442476851852
+PWDx_Street Light Knockdown Replacement,Allston,69.73072145061728
+PWDx_Street Light Knockdown Replacement,Allston / Brighton,132.19015989368998
+PWDx_Street Light Knockdown Replacement,Back Bay,193.8525199074074
+PWDx_Street Light Knockdown Replacement,Beacon Hill,331.05542111823365
+PWDx_Street Light Knockdown Replacement,Boston,209.81073937908496
+PWDx_Street Light Knockdown Replacement,Brighton,149.62708796296297
+PWDx_Street Light Knockdown Replacement,Charlestown,186.78490324074076
+PWDx_Street Light Knockdown Replacement,Dorchester,137.90296162749289
+PWDx_Street Light Knockdown Replacement,Downtown / Financial District,221.20739550730306
+PWDx_Street Light Knockdown Replacement,East Boston,129.6455702642747
+PWDx_Street Light Knockdown Replacement,Fenway / Kenmore / Audubon Circle / Longwood,208.6857751414609
+PWDx_Street Light Knockdown Replacement,Greater Mattapan,171.0801224012928
+PWDx_Street Light Knockdown Replacement,Hyde Park,206.40005846902937
+PWDx_Street Light Knockdown Replacement,Jamaica Plain,144.31075245098037
+PWDx_Street Light Knockdown Replacement,Mattapan,144.5327777777778
+PWDx_Street Light Knockdown Replacement,Mission Hill,175.83000793650794
+PWDx_Street Light Knockdown Replacement,Roslindale,128.90589152520576
+PWDx_Street Light Knockdown Replacement,Roxbury,163.3146187751871
+PWDx_Street Light Knockdown Replacement,South Boston,194.23377507716046
+PWDx_Street Light Knockdown Replacement,South Boston / South Boston Waterfront,185.517377808136
+PWDx_Street Light Knockdown Replacement,South End,227.567435515873
+PWDx_Street Light Knockdown Replacement,Unknown,4.014490740740741
+PWDx_Street Light Knockdown Replacement,West Roxbury,121.35580960648149
+PWDx_Street Light Outages, ,202.50877812071332
+PWDx_Street Light Outages,Allston,105.18330555555556
+PWDx_Street Light Outages,Allston / Brighton,97.53337625587584
+PWDx_Street Light Outages,Back Bay,116.60682077406126
+PWDx_Street Light Outages,Beacon Hill,108.07716698868727
+PWDx_Street Light Outages,Boston,156.83436310376098
+PWDx_Street Light Outages,Brighton,130.52045524691357
+PWDx_Street Light Outages,Charlestown,89.8357027383836
+PWDx_Street Light Outages,Dorchester,80.22001982763011
+PWDx_Street Light Outages,Downtown / Financial District,145.57363677456985
+PWDx_Street Light Outages,East Boston,90.4035287866153
+PWDx_Street Light Outages,Fenway / Kenmore / Audubon Circle / Longwood,123.32062047101448
+PWDx_Street Light Outages,Greater Mattapan,86.2066701467624
+PWDx_Street Light Outages,Hyde Park,78.63193876146202
+PWDx_Street Light Outages,Jamaica Plain,79.69544800023812
+PWDx_Street Light Outages,Mattapan,109.50910548941799
+PWDx_Street Light Outages,Mission Hill,93.08374945023148
+PWDx_Street Light Outages,Roslindale,73.24792759654368
+PWDx_Street Light Outages,Roxbury,102.66796350733416
+PWDx_Street Light Outages,South Boston,156.39126820286197
+PWDx_Street Light Outages,South Boston / South Boston Waterfront,125.19281720556292
+PWDx_Street Light Outages,South End,127.35185999214158
+PWDx_Street Light Outages,Unknown,261.0180757575758
+PWDx_Street Light Outages,West Roxbury,68.4525274382716
+PWDx_Street Light Outages - Gas, ,213.69663917824073
+PWDx_Street Light Outages - Gas,Allston / Brighton,115.90730985449736
+PWDx_Street Light Outages - Gas,Back Bay,99.93196233164984
+PWDx_Street Light Outages - Gas,Beacon Hill,157.44304125263474
+PWDx_Street Light Outages - Gas,Boston,168.45104242562235
+PWDx_Street Light Outages - Gas,Brighton,13.884050925925926
+PWDx_Street Light Outages - Gas,Charlestown,115.9707457529844
+PWDx_Street Light Outages - Gas,Dorchester,86.52938145112326
+PWDx_Street Light Outages - Gas,Downtown / Financial District,181.07282510288067
+PWDx_Street Light Outages - Gas,East Boston,65.77642476851852
+PWDx_Street Light Outages - Gas,Fenway / Kenmore / Audubon Circle / Longwood,7.899609375
+PWDx_Street Light Outages - Gas,Jamaica Plain,88.59742361111111
+PWDx_Street Light Outages - Gas,Mission Hill,241.9593952546296
+PWDx_Street Light Outages - Gas,Roslindale,178.90366898148147
+PWDx_Street Light Outages - Gas,Roxbury,237.511512345679
+PWDx_Street Light Outages - Gas,South Boston / South Boston Waterfront,178.38662668350167
+PWDx_Street Light Outages - Gas,South End,81.77254050925926
+PWDx_Street Light Outages - Gas,Unknown,809.1986226851852
+PWDx_Street Light Outages - Long-Term Repair, ,557.3486561213991
+PWDx_Street Light Outages - Long-Term Repair,Allston,430.55274305555554
+PWDx_Street Light Outages - Long-Term Repair,Allston / Brighton,396.6195628561253
+PWDx_Street Light Outages - Long-Term Repair,Back Bay,467.4450227887048
+PWDx_Street Light Outages - Long-Term Repair,Beacon Hill,363.514143344035
+PWDx_Street Light Outages - Long-Term Repair,Boston,517.1950901194998
+PWDx_Street Light Outages - Long-Term Repair,Brighton,509.11821502057614
+PWDx_Street Light Outages - Long-Term Repair,Charlestown,373.3974773381575
+PWDx_Street Light Outages - Long-Term Repair,Chestnut Hill,351.4400462962963
+PWDx_Street Light Outages - Long-Term Repair,Dorchester,249.14576481946773
+PWDx_Street Light Outages - Long-Term Repair,Downtown / Financial District,528.0581312509768
+PWDx_Street Light Outages - Long-Term Repair,East Boston,310.25271840368913
+PWDx_Street Light Outages - Long-Term Repair,Fenway / Kenmore / Audubon Circle / Longwood,392.9414172567175
+PWDx_Street Light Outages - Long-Term Repair,Greater Mattapan,416.4403228970496
+PWDx_Street Light Outages - Long-Term Repair,Hyde Park,416.97182256593715
+PWDx_Street Light Outages - Long-Term Repair,Jamaica Plain,263.87434296162104
+PWDx_Street Light Outages - Long-Term Repair,Mattapan,39.25125
+PWDx_Street Light Outages - Long-Term Repair,Mission Hill,264.7829270434227
+PWDx_Street Light Outages - Long-Term Repair,Roslindale,228.5224270044192
+PWDx_Street Light Outages - Long-Term Repair,Roxbury,421.93630057140473
+PWDx_Street Light Outages - Long-Term Repair,South Boston,477.1871623389694
+PWDx_Street Light Outages - Long-Term Repair,South Boston / South Boston Waterfront,436.0541264204545
+PWDx_Street Light Outages - Long-Term Repair,South End,413.4787665343915
+PWDx_Street Light Outages - Long-Term Repair,Unknown,1067.592322530864
+PWDx_Street Light Outages - Long-Term Repair,West Roxbury,322.614427542622
+PWDx_Street Light_General Lighting Request, ,212.87914566532257
+PWDx_Street Light_General Lighting Request,Allston,157.2971629050926
+PWDx_Street Light_General Lighting Request,Allston / Brighton,98.26793506335282
+PWDx_Street Light_General Lighting Request,Back Bay,125.06949871522241
+PWDx_Street Light_General Lighting Request,Beacon Hill,127.54564451442721
+PWDx_Street Light_General Lighting Request,Boston,138.77675753749617
+PWDx_Street Light_General Lighting Request,Brighton,68.44733375420876
+PWDx_Street Light_General Lighting Request,Charlestown,198.02479709715638
+PWDx_Street Light_General Lighting Request,Dorchester,96.49462510711224
+PWDx_Street Light_General Lighting Request,Downtown / Financial District,154.9796448069532
+PWDx_Street Light_General Lighting Request,East Boston,113.34830170418263
+PWDx_Street Light_General Lighting Request,Fenway / Kenmore / Audubon Circle / Longwood,108.48367516489093
+PWDx_Street Light_General Lighting Request,Greater Mattapan,148.94225516381766
+PWDx_Street Light_General Lighting Request,Hyde Park,183.11489872685186
+PWDx_Street Light_General Lighting Request,Jamaica Plain,92.44567018921096
+PWDx_Street Light_General Lighting Request,Mattapan,55.364131944444445
+PWDx_Street Light_General Lighting Request,Mission Hill,99.87234074074074
+PWDx_Street Light_General Lighting Request,Roslindale,164.30433273709315
+PWDx_Street Light_General Lighting Request,Roxbury,109.83795472192921
+PWDx_Street Light_General Lighting Request,South Boston,188.18661427875244
+PWDx_Street Light_General Lighting Request,South Boston / South Boston Waterfront,110.89916514193835
+PWDx_Street Light_General Lighting Request,South End,114.98027053293752
+PWDx_Street Light_General Lighting Request,Unknown,313.02300347222223
+PWDx_Street Light_General Lighting Request,West Roxbury,87.5017320041816
+PWDx_Street Light_Install New Lighting, ,447.3224537037037
+PWDx_Street Light_Install New Lighting,Allston / Brighton,209.34715443121692
+PWDx_Street Light_Install New Lighting,Back Bay,225.4148321759259
+PWDx_Street Light_Install New Lighting,Beacon Hill,60.85261574074074
+PWDx_Street Light_Install New Lighting,Boston,286.67953703703705
+PWDx_Street Light_Install New Lighting,Brighton,248.2290779320988
+PWDx_Street Light_Install New Lighting,Charlestown,65.8318263888889
+PWDx_Street Light_Install New Lighting,Dorchester,143.37440462962962
+PWDx_Street Light_Install New Lighting,Downtown / Financial District,313.251060313786
+PWDx_Street Light_Install New Lighting,East Boston,191.90746817129627
+PWDx_Street Light_Install New Lighting,Fenway / Kenmore / Audubon Circle / Longwood,191.1105902777778
+PWDx_Street Light_Install New Lighting,Greater Mattapan,165.01296709656086
+PWDx_Street Light_Install New Lighting,Hyde Park,323.21036805555553
+PWDx_Street Light_Install New Lighting,Jamaica Plain,128.5534837962963
+PWDx_Street Light_Install New Lighting,Mission Hill,84.81669367283949
+PWDx_Street Light_Install New Lighting,Roslindale,117.61166997354498
+PWDx_Street Light_Install New Lighting,Roxbury,216.8183836553945
+PWDx_Street Light_Install New Lighting,South Boston / South Boston Waterfront,140.36382870370372
+PWDx_Street Light_Install New Lighting,South End,285.2677329282407
+PWDx_Street Light_Install New Lighting,West Roxbury,96.78581018518518
+PWDx_Street Light_Pending_Contractor (Internal), ,91.95443055555556
+PWDx_Street Light_Pending_Contractor (Internal),Allston,39.69549816743827
+PWDx_Street Light_Pending_Contractor (Internal),Allston / Brighton,46.785593276075524
+PWDx_Street Light_Pending_Contractor (Internal),Back Bay,66.6040456421095
+PWDx_Street Light_Pending_Contractor (Internal),Beacon Hill,49.279413513729246
+PWDx_Street Light_Pending_Contractor (Internal),Boston,60.46177803983229
+PWDx_Street Light_Pending_Contractor (Internal),Brighton,32.07245912905093
+PWDx_Street Light_Pending_Contractor (Internal),Charlestown,81.58226871807152
+PWDx_Street Light_Pending_Contractor (Internal),Dorchester,37.23493870971203
+PWDx_Street Light_Pending_Contractor (Internal),Downtown / Financial District,70.99498882503192
+PWDx_Street Light_Pending_Contractor (Internal),East Boston,45.42714200375491
+PWDx_Street Light_Pending_Contractor (Internal),Fenway / Kenmore / Audubon Circle / Longwood,62.58167319340017
+PWDx_Street Light_Pending_Contractor (Internal),Greater Mattapan,39.098696779699125
+PWDx_Street Light_Pending_Contractor (Internal),Hyde Park,41.158537221551256
+PWDx_Street Light_Pending_Contractor (Internal),Jamaica Plain,33.24356766741489
+PWDx_Street Light_Pending_Contractor (Internal),Mattapan,32.014838466183576
+PWDx_Street Light_Pending_Contractor (Internal),Mission Hill,60.26476345486111
+PWDx_Street Light_Pending_Contractor (Internal),Roslindale,34.85819639562934
+PWDx_Street Light_Pending_Contractor (Internal),Roxbury,37.17795610252389
+PWDx_Street Light_Pending_Contractor (Internal),South Boston,53.33680099607183
+PWDx_Street Light_Pending_Contractor (Internal),South Boston / South Boston Waterfront,51.11102128680503
+PWDx_Street Light_Pending_Contractor (Internal),South End,51.91064632750728
+PWDx_Street Light_Pending_Contractor (Internal),Unknown,72.17709233539095
+PWDx_Street Light_Pending_Contractor (Internal),West Roxbury,30.521864040116174
+PWDx_Street Light_Pickup_Clear Conduit, ,1279.4877546296295
+PWDx_Street Light_Pickup_Clear Conduit,Allston / Brighton,821.1662962962963
+PWDx_Street Light_Pickup_Clear Conduit,Back Bay,559.6605861441799
+PWDx_Street Light_Pickup_Clear Conduit,Boston,915.6907330246913
+PWDx_Street Light_Pickup_Clear Conduit,Brighton,972.5624768518519
+PWDx_Street Light_Pickup_Clear Conduit,Dorchester,420.75859734734735
+PWDx_Street Light_Pickup_Clear Conduit,Downtown / Financial District,593.6792723973974
+PWDx_Street Light_Pickup_Clear Conduit,East Boston,376.73203703703706
+PWDx_Street Light_Pickup_Clear Conduit,Fenway / Kenmore / Audubon Circle / Longwood,753.6718287037037
+PWDx_Street Light_Pickup_Clear Conduit,Greater Mattapan,367.3032658179012
+PWDx_Street Light_Pickup_Clear Conduit,Hyde Park,273.21417824074075
+PWDx_Street Light_Pickup_Clear Conduit,Jamaica Plain,345.1648752986858
+PWDx_Street Light_Pickup_Clear Conduit,Mission Hill,406.1075649928775
+PWDx_Street Light_Pickup_Clear Conduit,Roxbury,414.3048279671717
+PWDx_Street Light_Pickup_Clear Conduit,South Boston / South Boston Waterfront,358.6213631687243
+PWDx_Street Light_Pickup_Clear Conduit,South End,1078.6177072811447
+PWDx_Street Light_Pickup_Clear Conduit,West Roxbury,367.69890046296297
+PWDx_Street Light_Upgrade Existing Lighting, ,88.80440393518518
+PWDx_Street Light_Upgrade Existing Lighting,Allston,194.1439814814815
+PWDx_Street Light_Upgrade Existing Lighting,Allston / Brighton,141.65005015432098
+PWDx_Street Light_Upgrade Existing Lighting,Back Bay,228.45282986111113
+PWDx_Street Light_Upgrade Existing Lighting,Beacon Hill,208.93013888888888
+PWDx_Street Light_Upgrade Existing Lighting,Boston,289.95414737654323
+PWDx_Street Light_Upgrade Existing Lighting,Brighton,229.55976851851852
+PWDx_Street Light_Upgrade Existing Lighting,Charlestown,154.67755125661375
+PWDx_Street Light_Upgrade Existing Lighting,Dorchester,243.3813258744856
+PWDx_Street Light_Upgrade Existing Lighting,Downtown / Financial District,140.3716909722222
+PWDx_Street Light_Upgrade Existing Lighting,East Boston,167.3765798611111
+PWDx_Street Light_Upgrade Existing Lighting,Fenway / Kenmore / Audubon Circle / Longwood,25.440779320987655
+PWDx_Street Light_Upgrade Existing Lighting,Greater Mattapan,129.42059220679013
+PWDx_Street Light_Upgrade Existing Lighting,Hyde Park,97.05634259259259
+PWDx_Street Light_Upgrade Existing Lighting,Jamaica Plain,96.96879195601852
+PWDx_Street Light_Upgrade Existing Lighting,Mission Hill,149.18756558641977
+PWDx_Street Light_Upgrade Existing Lighting,Roslindale,35.375169753086425
+PWDx_Street Light_Upgrade Existing Lighting,Roxbury,175.7116818957115
+PWDx_Street Light_Upgrade Existing Lighting,South Boston,417.48649305555557
+PWDx_Street Light_Upgrade Existing Lighting,South Boston / South Boston Waterfront,110.46354662698413
+PWDx_Street Light_Upgrade Existing Lighting,South End,115.857550154321
+PWDx_Street Light_Upgrade Existing Lighting,West Roxbury,22.091585648148147
+PWDx_Utility Call-In, ,7.044224537037037
+PWDx_Utility Call-In,Allston,3.939537037037037
+PWDx_Utility Call-In,Allston / Brighton,3.9085
+PWDx_Utility Call-In,Back Bay,6.769881365740741
+PWDx_Utility Call-In,Beacon Hill,4.660034722222222
+PWDx_Utility Call-In,Boston,3.0330671296296297
+PWDx_Utility Call-In,Brighton,3.53234375
+PWDx_Utility Call-In,Charlestown,1.8421141975308641
+PWDx_Utility Call-In,Dorchester,6.230858686067019
+PWDx_Utility Call-In,Downtown / Financial District,110.24759027777777
+PWDx_Utility Call-In,East Boston,2.538333333333333
+PWDx_Utility Call-In,Fenway / Kenmore / Audubon Circle / Longwood,20.950092592592593
+PWDx_Utility Call-In,Greater Mattapan,8.629351851851851
+PWDx_Utility Call-In,Hyde Park,61.674004629629636
+PWDx_Utility Call-In,Jamaica Plain,50.829824074074075
+PWDx_Utility Call-In,Mission Hill,3.7506944444444446
+PWDx_Utility Call-In,Roslindale,3.4675462962962964
+PWDx_Utility Call-In,Roxbury,3.3462999131944446
+PWDx_Utility Call-In,South Boston,1.2841203703703703
+PWDx_Utility Call-In,South Boston / South Boston Waterfront,3.079380341880342
+PWDx_Utility Call-In,South End,3.0280555555555555
+PWDx_Utility Call-In,West Roxbury,24.45899922839506
+PWDx_Utility Casting Repair, ,0.8386111111111111
+PWDx_Utility Casting Repair,Allston / Brighton,8.58268367552335
+PWDx_Utility Casting Repair,Back Bay,8.59847788613081
+PWDx_Utility Casting Repair,Beacon Hill,21.83037649782135
+PWDx_Utility Casting Repair,Boston,57.68142691798942
+PWDx_Utility Casting Repair,Brighton,11.915667438271605
+PWDx_Utility Casting Repair,Charlestown,25.68793709150327
+PWDx_Utility Casting Repair,Dorchester,7.828503943758574
+PWDx_Utility Casting Repair,Downtown / Financial District,19.46762915614478
+PWDx_Utility Casting Repair,East Boston,12.90974010942761
+PWDx_Utility Casting Repair,Fenway / Kenmore / Audubon Circle / Longwood,8.094827546296296
+PWDx_Utility Casting Repair,Greater Mattapan,1.467511574074074
+PWDx_Utility Casting Repair,Hyde Park,15.34173148148148
+PWDx_Utility Casting Repair,Jamaica Plain,13.69420925925926
+PWDx_Utility Casting Repair,Mattapan,0.030729166666666665
+PWDx_Utility Casting Repair,Mission Hill,8.014977858293076
+PWDx_Utility Casting Repair,Roslindale,1.8022222222222222
+PWDx_Utility Casting Repair,Roxbury,9.59106560395623
+PWDx_Utility Casting Repair,South Boston,13.89119212962963
+PWDx_Utility Casting Repair,South Boston / South Boston Waterfront,3.320701809764309
+PWDx_Utility Casting Repair,South End,6.9186773989898995
+PWDx_Utility Casting Repair,Unknown,13.552743055555556
+PWDx_Utility Casting Repair,West Roxbury,11.512489872685185
+PWDx_WM_Mattress_Pickup, ,0.26069444444444445
+PWDx_WM_Mattress_Pickup,Allston / Brighton,1.7708680555555556
+PWDx_WM_Mattress_Pickup,Beacon Hill,2.8751446759259256
+PWDx_WM_Mattress_Pickup,Brighton,53.16064814814815
+PWDx_WM_Mattress_Pickup,Charlestown,5.636446759259259
+PWDx_WM_Mattress_Pickup,Dorchester,0.6568402777777778
+PWDx_WM_Mattress_Pickup,East Boston,2.2858564814814817
+PWDx_WM_Mattress_Pickup,Fenway / Kenmore / Audubon Circle / Longwood,0.013888888888888888
+PWDx_WM_Mattress_Pickup,Greater Mattapan,4.673009259259259
+PWDx_WM_Mattress_Pickup,Mission Hill,6.00650462962963
+PWDx_WM_Mattress_Pickup,Roxbury,6.006099537037037
+PWDx_Work Hours-Loud Noise Complaints,Allston,2.9935185185185187
+PWDx_Work Hours-Loud Noise Complaints,Allston / Brighton,23.985690972222223
+PWDx_Work Hours-Loud Noise Complaints,Back Bay,16.640633680555556
+PWDx_Work Hours-Loud Noise Complaints,Beacon Hill,23.378908632897605
+PWDx_Work Hours-Loud Noise Complaints,Boston,12.682116042673108
+PWDx_Work Hours-Loud Noise Complaints,Brighton,1.4055092592592593
+PWDx_Work Hours-Loud Noise Complaints,Charlestown,27.499221965020578
+PWDx_Work Hours-Loud Noise Complaints,Dorchester,15.015288016381767
+PWDx_Work Hours-Loud Noise Complaints,Downtown / Financial District,17.416928196225072
+PWDx_Work Hours-Loud Noise Complaints,East Boston,15.294971064814813
+PWDx_Work Hours-Loud Noise Complaints,Fenway / Kenmore / Audubon Circle / Longwood,25.006570419103312
+PWDx_Work Hours-Loud Noise Complaints,Greater Mattapan,20.04420664983165
+PWDx_Work Hours-Loud Noise Complaints,Hyde Park,15.277465277777779
+PWDx_Work Hours-Loud Noise Complaints,Jamaica Plain,10.998253367003366
+PWDx_Work Hours-Loud Noise Complaints,Mission Hill,5.804791666666667
+PWDx_Work Hours-Loud Noise Complaints,Roslindale,1.5146504629629631
+PWDx_Work Hours-Loud Noise Complaints,Roxbury,23.555506718608854
+PWDx_Work Hours-Loud Noise Complaints,South Boston,36.454537037037035
+PWDx_Work Hours-Loud Noise Complaints,South Boston / South Boston Waterfront,18.27770885942761
+PWDx_Work Hours-Loud Noise Complaints,South End,19.29485339506173
+PWDx_Work Hours-Loud Noise Complaints,West Roxbury,17.129596064814816
