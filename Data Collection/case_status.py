@@ -2,15 +2,36 @@ import json
 import urllib.request
 import pandas as pd
 
-
-query_url = 'https://data.boston.gov/api/3/action/datastore_search'  # query url
-resource_id = '382e10d9-1864-40ba-bef6-4eea3c75463c'  # resource id for 311 calls in 2012 - CHANGE PER YEAR
+query_url = 'https://data.boston.gov/api/3/action/datastore_search'
 
 def fetch_311_data(resource_id, limit=1000, offset=0):
     url = f'{query_url}?resource_id={resource_id}&limit={limit}&offset={offset}'
     fileobj = urllib.request.urlopen(url)
     response_dict = json.loads(fileobj.read())
     return response_dict['result']['records']
+
+# Accesses the resource ids for each year's data in the API request
+resource_ids_file_path = 'https://raw.githubusercontent.com/alexnoorr/CS506_FinalProject/refs/heads/DataCollection-3/Data%20Collection/resource_ids.csv'
+resource_ids_df = pd.read_csv(resource_ids_file_path)
+
+all_data = []
+
+# THIS SHOULD RUN FOR A FEW MINUTES IT'S NORMAL
+for _, row in resource_ids_df.iterrows():
+    year = row['Year']
+    resource_id = row['Resource ID']
+
+    print(f"Fetching data for {year} with resource ID: {resource_id}")
+
+    offset = 0
+    batch_size = 10000
+
+    while True:
+        batch_data = fetch_311_data(resource_id, limit=batch_size, offset=offset)
+        if not batch_data:
+            break
+        all_data.extend(batch_data)
+        offset += batch_size
 
 
 all_data = []
@@ -19,10 +40,10 @@ batch_size = 1000
 
 while True:
     batch_data = fetch_311_data(resource_id, limit=batch_size, offset=offset)
-    if not batch_data: 
+    if not batch_data:
         break
     all_data.extend(batch_data)
-    offset += batch_size  
+    offset += batch_size
     print(f"Fetched {len(all_data)} records so far")
 
 df = pd.DataFrame(all_data)
