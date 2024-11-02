@@ -1,6 +1,7 @@
 import json
 import urllib.request
 import pandas as pd
+import matplotlib.pyplot as plt
 
 query_url = 'https://data.boston.gov/api/3/action/datastore_search'
 
@@ -14,18 +15,18 @@ def fetch_311_data(resource_id, limit=1000, offset=0):
 resource_ids_file_path = 'https://raw.githubusercontent.com/alexnoorr/CS506_FinalProject/refs/heads/DataCollection-3/Data%20Collection/resource_ids.csv'
 resource_ids_df = pd.read_csv(resource_ids_file_path)
 
-all_data = []
-
-# THIS SHOULD RUN FOR A FEW MINUTES IT'S NORMAL
+# Iterate through each resource_id and year, fetch data, and calculate percentages
 for _, row in resource_ids_df.iterrows():
     year = row['Year']
     resource_id = row['Resource ID']
 
     print(f"Fetching data for {year} with resource ID: {resource_id}")
 
+    all_data = []
     offset = 0
     batch_size = 10000
 
+    # Fetch data in batches to handle large datasets
     while True:
         batch_data = fetch_311_data(resource_id, limit=batch_size, offset=offset)
         if not batch_data:
@@ -33,45 +34,35 @@ for _, row in resource_ids_df.iterrows():
         all_data.extend(batch_data)
         offset += batch_size
 
+    # Convert the fetched data to a DataFrame
+    df = pd.DataFrame(all_data)
 
-all_data = []
-offset = 0
-batch_size = 1000
+    # Normalize the 'case_status' column
+    df['case_status'] = df['case_status'].str.lower().str.strip()
 
-while True:
-    batch_data = fetch_311_data(resource_id, limit=batch_size, offset=offset)
-    if not batch_data:
-        break
-    all_data.extend(batch_data)
-    offset += batch_size
-    print(f"Fetched {len(all_data)} records so far")
+    # Calculate counts and percentages for each case status
+    closed_count = df['case_status'].eq('closed').sum()
+    unresolved_count = df['case_status'].eq('open').sum()
+    no_data_count = df['case_status'].isnull().sum()
+    total_count = len(df)
 
-df = pd.DataFrame(all_data)
+    closed_percentage = (closed_count / total_count) * 100 if total_count > 0 else 0
+    unresolved_percentage = (unresolved_count / total_count) * 100 if total_count > 0 else 0
+    no_data_percentage = (no_data_count / total_count) * 100 if total_count > 0 else 0
 
-df['case_status'] = df['case_status'].str.lower().str.strip()
+    # Print the results for the current year/resource ID
+    print(f"Year: {year}")
+    print(f"Closed Requests: {closed_percentage:.2f}%")
+    print(f"No Data (Null) Requests: {no_data_percentage:.2f}%")
+    print(f"Unresolved (Open) Requests: {unresolved_percentage:.2f}%")
+    print("-" * 40)
 
-closed_count = df['case_status'].eq('closed').sum()
-unresolved_count = df['case_status'].eq('open').sum()
-no_data_count = df['case_status'].isnull().sum()
+  
+    case_status_data = {"Open/Unresolved Cases": unresolved_percentage, "Closed Cases": closed_percentage}
+    labels = list(case_status_data.keys())
+    sizes = list(case_status_data.values())
 
-total_count = len(df)
-
-closed_percentage = (closed_count / total_count) * 100 if total_count > 0 else 0
-unresolved_percentage = (unresolved_count / total_count) * 100 if total_count > 0 else 0
-no_data_percentage = (no_data_count / total_count) * 100 if total_count > 0 else 0
-
-print(f"Closed Requests: {closed_percentage:.2f}%")
-print(f"No Data (Null) Requests: {no_data_percentage:.2f}%")
-print(f"Unresolved (Open) Requests: {unresolved_percentage:.2f}%")
-
-import matplotlib.pyplot as plt
-
-case_status_data = {"Open/Unresolved Cases": unresolved_percentage, "Closed Cases": closed_percentage}
-
-labels = list(case_status_data.keys())
-sizes = list(case_status_data.values())
-
-plt.figure(figsize=(6, 6))
-plt.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=140)
-plt.title('Case Status Distribution')
-plt.show()
+    plt.figure(figsize=(6, 6))
+    plt.pie(sizes, labels=labels, autopct='%1.1f%%', startangle=140)
+    plt.title(f'Case Status Distribution for {year}')
+    plt.show()
