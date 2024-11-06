@@ -58,8 +58,15 @@ To begin modeling, we explored relationships between variables based on Spark's 
 ![Image Description](https://raw.githubusercontent.com/alexnoorr/CS506_FinalProject/main/visualizations/q3.png)
 Using Matplotlib, we visualized trends in 311 requests, showing a shift from traditional calls to app-based reporting over time. Constituent Calls were initially dominant, but the Citizens Connect App grew rapidly from 2014, peaking by 2023. Meanwhile, City Worker App and Employee Generated reports saw steady but limited use, reflecting specific applications. The slight decline in 2024 may suggest a plateau or the emergence of new platforms. Overall, the data indicates a shift toward digital reporting for civic issues.
 
+### Volume of Requests over Time
+![Request Volume](https://raw.githubusercontent.com/alexnoorr/CS506_FinalProject/main/visualizations/request-vol.png)
+As shown in the graph above, the number of requests have overall increased over the years since 2012. This trend is also in line with the rising population of Boston since 2012.
+
 ### Top 5 Requests
+![Top 5 Requests](https://raw.githubusercontent.com/alexnoorr/CS506_FinalProject/main/visualizations/top5-requests.png)
 Among hundreds of unique requests, the top issues included vehicles and traffic, trash, and city maintenance.
+
+
 
 ---
 
@@ -83,7 +90,25 @@ model.add(Dense(department_one_hot.shape[1], activation='softmax'))
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 model.fit(type_matrix, department_one_hot, epochs=50, validation_split=0.2)
 
----
+```
+
+
+First, this code converts the text data in the "type" column into a binary matrix, where each row represents the presence or absence of specific words in the vocabulary. Next, it encodes the "department" labels into a format the model can interpret, assigning each department a unique integer and transforming it into a one-hot encoded vector for classification.
+The neural network model is then created with three layers: an input layer, a hidden layer, and an output layer, using ReLU activation for the hidden layers and softmax activation for the output to produce probabilities for each department. Finally, the model is compiled and trained on the prepared data, using the Adam optimizer, which helps the model learn more efficiently. and categorical cross-entropy loss for multi-class classification of departments. The training process includes 50 cycles (epochs) and reserves 20% of the data for validation to monitor accuracy during training. There was no test train split this time, as we wanted to see how well the model was learning and stabilizing for now, with minimal overfitting. 
+Here are the results:
+Accuracy: The training accuracy starts at about 82% in the first epoch and quickly rises to around 94%, staying stable there. This means the model is learning to classify the data well and has reached a high level of accuracy quickly.
+Loss: The training loss (a measure of model error) starts higher (around 0.8) and decreases to around 0.22, showing the model is reducing its error as it trains.
+Validation Accuracy: The validation accuracy (on unseen data) is consistently around 94%, indicating that the model performs similarly on data it hasn’t seen before. This stable value suggests the model generalizes well without overfitting.
+Validation Loss: The validation loss remains fairly constant (around 0.24) after a few epochs, showing no signs of overfitting.
+
+Since the model doesn’t appear to learn anything new for most of the cycles, an extension of this could be implementing early stopping, to stop the model training when there are no improvements
+
+## Next Steps
+The next steps would be to obtain concrete visualizations for all of the questions posed by Spark. We want to take these visualizations and see how we can extend them, make them interactive, or simply better them for comprehension of the reader. Some of our visualizations have a lot of variables due to the nature of the departments of Boston being split up for specificity. As a result, we aim to work towards more interesting visualizations that can capture the scope of these variables and present more meaningful relationships. 
+
+Further, our model does not use a testing data set, so utilizing train_test_split will hopefully give us a better understanding of its accuracy.
+
+### Retained from Proposal
 ## **Goals**  
 With this project we aim to answer the following questions:
 
