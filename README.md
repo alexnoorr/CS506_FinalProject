@@ -55,7 +55,7 @@ We included some records from surrounding years (e.g., late 2010 and early 2012 
 To begin modeling, we explored relationships between variables based on Spark's questions. Using an API call to fetch the data was time-consuming, so we utilized Pickle files to store data, processing it in batches for efficiency.
 
 ### Visualization of Submission Source Trends
-![Image Description]([https://github.com/image.jpg](https://github.com/alexnoorr/CS506_FinalProject/blob/main/visualizations/q3.png))
+![Image Description](https://raw.githubusercontent.com/alexnoorr/CS506_FinalProject/main/visualizations/q3.png)
 Using Matplotlib, we visualized trends in 311 requests, showing a shift from traditional calls to app-based reporting over time. Constituent Calls were initially dominant, but the Citizens Connect App grew rapidly from 2014, peaking by 2023. Meanwhile, City Worker App and Employee Generated reports saw steady but limited use, reflecting specific applications. The slight decline in 2024 may suggest a plateau or the emergence of new platforms. Overall, the data indicates a shift toward digital reporting for civic issues.
 
 ### Top 5 Requests
