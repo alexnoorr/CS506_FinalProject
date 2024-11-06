@@ -1,14 +1,89 @@
-  
-**Project Proposal \- 311 Reports**  
-**Spark Project Link:** [https://docs.google.com/document/d/14a1OMTLvDSXaO1UOsfY3aME3oEkhH9RgcbPRol194EI/edit](https://docs.google.com/document/d/14a1OMTLvDSXaO1UOsfY3aME3oEkhH9RgcbPRol194EI/edit)
+# An Analysis of 311 Reports in Boston
+**CS506 Spark! Midterm Report**
 
-**NYC 311 Example:**  
-[https://towardsdatascience.com/analyzing-and-modelling-nyc-311-service-requests-eb6a9c9adc7c](https://towardsdatascience.com/analyzing-and-modelling-nyc-311-service-requests-eb6a9c9adc7c)
+**Presentation Link:** [https://youtu.be/g1BpLXyPG_Q](https://youtu.be/g1BpLXyPG_Q)
 
-**Description**  
-Boston’s 311 service is intended to connect city residents with highly trained service representatives that can mobilize city resources in order to address pressing non-emergency concerns around the city. The service is available in 11 languages, 24 hours a day, 365 days a year. To make sure this service is as efficient and equitable as possible, the city of Boston has partnered with BU Spark\! to analyze how (and which) communities are using it. 
+---
 
-**Goals**  
+## Introduction
+Boston’s 311 service connects city residents with trained representatives to mobilize city resources for non-emergency concerns. Available in 11 languages, 24/7, and updated daily, our project explores trends in 311 requests over the last 13 years (2011-2024) and aims to build a neural network to classify the Government department that will respond to a given call. Through data analysis, we answered various questions to uncover relationships between key factors.
+
+---
+
+## Preliminary Analysis of Data
+Analyze Boston is an open data hub, housing all public data on Boston, including 311 reports. Before processing, we assessed the datasets to understand the overall picture.
+
+### Key Columns:
+- **open_dt:** Date the case was opened.
+- **closed_dt:** Date the case was closed.
+- **case_status:** Status of the case (e.g., "Closed").
+- **on_time:** Whether the case was closed on time ("ONTIME" or "NOT_ONTIME").
+- **queue:** Specific queue for the case.
+- **subject:** Assigned department.
+- **fire_district:** Fire district for the case.
+- **pwd_district:** Public Works district for the case.
+- **neighborhood:** Specified neighborhood by the caller.
+- **type:** Detailed case type.
+- **department:** Department handling the case.
+- **source:** Method of submission (e.g., app, phone call).
+
+We obtained the data using the CKAN Datastore API.
+
+---
+
+## Data Preprocessing/Cleaning
+The 311 reports are continuously updated. To ensure consistency, we selected specific dates to stop data collection, making sure each question was based on data fetched in the same week.
+
+| Question/Goal | Date Fetched | Data Count |
+|---------------|--------------|------------|
+| 1             | 30th October | 3,039,306  |
+| 2             | 3rd November | 3,041,981  |
+| 3             | 29th October | 3,038,355  |
+| 4             | 3rd November | 3,041,981  |
+| 5             | 30th October | 3,039,306  |
+| 6             | 1st November | 3,039,306  |
+| 7             | 1st November | 3,039,306  |
+| 8             | 3rd November | 3,041,981  |
+
+We included some records from surrounding years (e.g., late 2010 and early 2012 entries in the 2011 dataset) upon receiving approval from Spark. We then:
+- Removed records outside the main year range.
+- Combined data across years into a unified dataset for easier access.
+
+---
+
+## Data Processing + Visualizations
+To begin modeling, we explored relationships between variables based on Spark's questions. Using an API call to fetch the data was time-consuming, so we utilized Pickle files to store data, processing it in batches for efficiency.
+
+### Visualization of Submission Source Trends
+Using Matplotlib, we visualized trends in 311 requests, showing a shift from traditional calls to app-based reporting over time. Constituent Calls were initially dominant, but the Citizens Connect App grew rapidly from 2014, peaking by 2023. Meanwhile, City Worker App and Employee Generated reports saw steady but limited use, reflecting specific applications. The slight decline in 2024 may suggest a plateau or the emergence of new platforms. Overall, the data indicates a shift toward digital reporting for civic issues.
+
+### Top 5 Requests
+Among hundreds of unique requests, the top issues included vehicles and traffic, trash, and city maintenance.
+
+---
+
+## Data Modeling
+The Boston 311 datasets contain various descriptors for each case. We used the **Type** column to predict the department. Due to time constraints, we used only 0.01% of the data (30,000 rows).
+
+```python
+tokenizer = Tokenizer()
+tokenizer.fit_on_texts(subset_df['type'])
+type_matrix = tokenizer.texts_to_matrix(subset_df['type'], mode='binary')
+
+label_encoder = LabelEncoder()
+department_labels = label_encoder.fit_transform(subset_df['department'])
+department_one_hot = to_categorical(department_labels)
+
+model = Sequential()
+model.add(Dense(128, input_shape=(type_matrix.shape[1],), activation='relu'))
+model.add(Dense(64, activation='relu'))
+model.add(Dense(department_one_hot.shape[1], activation='softmax'))
+
+model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
+model.fit(type_matrix, department_one_hot, epochs=50, validation_split=0.2)
+
+---
+## **Goals**  
 With this project we aim to answer the following questions:
 
 - What is the total volume of requests per year, or how many 311 requests is the city receiving per year?  
@@ -21,20 +96,6 @@ With this project we aim to answer the following questions:
 - What % of service requests are closed (CLOSED\_DT or CASE\_STATUS) vs. no data (CASE\_STATUS \= null) vs. unresolved (CASE\_STATUS \= open)?
 
 Our analysis and visualizations focus on improving how the City operates. This project will help the city understand trends that can be addressed at a strategic level.
-
-**Data Collection**  
-We will be collecting data from the 311 Service Requests csv files: [https://data.boston.gov/dataset/311-service-requests](https://data.boston.gov/dataset/311-service-requests)  
-We will also be using the 311 Data Dictionary to define certain services and their code words, linked here: [https://data.boston.gov/dataset/311-service-requests/resource/b237f352-49d1-4423-804f-b478e4f24e61](https://data.boston.gov/dataset/311-service-requests/resource/b237f352-49d1-4423-804f-b478e4f24e61)  
-Based on the project goals, we will obtain the daily calls from the data.
-
-**Modeling Data**  
-Keras for Neural Networks- used to model which government services respond to which calls with increased accuracy
-
-**Visualizing Data**  
-Heatmap showing which areas of Boston generate the most requests (plotly) including the type of service request as well as government service. We will aim to potentially make this interactive.  
-A graph/chart representing total volume of requests received from 2011-2024, shows trends over time.  
-Bar chart showing volume of different types of requests.  
-A t-SNE plot for clustering similar groups (interactive). 
 
 **What to Plot**  
 Total volume of requests per year, for all years 2011-2024. Use this to obtain values for how many requests the city is receiving each year.   
