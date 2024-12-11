@@ -148,9 +148,9 @@ This is the design of our model:
 ```python
 model = Sequential()
 
-model.add(Dense(128, input\_shape=(X\_train.shape[1],), activation='relu')) model.add(Dense(64, activation='relu')) model.add(Dense(y\_train.shape[1], activation='softmax'))
+model.add(Dense(128, input_shape=(X_train.shape[1],), activation='relu')) model.add(Dense(64, activation='relu')) model.add(Dense(y_train.shape[1], activation='softmax'))
 
-model.compile(optimizer='adam', loss='categorical\_crossentropy', metrics=['accuracy'])
+model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 ```
 
 To learn non-trivial relationships, we incorporated two hidden layers of neurons, each using the ReLU activation function. ReLU helps the network capture nonlinear patterns as it will enable certain neurons to activate strongly in response to particular input combinations, while remaining inactive for others (all or nothing). As a result, the model can discern subtle distinctions—such as certain word patterns that correlate with specific departments when paired with particular resolution times.
@@ -165,9 +165,9 @@ These are the parameters we used to train our model:
 ```python
 history = model.fit
 
-X\_train, y\_train,
+X_train, y_train,
 
-epochs=50, validation\_data=(X\_val, y\_val), verbose=1
+epochs=50, validation_data=(X_val, y_val), verbose=1
 
 )
 ```
