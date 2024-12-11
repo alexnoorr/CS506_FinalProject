@@ -10,7 +10,7 @@ Boston's Open Data portal offers many city government datasets freely accessible
 
 We dropped several columns when cleaning our data that we found to be unimportant in our analysis. The first column we dropped was case enquiry id. There was no beneficial reason to know the id for each of the cases, as no one would know what it means. We also dropped the submitted and closed photo rows – there were around 2 to 3 million null rows meaning photos were not submitted in the 311 report. We also chose to drop the case title column because it did not provide any additional information beyond what was already included in the subject, reason, and type columns, which are more relevant to our analysis. Similarly, the closure reason column was removed since it was not necessary to address our eight base questions. The location street name and zip code columns were dropped because we already had the neighborhood column, which provides sufficient geographical context for our analysis. Several district-related columns, including precinct, pwd\_district, fire\_district, city\_council\_district, and police\_district, were also removed as they were not critical for answering our research questions. We decided to exclude the latitude, longitude, and geom\_4326 columns because they provided specific coordinates, which were unnecessary given that we were focusing on neighborhood-level insights rather than exact locations. Similarly, the neighbourhood services district column was deemed redundant since we already had the neighbourhood column, and the numerical district values did not add meaningful value to our analysis. Finally, we addressed the SLA\_target\_dt column, which contained unrealistic dates extending to the year 2062 for cases reported as early as 2011. Rows with these out-of-range dates were removed, leaving only cases with dates between 2011 and 2024. This resulted in the removal of 15,334 rows, ensuring our dataset contained only valid and realistic data points.
 
-**Initial Exploration**
+# **Initial Exploration**
 
 Now that we had our dataset cleaned we felt it important to perform an initial analysis of the requests over the last 13 years. One important trend we wanted to visualize was how the number of requests changes seasonally, year by year. This visualization is shown below:
 
@@ -46,7 +46,7 @@ We also looked at the average resolution time by neighborhood as illustrated by 
 
 Similarly, the sources used to issue complaints also varied across neighborhoods. The bar chart in Figure 4 compares the number of 311 issues reported across Boston neighborhoods by source type, such as the Citizens Connect App, Constituent Calls, and City Worker App. Constituent Calls and the Citizens Connect App dominate as the primary sources, reflecting their accessibility and popularity for issue reporting. Fenway/Kenmore/Audubon Circle/Longwood stands out for a high number of constituent calls, potentially indicating higher awareness or engagement. Neighborhood-specific trends may reflect differences in technology access, community engagement, or service needs. Identifying these patterns can inform outreach strategies and improve service equity.
 
-**Assumptions**
+## **Assumptions**
 
 We also considered a range of biases and assumptions to ensure a comprehensive and accurate analysis. For one, we acknowledged potential technical challenges and misroutings in the 311 call system, particularly with mobile app submissions, which could influence data accuracy. This understanding stemmed from insights into similar issues faced by other cities, where mobile apps for service requests like those in San Jose were present with problems that affected data reliability, as reported by [San Jose Spotlight](https://sanjosespotlight.com/san-jose-mobile-311-app-rife-with-problems-reporting-blight-abandoned-vehicles-graffiti-potholes/).
 
@@ -54,7 +54,7 @@ Public data has immense potential to empower communities and improve services by
 
 Another important consideration are that requests that get submitted towards the end of one year, but only closed in the following year. The minimal quantity of these cases meant we decided to include them as part of the current year (i.e. if a case opened in December 2014 only closed in January 2015, we included it as part of the 2014 data).
 
-**Visualizations + Explanations**
+# **Base Visualizations**
 
 What is the total volume of requests per year, or how many 311 requests is the city receiving per year?
 
@@ -120,15 +120,15 @@ Percentage of service requests are closed (CLOSED\_DT or CASE\_STATUS) vs. unres
 
 This plot shows the percentage of closed and unresolved cases in the data. We can see, for the most part, that the majority of cases per year are closed. However there are biases to take into account: cases that are opened towards the end of the year tend to be closed in the following year which can affect whether or not a case is deemed closed or null. This indicates a high closure rate but highlights a small proportion of unresolved cases that may need attention.
 
-**Model to predict responding departments**
+# **Model to predict responding departments**
 
 Our goal was to create a neural network model that could predict the responding department based on the type of request. However, there are some considerations we had to make. First, we can see that the Public Works Department (PWD) dominates the volume of calls, as illustrated in Figure 2. This is significant, as some departments respond to less than 1% of what the PWD responds to, leading to an unbalanced data set. This imbalance can bias the model toward predicting the majority class (PWD) and limit its ability to accurately identify and generalize to minority classes.
 
-**Dealing with Class Imbalances**
+## **Dealing with Class Imbalances**
 
 To mitigate this challenge, we employed an oversampling strategy. By increasing the representation of underrepresented departments, the training data became more balanced. This enables our neural network to better learn patterns associated with smaller classes. The goal was to maintain a realistic data distribution while still providing the model with enough variety to learn meaningful distinctions. In addition, we considered evaluating the model on both a *balanced* test set (oversampled to reflect a more even distribution) and a *random* subset of the original data (which retains the natural proportions of each department).
 
-**Feature Engineering**
+## **Feature Engineering**
 
 Our input features for the network were from textual descriptions in the ‘type’ column. We used Keras’ Tokenizer for tokenization, a process that converts the type descriptor into a vector of binary values, each value representing the presence/absence of words. This essentially created a bag-of-words for the model to use, providing a starting point for it to learn which terms were associated with particular departments.
 
@@ -140,7 +140,7 @@ To measure real-world performance, we also drew a random subset from the origina
 
 Furthermore, due to limited computing power we were unable to run our model on all three million rows. As a result, we took a random sample of 300,000 rows, ensuring that the sample was representative of the overall dataset in terms of class distribution and key features. This approach allowed us to train and evaluate the model efficiently while maintaining meaningful insights into the patterns and performance metrics of the full dataset.
 
-**Model Design**
+## **Model Design**
 
 For our models design, we implemented a feedforward neural network using Keras with a Sequential model, which allowed us to build our model layer-by-layer. The input layer matched the size of our feature vector, which combined both tokenized textual information (extracted from the request “type”) and a numeric feature representing resolution time. This setup ensures that the model receives all relevant data—both linguistic patterns and temporal context—at once.
 
@@ -170,7 +170,7 @@ epochs=50, validation\_data=(X\_val, y\_val), verbose=1
 
 )
 
-**Results**
+## **Results**
 
 On the balanced test set, where all departments were equally represented due to oversampling, the model achieved an accuracy of 86.48%. This indicates that the model learned meaningful patterns for both majority and minority classes, even those departments that are less frequently represented in the original dataset. The relatively low loss value of 0.4047 further confirms that the model was confident and accurate in its predictions for this balanced scenario.
 
@@ -188,7 +188,7 @@ The training and validation accuracy and loss trends further reinforce this conc
 
 In conclusion, the model’s ability to maintain high and consistent accuracy across both balanced and real-world test sets highlights its practical utility. It successfully handles the class imbalance inherent in 311 requests while ensuring that less frequent departments are not ignored. This makes it a robust and valuable tool for streamlining departmental assignments in Boston’s 311 system.
 
-**Conclusion**
+# **Conclusion**
 
 The results of our analysis suggest that machine learning models can play a significant role in improving the efficiency of municipal service delivery. A classifier like ours could help optimize the assignment of requests to departments, potentially speeding up response times and thus improving the quality of services provided to residents. Moreover, these methods could be expanded to analyze patterns in service delivery, helping policymakers understand which types of requests are most common and how they are resolved (the departments that will respond etc.). Understanding these high-volume request types allows for better prioritization of resources and more strategic planning, ensuring that recurring problems are addressed proactively.
 
