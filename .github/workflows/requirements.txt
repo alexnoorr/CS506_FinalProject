@@ -1,4 +1,6 @@
-
+numpy
+pandas
+keras
 pandas
 numpy
 tensorflow
