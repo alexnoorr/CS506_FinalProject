@@ -148,7 +148,9 @@ This is the design of our model:
 ```python
 model = Sequential()
 
-model.add(Dense(128, input_shape=(X_train.shape[1],), activation='relu')) model.add(Dense(64, activation='relu')) model.add(Dense(y_train.shape[1], activation='softmax'))
+model.add(Dense(128, input_shape=(X_train.shape[1],), activation='relu'))
+model.add(Dense(64, activation='relu'))
+model.add(Dense(y_train.shape[1], activation='softmax'))
 
 model.compile(optimizer='adam', loss='categorical_crossentropy', metrics=['accuracy'])
 ```
@@ -163,7 +165,7 @@ We tracked accuracy as our performance metric to gauge how often the model’s t
 
 These are the parameters we used to train our model:
 ```python
-history = model.fit
+history = model.fit(
 
 X_train, y_train,
 
