@@ -14,7 +14,7 @@ We dropped several columns when cleaning our data that we found to be unimportan
 
 Now that we had our dataset cleaned we felt it important to perform an initial analysis of the requests over the last 13 years. One important trend we wanted to visualize was how the number of requests changes seasonally, year by year. This visualization is shown below:
 
-![Seasonal Requests Visualization](Base%20Questions/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.001.jpeg)
+![Seasonal Requests Visualization](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.001.jpeg)
 
 **Figure 1.** Seasonal changes in number of requests per year
 
