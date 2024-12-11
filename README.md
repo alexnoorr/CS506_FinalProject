@@ -28,19 +28,19 @@ Further we noticed drops in spring of 2020, likely due to COVID-19. The pandemic
 
 Another important trend that we wanted to look at was the most frequent 311 complaints by department, as shown in Figure 2.
 
-![](Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.002.jpeg)
+![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.002.jpeg)
 
 **Figure 2.** Most Frequent 311 Complaint Types by Department
 
 This gives us a good insight into which subjects have the most complaints coming in from 2011 to 2024. The PWDx department has the most complaints by over one million compared to the BTDT, the department with the second highest complaints. We could attempt to predict the department that a complaint will be assigned to using a machine learning algorithm. However, the skewed distribution of data creates an unbalanced dataset, which we need to account for in our analysis and training.
 
-![](Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.003.jpeg)
+![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.003.jpeg)
 
 **Figure 3.** Average 311 resolution time across Boston neighborhood
 
 We also looked at the average resolution time by neighborhood as illustrated by Figure 3. Notably, Fenway/Kenmore/Audubon Circle/Longwood and South Boston exhibit significantly higher resolution times compared to others. This potentially reflects higher service demands or operational inefficiencies in these areas. Conversely, neighborhoods like West Roxbury and Jamaica Plain show shorter resolution times, which might suggest more effective service delivery or lower service request volumes. Understanding these disparities can guide resource allocation and operational improvements.
 
-![](Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.004.png)
+![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.004.png)
 
 **Figure 4.** Distribution of sources used to report issues across Boston neighborhoods
 
@@ -58,7 +58,7 @@ Another important consideration are that requests that get submitted towards the
 
 What is the total volume of requests per year, or how many 311 requests is the city receiving per year?
 
-![](Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.005.jpeg)
+![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.005.jpeg)
 
 **Figure 5.** Total volume of request from 2012 to 2024
 
@@ -72,7 +72,7 @@ Due to the high volume of queues, they were separated into individual graphs, an
 
 How is the case volume changing by submission channel SOURCE?
 
-![](Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.006.jpeg)
+![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.006.jpeg)
 
 **Figure 6.** Total volume of request from 2012 to 2024
 
@@ -80,7 +80,7 @@ This trend shows a shift from traditional calls to app-based reporting over time
 
 What is the average # of daily contacts by year?
 
-![](Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.007.jpeg)
+![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.007.jpeg)
 
 **Figure 7.** Average Number of Daily Contacts by Year
 
@@ -88,7 +88,7 @@ This visualization depicts the average number of daily contacts to the Boston 31
 
 Volume of top 5 request types (TYPE)
 
-![](Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.008.jpeg)
+![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.008.jpeg)
 
 **Figure 8.** Top 5 most frequent 311 request Types
 
@@ -98,7 +98,7 @@ These top requests align with urban priorities: managing parking in crowded area
 
 Average goal resolution time by QUEUE
 
-![](Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.009.jpeg)
+![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.009.jpeg)
 
 **Figure 9.** Average Resolution Time by Queue
 
@@ -106,7 +106,7 @@ This boxplot shows the distribution of resolution times for the top 20 service r
 
 Average goal resolution time by QUEUE and NEIGHBORHOOD
 
-![](Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.010.jpeg)
+![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.010.jpeg)
 
 **Figure 10.** Average Resolution Time by Queue and Neighborhood
 
@@ -114,7 +114,7 @@ This heatmap visualizes the average resolution times for different service reque
 
 Percentage of service requests are closed (CLOSED\_DT or CASE\_STATUS) vs. unresolved (CASE\_STATUS = open)
 
-![](Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.011.jpeg)
+![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.011.jpeg)
 
 **Figure 11.** Distribution of Closed and Unresolved Service Requests
 
@@ -146,7 +146,7 @@ For our models design, we implemented a feedforward neural network using Keras w
 
 This is the design of our model:
 
-model = Sequential()![](Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.012.png)
+model = Sequential()![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.012.png)
 
 model.add(Dense(128, input\_shape=(X\_train.shape[1],), activation='relu')) model.add(Dense(64, activation='relu')) model.add(Dense(y\_train.shape[1], activation='softmax'))
 
@@ -162,7 +162,7 @@ We tracked accuracy as our performance metric to gauge how often the model’s t
 
 These are the parameters we used to train our model:
 
-history = model.fit(![](Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.013.png)
+history = model.fit(![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.013.png)
 
 X\_train, y\_train,
 
@@ -176,11 +176,11 @@ On the balanced test set, where all departments were equally represented due to 
 
 When evaluated on the random original subset, which maintains the real-world distribution of departments, the model achieved a slightly higher accuracy of 87.12%. This result highlights the model's robustness and its ability to generalize effectively to the imbalanced data distribution, where the Public Works Department (PWD) dominates the call volume. This allows us to safely assume no overfitting is taking place. The slightly lower loss of 0.3697 on this dataset reflects the model's confidence in making predictions for real-world scenarios. The similarity in performance between the balanced and random test sets suggests that the oversampling strategy and feature engineering—such as the inclusion of textual descriptors and resolution time—allowed the model to avoid overfitting to the balanced training data and maintain high generalization performance.
 
-![](Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.014.jpeg)
+![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.014.jpeg)
 
 **Figure 12**. Accuracy graph over 50 epochs
 
-![](Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.015.jpeg)
+![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.015.jpeg)
 
 **Figure 13.** Loss over 50 Epochs
 
