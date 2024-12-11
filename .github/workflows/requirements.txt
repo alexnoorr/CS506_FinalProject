@@ -1,7 +1,8 @@
 numpy
 pandas
 keras
-pandas
-numpy
 tensorflow
 pytest
+matplotlib
+seaborn
+
