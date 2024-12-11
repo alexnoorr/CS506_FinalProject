@@ -145,12 +145,13 @@ Furthermore, due to limited computing power we were unable to run our model on a
 For our models design, we implemented a feedforward neural network using Keras with a Sequential model, which allowed us to build our model layer-by-layer. The input layer matched the size of our feature vector, which combined both tokenized textual information (extracted from the request “type”) and a numeric feature representing resolution time. This setup ensures that the model receives all relevant data—both linguistic patterns and temporal context—at once.
 
 This is the design of our model:
-
-model = Sequential()![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.012.png)
+```python
+model = Sequential()
 
 model.add(Dense(128, input\_shape=(X\_train.shape[1],), activation='relu')) model.add(Dense(64, activation='relu')) model.add(Dense(y\_train.shape[1], activation='softmax'))
 
 model.compile(optimizer='adam', loss='categorical\_crossentropy', metrics=['accuracy'])
+```
 
 To learn non-trivial relationships, we incorporated two hidden layers of neurons, each using the ReLU activation function. ReLU helps the network capture nonlinear patterns as it will enable certain neurons to activate strongly in response to particular input combinations, while remaining inactive for others (all or nothing). As a result, the model can discern subtle distinctions—such as certain word patterns that correlate with specific departments when paired with particular resolution times.
 
@@ -161,15 +162,15 @@ For training, we chose “categorical\_crossentropy” as our loss function, sin
 We tracked accuracy as our performance metric to gauge how often the model’s top prediction matched the true department. During the 50 training epochs, we monitored both training and validation metrics. The validation set—held out from training—served as a checkpoint to ensure that improvements weren’t due to the model simply memorizing the training examples. If validation accuracy began to plateau or decline while training accuracy continued to rise, it would suggest overfitting. This monitoring process allowed us to confirm that our model wasn’t just learning idiosyncrasies from the training data, but instead capturing meaningful patterns that generalize to previously unseen examples.
 
 These are the parameters we used to train our model:
-
-history = model.fit(![](Report%20Images/Aspose.Words.e2b11206-c18e-42f8-b5d7-a7410d431a32.013.png)
+```python
+history = model.fit
 
 X\_train, y\_train,
 
 epochs=50, validation\_data=(X\_val, y\_val), verbose=1
 
 )
-
+```
 ## **Results**
 
 On the balanced test set, where all departments were equally represented due to oversampling, the model achieved an accuracy of 86.48%. This indicates that the model learned meaningful patterns for both majority and minority classes, even those departments that are less frequently represented in the original dataset. The relatively low loss value of 0.4047 further confirms that the model was confident and accurate in its predictions for this balanced scenario.
